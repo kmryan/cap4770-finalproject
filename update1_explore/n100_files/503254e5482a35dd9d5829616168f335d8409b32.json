@@ -1,0 +1,593 @@
+{
+    "paper_id": "503254e5482a35dd9d5829616168f335d8409b32",
+    "metadata": {
+        "title": "Chemistsi nt he Community Thoughts on What Chemists Can Contribute to Fighting SARS-CoV-2 -AShort Note on Hand Sanitizers,Drug Candidates and Outreach Till Opatz, Joerg Senn-Bilfinger,and Clemens Richert* alcohols \u00b7a ntivirals \u00b7disinfectants \u00b7p andemic \u00b7 SARS-CoV-2",
+        "authors": []
+    },
+    "abstract": [
+        {
+            "text": "The SARS-CoV-2 outbreak causing the respiratory disease COVID-19 has left many chemists in academia without an obvious option to contribute to fighting the pandemic.Some of our recent experiences indicate that there are ways to overcome this dilemma. At hree-pronged approach is proposed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Thei nterruption of infection chains through appropriate hand sanitization was pioneered in 1847 by the Hungarian physician Semmelweis Ign\u00b5cF \u00fcl\u00e7p (Ignaz Philipp Semmelweis) and became what is probably the first example of evidence-based medicine. [4] Isolation or quarantine,s ocial distancing and physical barriers like masks,a re additional measures to slow the transmission of respiratory viruses. Other measures,l ike prophylactic coating of airways with polymers,a re under development. [5] Frequent handwashing proved effective against the spread of the first severe acute respiratory syndrome pandemic in 2002/2003 [6] and of the Middle East respiratory syndrome (MERS) in 2007. [7] However,t his hygienic measure is not easy to implement for individuals with frequent customer or patient contact or travelers.H and sanitizer solutions or gels are recommended as an alternative in these cases.A mong the most popular sanitizers are alcoholic hand rub solutions.",
+            "cite_spans": [
+                {
+                    "start": 248,
+                    "end": 251,
+                    "text": "[4]",
+                    "ref_id": null
+                },
+                {
+                    "start": 493,
+                    "end": 496,
+                    "text": "[5]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 623,
+                    "end": 626,
+                    "text": "[6]",
+                    "ref_id": null
+                },
+                {
+                    "start": 687,
+                    "end": 690,
+                    "text": "[7]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Hand Sanitizers"
+        },
+        {
+            "text": "While non-enveloped viruses like norovirus or rhinoviruses have al ow sensitivity towards alcoholic denaturing agents,members of the (enveloped) coronaviridae family are highly sensitive towards ethanol or isopropanol (2-propanol) . Chlorhexidine gluconate and sodium hypochlorite were found to be surprisingly inefficient. [8] Repeated use of alcohols dries out the skin, and small quantities of the alcohols may be absorbed, but they are effective. [9] The literature on the inactivation of previously known coronaviruses by surface disinfection procedures suggested 62-71 % ethanol to be effective against SARS-CoV-2 within 1min. [10] Experimental work by several laboratories on the virus itself then showed that it is even less stable toward denaturation by alcoholic solutions. [11] Exposure to concentrations of just 30 % of either ethanol or isopropanol for 30 seconds fully suppressed viral infectivity.Likewise,the virucidal activity of the hand rub solutions known as WHO formulation 1, with 85 % ethanol, and WHO formulation 2, with 75 %i sopropanol, against SARS-CoV-2 was found to be excellent, with full inactivation of the coronavirus at 40 %or30%concentration, respectively.W hile the alcohol component is the main virucide,0 .125 % v/v H 2 O 2 is added to kill bacterial spores that may be present in the raw materials or the container.The addition of 1.45 % v/v glycerol as ah umectant improves the dermatological properties and thus the acceptance of the product. [12] Fors urface disinfection, the same formulation may be used, with no additives required, and surgical hand preparation may be achieved by three applications for aduration of 3-5 min.",
+            "cite_spans": [
+                {
+                    "start": 218,
+                    "end": 230,
+                    "text": "(2-propanol)",
+                    "ref_id": null
+                },
+                {
+                    "start": 324,
+                    "end": 327,
+                    "text": "[8]",
+                    "ref_id": null
+                },
+                {
+                    "start": 451,
+                    "end": 454,
+                    "text": "[9]",
+                    "ref_id": null
+                },
+                {
+                    "start": 633,
+                    "end": 637,
+                    "text": "[10]",
+                    "ref_id": null
+                },
+                {
+                    "start": 784,
+                    "end": 788,
+                    "text": "[11]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1484,
+                    "end": 1488,
+                    "text": "[12]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Hand Sanitizers"
+        },
+        {
+            "text": "Unfortunately,c ommercial sanitizer solutions containing either alcohol can be difficult to obtain in the current health crisis.W ea re unaware of data for other countries,b ut data published by the German Federal Statistical Office (Destatis) show the severity of the problem. During the week of March 2-8, 2020, sales of disinfectants were 7.5-fold higher than usual, and in the subsequent weeks,they dropped to half the normal sales,a st he products were largely sold out. [13] By comparison, the increase in sales of soap reached ap eak of 3.4-fold of the average and that of toilet paper just 2.1-fold of the sales averaged over the preceding six months.",
+            "cite_spans": [
+                {
+                    "start": 233,
+                    "end": 243,
+                    "text": "(Destatis)",
+                    "ref_id": null
+                },
+                {
+                    "start": 476,
+                    "end": 480,
+                    "text": "[13]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Hand Sanitizers"
+        },
+        {
+            "text": "Ethanol is produced on al arge scale on our planet. The U.S. Renewable Fuels Association reported that 85 million metric tons were produced in 2018 worldwide. [14] TheE uropean renewable ethanol association (ePURE)stated that the production of the European Union in the same year was 4.6 million metric tons,while an additional 0.5 million tons were imported. [15] Besides minor usage by the chemical industry and food and beverages production (9 %e ach), the lions share (82 %) of the production was used as af uel additive. Against the backdrop of reduced individual mobility during the crisis in most countries,i ta ppears likely that enough (bio)ethanol should currently be available for the health sector.",
+            "cite_spans": [
+                {
+                    "start": 159,
+                    "end": 163,
+                    "text": "[14]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 360,
+                    "end": 364,
+                    "text": "[15]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Hand Sanitizers"
+        },
+        {
+            "text": "Several factors appeared to contribute to the supply problems.A sm entioned above,o ne factor was hoarding by consumers who bought unreasonable quantities of sanitizers while they were still available,q uickly depleting what pharmacies and drug stores had in stock. Furthermore,t he supply chain was partially disrupted. While truckloads of ethanol were available in Europe,t he logistics of getting trucks to sites that can fill 200 Ld rums became more challenging due to closed or tightly controlled borders. Drums of this size then had to be transported to facilities that can either produce sanitizers or fill the smaller containers commonly used by pharmacists.F urthermore,t he containers used in medical practices,a sw ell as the dispensers used by physicians,health care workers,and consumers,became ever more difficult to obtain, prompting unconventional measures, such as refills.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Hand Sanitizers"
+        },
+        {
+            "text": "On March 4, the Bundesanstalt f\u00fcrA rbeitsschutz und Arbeitsmedizin (BAuA), [16] the relevant regulatory body in Germany,issued adecree that allowed pharmacies to produce hand sanitizer solutions locally.T he decree and its update of March 6c onfirmed that aqueous solutions of ethanol do not require regulatory approval to be produced for sale as biocidical agents.T he first decree also explicitly mentioned aqueous 2-propanol (70 %) and WHO formulation 2a s biocidal agents for hand hygiene.",
+            "cite_spans": [
+                {
+                    "start": 75,
+                    "end": 79,
+                    "text": "[16]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Hand Sanitizers"
+        },
+        {
+            "text": "Unfortunately,medical grade alcohol as astarting material for the local production of disinfectant solutions,including hand rub formulations,was largely sold out in Germany in the second week of March. Theu sual suppliers of pharmacists typically gave delivery times of several weeks at the peak of the supply crunch. This left technical grade ethanol or isopropanol of unknown purity as the only available starting material for the preparation of hand rub formulations. Without analysis,t his source was considered problematic by many.S olving the analytical problem is where organic chemists in academia were able to contribute.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Hand Sanitizers"
+        },
+        {
+            "text": "TheB AUAd ecree mentions ap urity of 99 %( w/w)o r 99.22 %( v/v)f or isopropanol to be in accordance with EU law.T he WHO guideline states that analysis should be made when an analysis certificate is not available to verify the alcohol concentration and to adjust the volume used to obtain the final recommended concentration. What local pharmacists use for quality control and what the WHO guideline mentions is an alcoholmeter that measures the density of the liquid, but does not provide information on its chemical composition. Gas chromatography is mentioned in the WHO guideline for higher level quality control,b ut this option is largely unavailable to pharmacists in the field.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Hand Sanitizers"
+        },
+        {
+            "text": "We and others then analyzed technical grade isopropanol and ethanol by 1 HN MR spectroscopy.A1% solution of either alcohol in CDCl 3 gave well-resolved spectra with excellent signal-to-noise ratio,s howing minimal levels of impurities.For isopropanol, acetone was detected as the most prominent trace impurity by spiking with authentic material. Due to its low toxicity and its traditional use in nail polish remover,t his impurity was considered unproblematic for hand rubs,a nd the purity of our technical grade isopropanol was declared sufficient for producing hand sanitizer locally together with ac ollaborating pharmacist. As ac onsequence, substantial supplies of the alcohol could be freed up for local production quickly.A so fm id April, over 2m etric tons of WHO formulation 2have been delivered to physicians in the State of Baden-W\u00fcrttemberg.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Hand Sanitizers"
+        },
+        {
+            "text": "Another area where chemists may contribute is the development of antiviral drugs.S mall molecule drugs have been game changers in the fight against other viruses.Among them are AZT (ZDV, Zidovudin, Retrovir), [17] an ucleoside reverse transcriptase inhibitor and the first compound approved to treat AIDS.A nother break-through antiviral drug is sofosbuvir (1,trade name Sovaldi)shown in Figure 1 , [18] an inhibitor of the RNA-dependent RNAp olymerase of hepatitis Cvirus (HCV) that is able to cure patients of the vicious disease caused by this virus.L ike SARS-CoV-2, HCV is an enveloped, single-stranded, positive-sense RNAvirus.",
+            "cite_spans": [
+                {
+                    "start": 209,
+                    "end": 213,
+                    "text": "[17]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 399,
+                    "end": 403,
+                    "text": "[18]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 388,
+                    "end": 396,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Antiviral Therapy"
+        },
+        {
+            "text": "While SARS-CoV-2 is commonly described as a\" novel\" virus,genetically,itisclosely related to the SARS coronavirus (SARS-CoV or SARS-CoV-1). [1] TheR NA-dependent RNA polymerase (RdRp) is 96 %h omologous for the two viruses. This polymerase is ap rime target for antiviral therapy,a s human cells do not contain such an enzyme that copies RNA sequences into RNA. Tw oo ther drug targets are the main proteinase (3CL pro )a nd the spike protein of the viral envelope,w ith am uch lower level of sequence identity.A review of this and the avenues it offers for drug intervention can be found in arecent paper by Liu and colleagues. [19] In this context, it is worth mentioning that opportunities for therapy were identified for SARS-CoV-1 more than 15 years ago. [20] [21] [22] Another betacoronavirus that is related to SARS-CoV-2 is the virus causing MERS.Again, this virus has been studied in detail, and options for therapeutic intervention have been identified. [23, 24] Successful RNAp olymerase inhibitors,s uch as sofosbuvir, [18] work by incorporating modified nucleosides into the viral genome that halt viral replication. This approach has been very successful in the treatment of hepatitis C, which can be cured within ashort treatment period. Thedrug sofosbuvir is ap hosphoramidate prodrug or ProTide,atype of compound pioneered by Chris McGuigan. [25] It is metabolized in the liver in several steps into its active triphosphate form, which is recognized and incorporated as an analog of uridine-5'-triphosphate by the hepatitis-C virus polymerase.O ne of the frontrunner drug candidates for the treatment of COVID-19, remdesivir (2), is as imilar prodrug construct. It is a Cnucleoside mimic of adenosine monophosphate [26] in ProTide phenyl phosphoramidate form. Remdesivir was developed by Gilead Sciences to combat Ebola and related filoviruses,b ut did not have sufficient activity against these targets.In2017, it was shown in vitro and in animals that it can inhibit MERS-CoV and SARS-CoV-1 replication. [27] In the replication processes,remdesivir, in its triphosphate form, competes with its natural counterpart, adenosine-triphosphate (ATP), inducing RNAc hain termination.",
+            "cite_spans": [
+                {
+                    "start": 140,
+                    "end": 143,
+                    "text": "[1]",
+                    "ref_id": null
+                },
+                {
+                    "start": 629,
+                    "end": 633,
+                    "text": "[19]",
+                    "ref_id": null
+                },
+                {
+                    "start": 760,
+                    "end": 764,
+                    "text": "[20]",
+                    "ref_id": null
+                },
+                {
+                    "start": 765,
+                    "end": 769,
+                    "text": "[21]",
+                    "ref_id": null
+                },
+                {
+                    "start": 770,
+                    "end": 774,
+                    "text": "[22]",
+                    "ref_id": null
+                },
+                {
+                    "start": 964,
+                    "end": 968,
+                    "text": "[23,",
+                    "ref_id": null
+                },
+                {
+                    "start": 969,
+                    "end": 972,
+                    "text": "24]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1031,
+                    "end": 1035,
+                    "text": "[18]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1359,
+                    "end": 1363,
+                    "text": "[25]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1732,
+                    "end": 1736,
+                    "text": "[26]",
+                    "ref_id": null
+                },
+                {
+                    "start": 2023,
+                    "end": 2027,
+                    "text": "[27]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Antiviral Therapy"
+        },
+        {
+            "text": "Based on the high sequence similarity between SARS-CoV-1 and the causal agent of the COVID-19 pandemic, homology modeling was used to predict the 3D structures of the RdRp and other important viral proteins of the latter.Out of the more than 20 viral proteins encoded in the SARS-CoV-2 genome,p roteases 3CL pro ,m entioned above, and PL pro represent potential targets for antiviral drugs.T he 3-chymotrypsin-like protease (3CL pro )ofSARS-CoV-2 differs in only 12 out its 306 amino acid residues from its ortholog in SARS-CoV-1. Its structure was quickly predicted in silico and this was used for the virtual docking of ac ollection of 7173 commercial drugs in the search for candidates for drug repurposing. [28] Among the top-scoring candidates,f or which the highest binding affinities were predicted, were the two antivirals velpatasvir and ledipasvir. Both compounds are FDA-approved inhibitors of the NS5A protein of the hepatitis Cv irus,b ut so far, the predicted action against the SARS-CoV-2 3CL pro has not been confirmed experimentally.A similar approach on the same enzyme was employed by another team, and led to different candidate structures, [29] while ateam from China and Saudi Arabia chose to identify phytochemicals as potential inhibitors in similar fashion using in silico methods. [30] While modeling is fast, it does not produce an ew drug, and experimental work is needed to validate those predictions.Arecent crystal structure of 3CL pro ,a lso referred to as M pro ,c omplexed with an aketoamide inhibitor shows how quickly encouraging results can be obtained experimentally. [31] Ac rystal structure of the RdRp of SARS-CoV-2 has also been published in the last few days. [32] One of the most detailed theoretical studies thus far used homology modeling on 19 different SARS-CoV-proteins and on the human ACE2 receptor protein, the putative molecular entry vehicle for the virus into human cells,f or virtual drug screening. [33] Fore ach viral protein and for the ACE2 receptor,s everal drugs or natural products were identified as potential binders.N otably,r emdesivir was also found to bind to the RdRp enzyme of SARS-CoV-2 in silico.E xperimentally,activity against SARS-CoV-2 was also demonstrated in vitro. [34] In the same experimental study,a ntiviral activity was found for the antimalarial drug chloroquine, which is unlikely to act on either RdRp or proteases. Chloroquine and hydroxychloroquine [35] act on several targets and can have severe side effects.T heir anti-inflammatory effect may reduce the level of pro-inflammatory cytokine IL-6, mobilized by the immune system of COVID-19 patients in order to kill infected cells before too many copies of the virus are made.S ometimes this defense mechanism overreacts, resulting in al ife-threatening condition. [36] Both remdesivir and chloroquine,are currently among the compounds undergoing clinical trials with COVID-19 patients.",
+            "cite_spans": [
+                {
+                    "start": 711,
+                    "end": 715,
+                    "text": "[28]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1161,
+                    "end": 1165,
+                    "text": "[29]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1307,
+                    "end": 1311,
+                    "text": "[30]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1606,
+                    "end": 1610,
+                    "text": "[31]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1703,
+                    "end": 1707,
+                    "text": "[32]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1956,
+                    "end": 1960,
+                    "text": "[33]",
+                    "ref_id": null
+                },
+                {
+                    "start": 2245,
+                    "end": 2249,
+                    "text": "[34]",
+                    "ref_id": null
+                },
+                {
+                    "start": 2439,
+                    "end": 2443,
+                    "text": "[35]",
+                    "ref_id": null
+                },
+                {
+                    "start": 2806,
+                    "end": 2810,
+                    "text": "[36]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Antiviral Therapy"
+        },
+        {
+            "text": "Thes ynthesis of compounds like remdesivir is far from trivial, though, not least because the amino acid ester and aryloxy group make the phosphorus of the phosphoramidate astereogenic center.Synthesizing chiral phosphoramidates of this level of complexity is as ynthetic challenge, [37] and so is the synthesis of other drug candidates for treating the virus that will be identified by homology modeling and targetbased virtual ligand screening or conventional medicinal chemistry approaches.Developing efficient syntheses for such compounds and making them available to laboratories that test them is as econd opportunity for chemists who wish to contribute to fighting SARS-CoV-2.",
+            "cite_spans": [
+                {
+                    "start": 283,
+                    "end": 287,
+                    "text": "[37]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Antiviral Therapy"
+        },
+        {
+            "text": "There is at hird opportunity for chemists in the current crisis:r eaching out to others through our scientific societies. When av irus spreads and employees stay home,r unning an efficient operation becomes difficult. As soon as an employee gets infected and obtains apositive test result, entire divisions may be shut down to prevent the spreading of the virus. Colleagues in quarantine must be provided with food and other supplies,a nd homeschooling ties up significant resour- Angewandte Chemie Viewpoint ces.A saconsequence,m any members of our societies are experiencing unprecedented levels of stress or are too overwhelmed by emails and calls to remain fully operational. This problem affects the supply chain from drivers to executives, but it is not limited to logistics and production. It also affects authorities.T he apparent suicide of Dr. Thomas Sch\u00e4fer,the minister of finance of the German State of Hesse,i satragic example of what can happen to those put under ever increasing pressure in the current pandemic.T rying to spread useful information through governmental channels can thus add to the stress level of administrators.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outreach"
+        },
+        {
+            "text": "We feel that the network our scientific societies,s uch as the German Chemical Society (GDCh), offer can and should be used to reach out to each other.Social media can be very useful, but are also the source of unfiltered anger and accusations.Emails to aselect group of colleagues,such as the members of the Liebig-Vereinigung, the organic division of the GDCh, well maintained and checked by the officers of the society,can be away to disseminate information that does not suffer from said disadvantages.A nother option is posting useful information on the newly installed corona webpage of the GDCh. [38] Chemists have contributed very significantly already,n ot least by synthesizing the necessary amounts of primers and dNTP'sfor test kits,but there are countless challenges that lie ahead. Broader testing for viral infections, [39] as well as serological testing to confirm immunity,atask that proved difficult, even for the relatively confined MERS outbreak, [40, 41] is just one of them. Improving the social acceptance of face masks in some Western countries, [42] and producing such masks in sufficient quantities,i sanother.",
+            "cite_spans": [
+                {
+                    "start": 603,
+                    "end": 607,
+                    "text": "[38]",
+                    "ref_id": null
+                },
+                {
+                    "start": 834,
+                    "end": 838,
+                    "text": "[39]",
+                    "ref_id": null
+                },
+                {
+                    "start": 967,
+                    "end": 971,
+                    "text": "[40,",
+                    "ref_id": null
+                },
+                {
+                    "start": 972,
+                    "end": 975,
+                    "text": "41]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1070,
+                    "end": 1074,
+                    "text": "[42]",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Outreach"
+        },
+        {
+            "text": "Whether it is instructions for producing buffers required for test kits,o rs imple face masks for protection against infectious droplets,u seful information can be shared. The same is true for funding opportunities or legal issues that affect society members.Chemists are resourceful people,and scientific societies are exceptionally experienced in sorting through information submitted to their journals.H ere lies athird opportunity for chemists to contribute.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outreach"
+        },
+        {
+            "text": "When we almost ran out of isopropanol for our hand sanitizer solutions,anon-public email call led to acompany in the area offering larger quantities of the solvent. The company was willing to offer it well below its current inflated market price,and our university was willing to support us with logistics and the free use of facilities.Atthe end of abusy day, one of the clinical pharmacologists who helped with the local production of WHO formulation 2l ooked at our less than attractive facility and said:\"There is still an important role for good old chemistry in our society.\"",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outreach"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Progress in Molecular and Environmental Bioengineering",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kyluik",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sutton",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Cott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "167--190",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Renewable Fuels Association",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Proc.Natl. Acad. Sci",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mitsuya",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Weinhold",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Furman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Tclair",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Lehrman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gallo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Olognesi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Arry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Roder",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "",
+            "volume": "82",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.82.20.7096"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "-X. Manuscript received:M arch 31",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "An",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cowling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2213-2600(20)30134-X"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "The structures of sofosbuvir (1)a nd remdesivir(2).",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

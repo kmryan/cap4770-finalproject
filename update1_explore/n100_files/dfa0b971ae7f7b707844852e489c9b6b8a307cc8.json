@@ -1,0 +1,986 @@
+{
+    "paper_id": "dfa0b971ae7f7b707844852e489c9b6b8a307cc8",
+    "metadata": {
+        "title": "Pneumatosis intestinalis in COVID-19",
+        "authors": [
+            {
+                "first": "Simone",
+                "middle": [],
+                "last": "Meini",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Azienda USL Toscana centro",
+                    "location": {
+                        "addrLine": "Ospedale Santa Maria Annunziata",
+                        "settlement": "Firenze",
+                        "country": "Italy"
+                    }
+                },
+                "email": "simonemeini2@gmail.com"
+            },
+            {
+                "first": "Chiara",
+                "middle": [],
+                "last": "Zini",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Azienda USL Toscana centro",
+                    "location": {
+                        "addrLine": "Ospedale Santa Maria Annunziata",
+                        "settlement": "Firenze",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [
+                    "Teresa"
+                ],
+                "last": "Passaleva",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Azienda USL Toscana centro",
+                    "location": {
+                        "addrLine": "Ospedale Santa Maria Annunziata",
+                        "settlement": "Firenze",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Anna",
+                "middle": [],
+                "last": "Frullini",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Azienda USL Toscana centro",
+                    "location": {
+                        "addrLine": "Ospedale Santa Maria Annunziata",
+                        "settlement": "Firenze",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Francesca",
+                "middle": [],
+                "last": "Fusco",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Azienda USL Toscana centro",
+                    "location": {
+                        "addrLine": "Ospedale Santa Maria Annunziata",
+                        "settlement": "Firenze",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Roberto",
+                "middle": [],
+                "last": "Carpi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Azienda USL Toscana centro",
+                    "location": {
+                        "addrLine": "Ospedale Santa Maria Annunziata",
+                        "settlement": "Firenze",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Fiorella",
+                "middle": [],
+                "last": "Piani",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Azienda USL Toscana centro",
+                    "location": {
+                        "addrLine": "Ospedale Santa Maria Annunziata",
+                        "settlement": "Firenze",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Introduction COVID-19 is a respiratory illness due to novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), described in December 2019 in Wuhan (China) and rapidly evolved into a pandemic. Gastrointestinal (GI) tract can also be involved. Case presentation A 44-year-old man was hospitalised for COVID-19-associated pneumonia. A rapid recovery of respiratory and general symptoms was observed after 1 week of treatment with lopinavir/ritonavir plus hydroxychloroquine and broad-spectrum antibiotics (piperacillin-tazobactam plus teicoplanin). No GI symptoms were reported during hospitalisation, but a lung contrast-enhancement CT (CE-CT) excluding thromboembolism showed, as collateral finding, intraperitoneal free bubbles not present on a previous CT examination; the subsequent abdominal CE-CT described pneumatosis intestinalis (PI) involving the caecum and the right colon. Ciprofloxacin plus metronidazole was started, and the 2-week follow-up CT showed the complete resolution of PI. Discussion The pathogenesis of PI is poorly understood. PI involving the caecum and right colon has been described for HIV and Cytomegalovirus infections, but, to our best knowledge, never before in COVID-19. We hypothesise a multifactorial aetiopathogenesis for PI, with a possible role of the bowel wall damage and microbiota impairment due to SARS-CoV-2 infection, and we suggest a conservative management in the absence of symptoms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Introduction COVID-19 is a respiratory illness due to novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), described in December 2019 in Wuhan (China) and rapidly evolved into a pandemic. Gastrointestinal (GI) tract can also be involved. Case presentation A 44-year-old man was hospitalised for COVID-19-associated pneumonia. A rapid recovery of respiratory and general symptoms was observed after 1 week of treatment with lopinavir/ritonavir plus hydroxychloroquine and broad-spectrum antibiotics (piperacillin-tazobactam plus teicoplanin). No GI symptoms were reported during hospitalisation, but a lung contrast-enhancement CT (CE-CT) excluding thromboembolism showed, as collateral finding, intraperitoneal free bubbles not present on a previous CT examination; the subsequent abdominal CE-CT described pneumatosis intestinalis (PI) involving the caecum and the right colon. Ciprofloxacin plus metronidazole was started, and the 2-week follow-up CT showed the complete resolution of PI. Discussion The pathogenesis of PI is poorly understood. PI involving the caecum and right colon has been described for HIV and Cytomegalovirus infections, but, to our best knowledge, never before in COVID-19. We hypothesise a multifactorial aetiopathogenesis for PI, with a possible role of the bowel wall damage and microbiota impairment due to SARS-CoV-2 infection, and we suggest a conservative management in the absence of symptoms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Starting in December 2019 from Wuhan (Hubei province, China), a novel coronavirus, designated severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has caused an international outbreak of a respiratory illness (COVID-19), rapidly evolving into a pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IntroductIon"
+        },
+        {
+            "text": "The clinical spectrum varies from asymptomatic or self-limiting mild forms, occurring in most cases, to severe progressive pneumonia with acute respiratory distress syndrome requiring mechanical ventilation and intensive care support, to sepsis or septic shock, ultimately causing death. 1 It has been described 2 that SARS-CoV-2 uses the ACE2 receptor for cell entry and the serine protease TMPRSS2 for S protein priming: both these proteins play a crucial role, and are highly coexpressed not only in alveolar type 2 cells, but also in the enterocytes of the ileum and colon, suggesting that the virus can invade the digestive tract. 3 Faecal-oral transmission is a possible route of SARS-CoV-2 transmission: SARS-CoV-2 can be detected in stool in about 50% of patients with COVID-19; however, there is no clear correlation between gastrointestinal (GI) symptoms and detectable virus in the stool. 3 4 It has been reported that up to 11.4% of patients with COVID-19 present with at least one GI symptom, such as nausea, vomiting or diarrhoea: they present fever over 38.5\u00b0C, fatigue, shortness of breath and headache more frequently than patients without GI symptoms; moreover, aspartate aminotransferase (AST) resulted significantly increased in this subgroup. 5 It is therefore increasingly evident that although COVID-19 is mainly an acute respiratory disease, the GI system can be involved. Unfortunately, knowledge about the extrapulmonary involvement is scarce, and it is of utmost importance that every previously unknown clinical expression is promptly reported, in order to assist other clinicians who could again meet it, and to allow to better understand the pathogenesis of a still elusive infectious syndrome.",
+            "cite_spans": [
+                {
+                    "start": 636,
+                    "end": 637,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 900,
+                    "end": 903,
+                    "text": "3 4",
+                    "ref_id": null
+                },
+                {
+                    "start": 1264,
+                    "end": 1265,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "IntroductIon"
+        },
+        {
+            "text": "A 44-year-old man presented to the emergency department on 20 March 2020, after 9 days of persisting fever over 39\u00b0C, productive cough and chest pain, despite treatment with amoxicillin-clavulanate and paracetamol. No GI symptoms were reported. Clinical history was negative; no smoking history or drugs use was reported. The patient reported only about an isolated anal fissure, sometimes slightly bleeding, diagnosed 20 years ago.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "COVID-19 was diagnosed by reverse transcriptase-PCR (RT-PCR) testing for SARS-CoV-2 on nasopharyngeal swab. At admission, plain film of the chest showed a right infrahilar opacity and a bilateral peripheral reticular pattern. The following laboratory studies resulted altered: C-reactive protein (CRP) 16 .64 mg/dL, procalcitonin (PCT) 0.29 ng/mL, ferritin 1966 ng/mL, D-dimer 1248 ng/mL, international normalized ratio (INR) 1.53, and lactate dehydrogenase (LDH) 380 U/L. Except for minimal neutrophilia, the blood count was normal, and interleukin-6 levels (<3.0 pg/mL), AST (38 UI/L), alanine aminotransferase (ALT) (28 UI/L), and bilirubin (1.20 mg/dL) resulted within the normal limits. Hepatitis serological tests were compatible with previous vaccination for hepatitis B virus. Blood and urine cultures and Legionella pneumophila and Streptococcus pneumoniae urinary antigens were negative.",
+            "cite_spans": [
+                {
+                    "start": 302,
+                    "end": 304,
+                    "text": "16",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "Lopinavir/ritonavir 400/100 mg plus hydroxychloroquine 200 mg, both two times a day, were started. Given the persistence of high fever and productive cough, and the slightly increased level of PCT, in suspicion of a secondary bacterial infection resistant to the previous therapy with amoxicillin-clavulanate, intravenous teicoplanin 400 mg one time a day (after loading dose) plus piperacillin-tazobactam 4.5 g three times a day were started. Moreover, subcutaneous enoxaparin 4000 UI was administered one time a day for prophylaxis of venous thromboembolism.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "After 6 days, the patient had a clear improvement of general conditions, with resolution of fever from 48 hours, an almost complete remission of cough, and needing for very low flow oxygen support (1 L/min). CRP decreased to 3.43 mg/dL, and D-dimer to 1027 ng/mL. At the same time, however, we observed altered levels of AST (143 UI/L, after 2 days further increasing to 353 UI/L) and ALT (150 UI/L, then 378 UI/L), and hyperammonaemia (113 \u03bcg/dL), with persisting normal values of cholinesterase, bilirubin, and alkaline phosphatase; gamma-glutamyl transferase only slightly increased (71 UI/L). In the hypothesis of iatrogenic acute liver damage, we promptly interrupted the treatment with lopinavir/ritonavir and hydroxychloroquine, avoiding further administration of paracetamol (last administration 48 hours earlier), maintaining only therapy with teicoplanin, also because its putative efficacy to inhibit the first stage of SARS-CoV-2 viral life cycle in human cells, 6 and adding intravenous acetylcysteine; moreover, enoxaparin was discontinued. Lactulose at an average daily dose of 25 mL was administered for the next 6 days. Ultrasound (US) examination of the abdomen did not report any particular finding. The lung high-resolution CT showed bi-basal dorsal consolidations associated with traction bronchiectasis, especially at the level of right inferior lobe, compatible with COVID-19 pneumonia (figure 1A); no particular abdominal finding was depicted in the lower scans (figure 1B). Lung US examination performed regularly starting from the admission showed a progressive resolution of the subpleural consolidations. The patient completely recovered and did not report any other symptom; the laboratory examinations repeated after 6 days from the previous ones confirmed the normalisation of CRP (0.41 mg/dL), PCT (0.05 ng/mL) and AST (34 UI/L; ALT was still 99 UI/L); unexpectedly, D-dimer levels resulted instead significantly increased to 3389 ng/mL.",
+            "cite_spans": [
+                {
+                    "start": 975,
+                    "end": 976,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "In suspicion of a thromboembolic event, despite no clinically suggestive symptoms or signs, we performed an Echo-color-Doppler examination of inferior vena cava and iliac-femoral-popliteal-infrapopliteal venous axis, excluding deep thrombosis; the lung contrastenhanced CT (CE-CT) did not show filling defects related to emboli within the pulmonary arteries, and showed the reduction of consolidations, in particular in the right inferior lobe, with residual ground glass opacity within its upper segment ( figure 1C) . Unexpectedly, as collateral finding on the lower image acquired during this examination, intraperitoneal free bubbles were reported (figure 1D); the subsequent abdominal CE-CT showed the collection of air in dependent and non-dependent portions mainly involving the caecum and the right colon, compatible with pneumatosis intestinalis (PI); no filling defects were depicted in the lumen of abdominal aorta and its branches, no portal venous air was found, and no free fluid collection was found ( figure 2A,B) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 507,
+                    "end": 517,
+                    "text": "figure 1C)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1017,
+                    "end": 1029,
+                    "text": "figure 2A,B)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "Given the complete absence of symptoms and the progressive normalisation of blood tests (CRP 0.11 mg/ dL, D-dimer 858 ng/mL, LDH 184 U/L, AST 34 and ALT 63 UI/L), the patient was discharged on 7 April, with a follow-up programme. An empirical treatment with ciprofloxacin 500 mg two times a day and metronidazole 500 mg three times a day, and enoxaparin 4000 UI one time a day, was prescribed for 1 week.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "On 24 April, the patient was asymptomatic, and the abdominal non-CE-CT showed the complete resolution of all previous pathological findings ( figure 2C,D) ; the laboratory examinations were within the normal limits, of note only slightly increased levels of D-dimer (652 ng/ mL), ferritin (436 ng/mL), and ALT (103 UI/L). RT-PCR for SARS-CoV-2 on two consecutive nasopharyngeal swabs tested negative.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 142,
+                    "end": 154,
+                    "text": "figure 2C,D)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "Open access dIscussIon Intramural bowel gas, also known as PI, refers to the intraoperative or radiological finding of the presence of gas within the wall of the bowel. PI is a rare condition, whose incidence is difficult to ascertain since most patients are asymptomatic, with a clinical spectrum encompassing from benign to life-threatening forms. 7 8 PI can be a primary (idiopathic) and benign form accounting for about 15% of cases, often incidentally detected in CT scan as multiple gas-filled cysts in the mucosa and submucosa of the small and/or large bowel. The secondary PI forms account for the remaining 85% of cases, and are associated with several conditions, such as chronic bowel ischaemia, obstructive and necrotic GI diseases, obstructive pulmonary disease or asthma, systemic autoimmune diseases, 9 inflammatory bowel diseases, 10 organ transplantation, barotrauma (during ventilation) and other iatrogenic causes (post endoscopy/colonoscopy, post surgery), and use of some medications, including corticosteroids and chemotherapeutic agents. 11 Very uncommonly PI presents as a pneumoperitoneum (less than 3%). 12 Occasionally, portal venous gas can be detected in case of mesenteric ischaemia. The following imaging findings have been reported as indicative of a clinically worrisome PI: lesser extent of pneumatosis, free peritoneal fluid, soft-tissue bowel wall thickening, and periintestinal soft-tissue stranding; on the contrary, distribution, free peritoneal air, and characteristic morphology (linear vs cystic) did not indicate a more unfavourable prognosis. 13 The pathogenesis of PI is poorly understood, and is probably multifactorial. In course of enteritis, or in patients with immunodeficiency, the gut microbiota can be altered, and PI might result from intraluminal gas produced by the overgrowth of gas-forming bacteria, with subsequent gas diffusion in the submucosa. The gas could enter the bowel wall due to the coexistence of increased intraluminal pressure, mucosal disruption and increased permeability; moreover, also the excessive hydrogen production due to bacterial overgrowth could lead to gas supersaturation, overwhelming the capability of diffusion into the bloodstream, and consequent generation of gas-containing cystic formations. 8 It is known that SARS-CoV-2 can invade the digestive tract through the enterocytes of the ileum and colon 3 ; however, to our best knowledge, SARS-CoV-2 has never been related with occurrence of PI.",
+            "cite_spans": [
+                {
+                    "start": 1061,
+                    "end": 1063,
+                    "text": "11",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1130,
+                    "end": 1132,
+                    "text": "12",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1587,
+                    "end": 1589,
+                    "text": "13",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 2285,
+                    "end": 2286,
+                    "text": "8",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "In the present case, clinical features, laboratory examinations and CT findings excluded bowel ischaemia, obstructive and necrotic GI diseases, and the patient had never been subjected to non-invasive mechanical ventilation or other invasive manoeuvres; therefore, the hypothesis of a barotrauma can also be excluded. It should be noted that the cough was already resolved when the PI finding was not yet present at the first CT examination. The treatment with lactulose has been rarely associated with the occurrence of reversible idiopathic PI in patients with liver cirrhosis, 14 and lactitol (a disaccharide analogue of lactulose) has been reported as probable cause of recurrent PI associated with benign pneumoperitoneum even in patients without cirrhosis history 15 : because of the duration of treatment (only 6 days) and the low dose administered (average daily dose 25 mL), it is unlikely that lactulose can be the cause of PI in our non-cirrhotic patient.",
+            "cite_spans": [
+                {
+                    "start": 580,
+                    "end": 582,
+                    "text": "14",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 770,
+                    "end": 772,
+                    "text": "15",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "The aetiopathogenesis of PI in our patient is probably multifactorial: we do believe that one possible cause might be related to the damage of bowel wall and to the gut microbiota impairment during the SARS-CoV-2 infection, but a certain causal relationship between viral infection and pneumatosis cannot be definitively proven.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "We decided to administer ciprofloxacin plus metronidazole for their activity against aerobic and anaerobic bacteria, to modulate a possible overgrowth of hydrogenproducing bacteria altering the gut microbiota. It must be said that also the prolonged administration of antibiotics before and during the hospitalisation may have contributed to alter the patient's gut microbiota, but the finding of PI emerged when only teicoplanin was still administered, and it is known that glycopeptides and their semisynthetic derivatives lipoglycopeptides have a very scarce ecological impact on the human intestinal microflora when administered intravenously. 16 After all, it is well known that PI, characteristically involving the caecum and right colon, and not necessarily constituting a sign of impending bowel necrosis, can represent a late-stage and indolent phenomenon in adult patients with HIV infection, 17 and caecum PI is reported also in Cytomegalovirus infection. 17 18 It is interesting to underline that also our patient affected by the SARS-CoV-2 viral illness showed the main involvement of caecum and right colon; the predisposition of the right colon to PI could be due to a higher tension acting on the walls, since, given a constant pressure, the tension is notoriously proportional to the mean radius of the bowel (Laplace law).",
+            "cite_spans": [
+                {
+                    "start": 648,
+                    "end": 650,
+                    "text": "16",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 903,
+                    "end": 905,
+                    "text": "17",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 967,
+                    "end": 972,
+                    "text": "17 18",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "To date, there are no clear guidelines for managing benign PI, and the decision if the management should be conservative with close observation or surgical must be taken on a case-by-case basis, depending on clinical presentation and underlying comorbidities, since many patients completely recovered within few weeks. 7 Our case suggests that a cautious observation and a conservative management may be a wise option in case of the absence of symptoms.",
+            "cite_spans": [
+                {
+                    "start": 319,
+                    "end": 320,
+                    "text": "7",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "We believe that such an important involvement of the colon testifies the significant pathogenic role of the SARS-CoV-2 on the GI tract. Clinicians should never forget, both in the anamnestic collection and in the physical examination, to carefully evaluate this apparatus in every patient presenting with COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "Contributors SM, AF, MTP and FP collected the clinical information. CZ, FF and RC selected the radiological images. SM and CZ wrote the main draft. MTP, AF, FP, FF and RC revised the manuscript. All authors approved the final version.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "Funding OSMA ONLUS funded the article processing charges, but had no role in the preparation of the article, in the collection, analysis and interpretation of data, in the writing of the report, and in the decision to submit the article for publication.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "Competing interests None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "case presentatIon"
+        },
+        {
+            "text": "Provenance and peer review Not commissioned; externally peer reviewed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patient consent for publication Obtained."
+        },
+        {
+            "text": "Data availability statement Data sharing not applicable as no datasets generated and/or analysed for this study. Data are available upon reasonable request. All data relevant to the study are included in the article or uploaded as supplementary information.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patient consent for publication Obtained."
+        },
+        {
+            "text": "Open access This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See: http:// creativecommons. org/ licenses/ by-nc/ 4. 0/.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patient consent for publication Obtained."
+        },
+        {
+            "text": "Simone Meini http:// orcid. org/ 0000-0002-8711-8305 reFerenCes",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "OrCID iD"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Features, evaluation and treatment coronavirus (COVID-19) StatPearls",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cascella",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rajnik",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cuomo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is blocked by a clinically proven protease inhibitor",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hoffmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kleine-Weber",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schroeder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell",
+            "volume": "181",
+            "issn": "",
+            "pages": "271--80",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2020.02.052"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Digestive system is a potential route of COVID-19: an analysis of single-cell coexpression pattern of key proteins in viral entry process",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gut",
+            "volume": "69",
+            "issn": "",
+            "pages": "1010--1018",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/gutjnl-2020-320953"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "COVID-19 and the gastrointestinal tract: more than meets the eye",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tilg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gut",
+            "volume": "69",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/gutjnl-2020-321195"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Epidemiological, clinical and virological characteristics of 74 cases of coronavirus-infected disease 2019 (COVID-19) with gastrointestinal symptoms",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-S",
+                    "middle": [],
+                    "last": "Lian",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-H",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gut",
+            "volume": "69",
+            "issn": "",
+            "pages": "1002--1011",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/gutjnl-2020-320926"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Teicoplanin: an alternative drug for the treatment of COVID-19?",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Baron",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Devaux",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Colson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Antimicrob Agents",
+            "volume": "55",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijantimicag.2020.105944"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Pneumatosis intestinalis: a review",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Heng",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Schuffler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Haggitt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Am J Gastroenterol",
+            "volume": "90",
+            "issn": "",
+            "pages": "1747--58",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Pneumatosis intestinalis an increasingly common radiological finding, benign or life-threatening? A case series",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Blair",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Baker",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Albazaz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "BMJ Case Reports",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bcr-2014-207234"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Pneumatosis cystoides intestinalis and benign pneumoperitoneum in a patient with antinuclear antibody negative systemic lupus erythematosus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Pruitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Tumminello",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Reveille",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J Rheumatol",
+            "volume": "15",
+            "issn": "",
+            "pages": "1575--1582",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Pneumatosis intestinalis in patients with Crohn's disease",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "John",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dickey",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fenwick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Dig Dis Sci",
+            "volume": "37",
+            "issn": "",
+            "pages": "813--820",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF01300377"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Benign Pneumatosis intestinalis with pneumoperitoneum and Typhlitis: side-effects of drug or disease induced immunosuppression",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wiggins",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Stubbs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "BMJ Case Reports",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Asymptomatic pneumoperitoneum in pneumatosis coli: a misleading operative indication",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ribolla",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Conti",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Baldini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Surg Case Rep",
+            "volume": "69",
+            "issn": "",
+            "pages": "92--97",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijscr.2020.03.042"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Ct predictors for differentiating benign and clinically worrisome Pneumatosis intestinalis in children beyond the neonatal period",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Olson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-W",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ying",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Radiology",
+            "volume": "253",
+            "issn": "",
+            "pages": "513--522",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2532090168"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Idiopathic Pneumatosis intestinalis secondary to lactulose use in patients with cirrhosis",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Varelas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Klinge",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Malik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Gastroenterol Hepatol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/jgh.14920"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Effect of telavancin on human intestinal microflora",
+            "authors": [
+                {
+                    "first": "M-U",
+                    "middle": [],
+                    "last": "Rashid",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Weintraub",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nord",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Int J Antimicrob Agents",
+            "volume": "38",
+            "issn": "",
+            "pages": "474--483",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijantimicag.2011.08.012"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Pneumatosis intestinalis in adults with AIDS: clinical significance and imaging findings",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wood",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "AJR Am J Roentgenol",
+            "volume": "165",
+            "issn": "",
+            "pages": "1387--90",
+            "other_ids": {
+                "DOI": [
+                    "10.2214/ajr.165.6.7484571"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "The acute abdomen in individuals with AIDS",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wyatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Fishman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Radiol Clin North Am",
+            "volume": "32",
+            "issn": "",
+            "pages": "1023--1066",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "CT scans performed for the lung evaluation. (A) First lung CT coronal multiplanar reconstruction (MPR) shows ground glass areas with consolidation in association with bronchiectasis located especially at the level of right inferior lobe. (B) First CT axial abdomen image does not describe any particular finding. (C) Second lung CT coronal MPR demonstrates partial resolution of the consolidation previously described with residual ground glass opacity. (D) Second contrast-enhancement axial abdomen image shows free air bubble within the gastrohepatic space (arrows).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "CT scans performed for the abdomen evaluation. (A) Dedicated abdomen contrast-enhanced CT (CE-CT) coronal multiplanar reconstruction (MPR) shows gas within the wall of the caecum and right colon (arrow heads), compatible with the diagnosis of pneumatosis intestinalis (PI). (B) Dedicated CE-CT abdomen axial image demonstrates air collection in dependent and non-dependent portions of the caecum and right colon (arrow heads). (C) Follow-up abdomen CT coronal MPR scan demonstrates complete resolution of PI with regular bowel wall. (D) Follow-up CT axial abdomen image confirms regular bowel wall without any air collection between the bowel layers; no free air or fluid collection are depicted within the peritoneum.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

@@ -1,0 +1,1936 @@
+{
+    "paper_id": "f3d4b7cb7051dfc86112c9dcb69ca6d3a11cb716",
+    "metadata": {
+        "title": "Two decades of vaccine innovations for global public good: Report of the Developing Countries' Vaccine Manufacturers Network 20th meeting,-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+        "authors": [
+            {
+                "first": "Sonia",
+                "middle": [],
+                "last": "Pagliusi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maureen",
+                "middle": [],
+                "last": "Dennehy",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Akira",
+                "middle": [],
+                "last": "Homma",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The Developing Countries' Vaccine Manufacturers Network, joined by global health organizations, held its 20th meeting celebrating two decades of vaccine innovations for global public good. Health leaders from industry, academia and global health organizations reviewed efforts to accelerate innovation, improve access to vaccines, overcome inequalities and strengthen technological and public-health management capabilities. Discussion topics included World Health Organization's immunization strategy, Pan American Health Organization's system-strengthening efforts, Gavi's evaluation of vaccine coverage in middle income countries and developments on public-market intelligence. Health market trends, delivery gaps, integration of system-wide needs, costs and benefits, and implications for stakeholder decisionmaking were areas of focus. Novel thinking was discussed on integration of policy, financing, regulatory pathways and alignment of innovation priorities to improve efficiency in vaccine development pathways. The Vaccine Innovation Prioritization Strategy collaboration presented nine global innovation priorities, and many other partners and members presented updates on their priorities. Novel technologies and platforms, such as RNA-based vaccines, adenoviral vectors, bioconjugation, blow-fill-seal and twodimensional barcodes, provided opportunities to accelerate vaccine innovations. Challenges in planning and operations at global level included those in health security, polio eradication, re-emergence of diseases, disparities between forecasts and orders and heterogeneous regulatory requirements. Manufacturers were urged to accelerate innovation and prequalification of high-impact vaccines, such as pneumococcal, human papillomavirus and rotavirus vaccines, to strengthen immunization globally.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "This report summarizes the discussions at the 3-day 20th annual meeting of the Developing Countries Vaccine Manufacturers' Network (DCVMN) hosted by Bio-Manguinhos/Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), in Rio de Janeiro, Brazil. Around 280 professionals gathered from 27 countries, 29 member companies, 28 non-member companies and 22 academic and global organisations. The milestone meeting celebrated the contributions of manufacturers so far and reviewed innovative public immunization policy, for both routine and outbreak-related vaccines; innovations in procurement and financing mechanisms for vaccines; access to capital through innovative partnerships; regulatory convergence tools; the Vaccine Innovation Prioritization Strategy (VIPS), which guides advancements in developing future vaccines and other innovative technologies. Novel thinking on policy, financing and regulatory pathways, and their integration to achieve efficiency in future vaccine development pathways, were discussed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Mauricio Zuma and Nisia T. Lima, of Bio-Manguinhos/Fiocruz, encouraged improved vaccine access, inequality reduction and strengthening of developing countries' industrial and technological capabilities, to enhance health for all. The Brazilian Health System focus on prevention of infectious diseases, by maximizing national immunization coverage, was highlighted by DCVMN President, Mahima Datla, as an example of health system strengthening through vaccination. The vital contribution of DCVMN members contribution to vaccine quality, availability and affordability was noted by Tedros Ghebreyesus, Director-General of the World Health Organization (WHO), via video. He recognized slow adoption of vaccines by some countries and acknowledged that collaboration with manufacturers is required to ensure that all children access lifesaving vaccines.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The significant public health gains achieved in the Americas since the 1978 Health for All declaration were reviewed by Carissa Etienne, director of Pan American Health Organization (PAHO) (Fig. 1) . Regional security and capacity to manage diseases were strengthened, new vaccines introduced and diseases eliminated. However, re-emergence of measles from 2016 shows the fragility of these gains. Vigilance against coverage gaps and outbreaks must be constant. Through supply of vaccines as a public good, manufacturers are an essential part of ongoing universal health coverage efforts.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 189,
+                    "end": 197,
+                    "text": "(Fig. 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Introduction"
+        },
+        {
+            "text": "The Brazilian Minister of Health, Luis H. Mandetta, reaffirmed vaccines as a global public good, as benefits are experienced across countries, people and generations. The challenges imposed by reemergence of vaccine-preventable diseases, low vaccination coverage, vaccine shortages, vaccine misinformation or hesitancy, anti-vaccination groups and increasing international migration were noted. Innovative combination vaccines could remove programmatic complexity, prevent vaccine shortages and prepare for epidemics. Universal vaccination coverage is an important part of preparedness. He recognized the need to build vaccine research and development, national production and leverage public-private financing capacities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Innovations for immunization policy and programmes for routine and outbreaks"
+        },
+        {
+            "text": "The new 2030 Immunization Agenda (IA2030) was outlined by Katherine O'Brien (WHO). It focuses on ten future ways of working: co-creation, country context, adaptability, targeting inequities, systems focus, strong routine immunization, life-course approach, strong partnerships, accelerated innovation and self-sustainability [1] . The vision and strategy reflect health ecosystem responses to changing contexts supporting the Sustainable Development Goals (SDGs) [2] . IA2030 includes two components. The first is the vision of ''a world where everyone, everywhere, at every age fully benefits from vaccines for good health and well-being\" and the associated strategic framework of seven priorities: universal health, commitment and demand, coverage and equity, life-course and integration, outbreaks and emergencies, supply and sustainability, and research and innovation. The second is a collection of resources to support implementation across priorities based on four principles: people focus, country-owned, partnership-based, and datadriven. The IA2030 represents an opportunity for manufacturers to engage in higher immunization coverage through improving vaccine supply.",
+            "cite_spans": [
+                {
+                    "start": 325,
+                    "end": 328,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 463,
+                    "end": 466,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Innovations for immunization policy and programmes for routine and outbreaks"
+        },
+        {
+            "text": "Ruben Donis (Biomedical Advanced Research and Development Authority, BARDA) discussed innovations required for pandemic preparedness, using influenza as an example. Simulations show that multiple interventions can minimize virus impact. Innovations such as wearable devices, early home-based diagnostics, improved masks, microneedle and one-dose immunization are needed. Innovative home-based treatment requires enabling regulation, before manufacturing can be scaled up. The Centre of Open Science, the Resurgent influenza Science Effort (RISE) and Public Library of Science (PLOS) collaborations support such initiatives to align regulation and manufacturing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Innovations for immunization policy and programmes for routine and outbreaks"
+        },
+        {
+            "text": "Preparedness for global health threats [3] was reviewed by Frederik Kristensen (Coalition for Epidemic Preparedness Innovation, CEPI), referring to CEPI's current activities in stockpiling, establishing rapid manufacturing platforms and assessing industrial capacity globally. CEPI has 16 agreements for vaccine development, which will take Lassa, Middle East respiratory syndrome (MERS), Nipah, chikungunya and Rift Valley fever candidate vaccines to Phase II studies, and for new manufacturing platform technologies to be tested against these pathogens, through Phase I trials. CEPI also models vaccine demand and is mapping the global supply network for future stockpiling needs, seeking global diversity and redundancy. Over 270 manufacturers and 70 groups were contacted, including DCVMN members contributing vaccines for preparedness. (Fig. 2) to remove barriers and bridge financing, political and regulatory gaps [5] . Research activities are combined with planning, infrastructure, workforce capacity-building and acceptance, focusing on low-and middle-income countries (LMICs). Late-stage development and scale-up for vaccine introduction is capital intensive, and this is where manufacturers with available expertise and facilities can engage as partners. Vaccines are driver of sustainable development [6] .",
+            "cite_spans": [
+                {
+                    "start": 39,
+                    "end": 42,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 921,
+                    "end": 924,
+                    "text": "[5]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1314,
+                    "end": 1317,
+                    "text": "[6]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 841,
+                    "end": 849,
+                    "text": "(Fig. 2)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Innovations for immunization policy and programmes for routine and outbreaks"
+        },
+        {
+            "text": "Jarbas Barbosa (PAHO) reviewed PAHO's roles and current regional vaccine coverage challenges. Technical cooperation between PAHO and WHO includes evidence-gathering, operational and social aspects to support country decision-making on vaccination, and generate demand. Operations support demand planning, strengthening national budget lines, equipment acquisition, vaccine procurement and delivery through the PAHO Revolving Fund (RF). The RF supports access to vaccines in 41 countries and territories: 25 million people are protected annually with vaccines procured through the RF. The PAHO RF provides each member country, including those transitioned out of Gavi, with equal access to US $10 million in credit. PAHO RF issues annual and multi-annual tenders. Brazil used the fund to cover un-forecasted demand during recent yellow fever outbreaks. In addition, the Brazilian experience of securing access to new vaccines, based on technology transfers to domestic manufacturers, has helped build domestic capacity to overcome global supply shortages. Additional PAHO roles are to strengthen national regulatory authorities, production capacity and collaborations with international partners on vaccine access, particularly for WHO's Eliminate Yellow Fever Epidemics [7] , and Measles and Rubella initiatives [8] . PAHO recommendations are published regularly [9] .",
+            "cite_spans": [
+                {
+                    "start": 1270,
+                    "end": 1273,
+                    "text": "[7]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1312,
+                    "end": 1315,
+                    "text": "[8]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1363,
+                    "end": 1366,
+                    "text": "[9]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Innovations in procurement and financing for vaccines"
+        },
+        {
+            "text": "Etleva Kadilli (UNICEF) highlighted contributions of global immunization at the 30-year anniversary of the United Nations Convention of the Rights of the Child. In 2018, UNICEF procured 2.4 billion vaccine doses, over half produced by DCVMs, which reached 45% of the world's children in 99 countries. Around 65.5 million children received pentavalent (DTPHepBHib) vaccination, reaching 85% coverage. Progress in elimination of maternal and neonatal tetanus contrasts with challenges of measles outbreaks in areas of poor coverage, delay in global polio eradication [10] and vaccine hesitancy in high-income countries [11] . The eradication of polio types 2 and 3 marked progress [12] , but type 1 virus circulation persists in Pakistan and Afghanistan, and vaccinederived poliovirus type 2 disease is spreading in Africa due to poor coverage and constrained inactivated polio vaccine (IPV) supply. A novel oral polio type 2 vaccine is in clinical development: 100 million doses are sought for 2020 outbreak responses. Another challenge is access to human papillomavirus vaccines (HPV) for populations most in need. Initiatives to stretch and appropriately direct supply include establishment of a global shortage and product allocation forum. Further, UNICEF is sourcing 0.5 million doses of Ebola vaccine for outbreaks and, after prequalification, for prevention programmes. UNICEF supports countries in building capacity to overcome challenges, on planning, forecasting, financing, budgeting and tendering, for self-procurement and introduction of new vaccines, and publishes strategic market information to improve market dynamics and reduce access asymmetries. Support is available to all countries, regardless of whether countries procure through UNICEF or directly from suppliers.",
+            "cite_spans": [
+                {
+                    "start": 565,
+                    "end": 569,
+                    "text": "[10]",
+                    "ref_id": null
+                },
+                {
+                    "start": 617,
+                    "end": 621,
+                    "text": "[11]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 679,
+                    "end": 683,
+                    "text": "[12]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Innovations in procurement and financing for vaccines"
+        },
+        {
+            "text": "Seth Berkley (Gavi) reflected on progress since 2000 towards equitable access to vaccines. Gavi's initial portfolio contained 6 vaccines from 5 suppliers in 5 countries. Since then, 430 new vaccine introductions were launched. The current portfolio targets 18 diseases, involving 17 suppliers in 11 countries, impacting affordability and supply security. Coverage for the third dose of diphtheria, tetanus, and pertussis containing vaccine was 59% and is now 80% in Gavi supported countries, despite population growth (Fig. 3 ). Low-income country (LIC) investments in vaccination increased substantially and are likely to continue. Where three out of five children were vaccinated, four out of five are now. To date, 15 countries transitioned from Gavi support, to selfprocurement or self-manufacturing, most keeping coverage high. Three will transition by 2025, and 10 after that, thus driving more equity in vaccination. By 2030, 70% of under-immunized children will live in middle-income Countries (MICs). Reaching all children requires a different approach and Gavi is exploring avenues to support vaccination in MICs. Gavi is now fostering vaccine introductions in certain MICs, with pneumococcal conjugate vaccine (PCV), HPV and rotavirus vaccines as priorities. Gavi's next strategic 5-year period will also focus on Global Health Security and the programmatic and forecasting aspects for vaccination against diseases with outbreak potential. New vaccines for malaria, tuberculosis and human immunodeficiency virus (HIV) are on the horizon, revealing exciting times for vaccine innovation. Nine Steensma (Clinton Health Access Initiative) moderated a panel discussion on vaccine market trends and implications for manufacturers and procurers. Panellists included Etleva Kadilli, John Fitzsimmons (PAHO), Dominique Hein (Gavi), Mauricio Zuma (BioManguinhos) and Suresh Jadhav (Serum Institute of India, SII). As more countries transition from Gavi support, self-procurement may drive increased choice of suppliers and vaccines in future. Manufacturers may encounter different procurers and requirements; procurers may face complexity in building market stability and accurate forecasting. Regional pooled procurement trends may expand. For many manufacturers challenges remain, such as heterogeneous local registration requirements, disparities between forecasts and orders, public pressure to reduce costs, and onerous monitoring commitments. Manufacturers agreed that partners' support will be required to address these challenges.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 518,
+                    "end": 525,
+                    "text": "(Fig. 3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Innovations in procurement and financing for vaccines"
+        },
+        {
+            "text": "Capacity-building initiatives to improve transparency of public vaccine markets were outlined by Tania Cernuschi (WHO), Yalda Momeni (UNICEF) and John Fitzsimmons (PAHO RF) [13] . Selffunding countries are increasingly important customers for DCVMs (Fig. 4) . Therefore, WHO established the Market Information for Access (MI4A) initiative [14] providing vaccine purchase data, market studies and guidance. Four vaccines most procured by countries in 2018 were Hepatitis B, Diphtheria & Tetanus-containing vaccines, BCG, and measles-mumps-rubella. Going forward, priorities of this initiative are to improve data collection and strengthen collaboration with manufacturers.",
+            "cite_spans": [
+                {
+                    "start": 173,
+                    "end": 177,
+                    "text": "[13]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 339,
+                    "end": 343,
+                    "text": "[14]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 249,
+                    "end": 257,
+                    "text": "(Fig. 4)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Innovations in public market dynamics and vaccine market intelligence"
+        },
+        {
+            "text": "UNICEF Supply Division initiatives include the peer-to-peer Vaccine Procurement Practitioners Forum [15] , a procurement assessment toolbox, and an e-learning course in procurement practices. UNICEF provides pricing and market data plus tools for industry and associations to support better market understanding and informed decision-making.",
+            "cite_spans": [
+                {
+                    "start": 100,
+                    "end": 104,
+                    "text": "[15]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Innovations in public market dynamics and vaccine market intelligence"
+        },
+        {
+            "text": "PAHO support for member states on forecasting, stockmonitoring and timely procurement decisions, along with credit options, improved access to vaccines in the Americas region. The global vaccine market dynamics and challenges affecting PAHO member states are illustrated in Fig. 5 . Current PAHO improvement projects include a joint forecasting mechanism between PAHO and self-procuring countries in the region. Others will strengthen demand planning, technical cooperation, market shaping, total immunization cost efficiencies and digitalization of PAHO operational services.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 274,
+                    "end": 280,
+                    "text": "Fig. 5",
+                    "ref_id": null
+                }
+            ],
+            "section": "Innovations in public market dynamics and vaccine market intelligence"
+        },
+        {
+            "text": "A panel discussion on how market information can support manufacturers and mitigate risk for manufacturer investment decisions was led by Suresh Jadhav (SII) and panellists, including above speakers, were joined by Edward Baker (Gavi), Lakshmi Neti (Biological E) and Andrew Wong (Walvax).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Innovations in public market dynamics and vaccine market intelligence"
+        },
+        {
+            "text": "Panellists noted that market information transparency is a critical enabler for manufacturers. Going forward, markets will evolve with greater choice in vaccine characteristics, such as serotypes, dosage, formulation, or wastage. Routine, campaign and outbreak situations in countries at different stages of Gavi support and health system maturity levels create complexity in demand forecasting. Overstocking needs to be balanced with preparedness. The new UNICEF tools of utilization trends, stock flows and reduction of wastage will improve forecast accuracy, irrespective of procurement route. A major contribution of procurement agencies to countries and suppliers is improving market predictability and reliability, for demand planning and financing. Three needs were identified from manufacturer's perspective. The first is on defining country choices for assuring security of vaccine supply. The second is on assuring readiness of the supply system for introducing new vaccines. The third is on providing sustainability of funding from countries graduating from Gavi. Panellists concluded that global information exchange allowed better understanding of risks of shortages. This now needs to expand, with inclusion of highincome countries, to cover fair allocation of supply. This is already done in certain market segments. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Innovations in public market dynamics and vaccine market intelligence"
+        },
+        {
+            "text": "Gerard Cunningham (Global Health Investment Fund) coordinated a panel discussion of investors and manufacturers reflecting on vaccine investment attractiveness and how developing countries' manufacturers can access new sources of capital. Jessica Martinez (Gates Foundation), Younbeen Kim (RIGHT Fund), Jenny Yip (Adjuvant Fund), Peter Khoury (Ology Bioservices) and Sai Prasad (Bharat Biotech) discussed different models used to finance vaccine development. Philanthropic investments are assessed against public health priorities and grants, are based on impact on disease burden, using data from the Institute for Health Metrics & Evaluation [16], internal tools, and predictive analytics, to underpin decisions with data. Investors seek recipients that demonstrate long-term commitment to global health. Recent initiatives include the nonprofit Gates Medical Research Institute [17] and the RIGHT Fund [18] , established in 2018 in South Korea in partnership with the Korean government and the Gates Foundation. The Fund generates public investments to support development of new health technologies relevant to LMICs, providing a single channel for funding applications. Clear business cases and manufacturer track records guide investment decisions. Investors focus on global health mind-set and burden-of-disease to manage investments that must provide competitive returns (as opposed to grants) aiming to galvanize resources from non-traditional sources for global health. Investment decisions assess quality of the manufacturer's team, data and corporate finances. Other attributes include manufacturer track record, financial ability and endurance, unique business models and technologies that keep costs low. At Bharat, for example, some vaccines were financed largely internally, with end-stage external funding, such as Japanese encephalitis and typhoid conjugate vaccine, while Rotavac was financed by the Gates Foundation. All three projects had some catalytic funding. The panellists suggested that manufacturers should diversify funding sources to enable risk management, continually evaluate alternatives, understand funding processes and engage in innovation. In turn, funders should make application processes as smooth as possible, with reasonable milestones and timely decision points to support more vaccine manufacturers. Ahn Wartel (International Vaccine Institute, IVI) described partnerships with manufacturers in developing a pipeline for neglected-disease vaccines important for public health, but with limited commercial potential. IVI, in Seoul, has 160 partners including governments, industry, academia, civil society and global organizations, and capacity in laboratory sciences, field programmes, clinical trials, regulatory affairs and training. The most advanced vaccines are oral cholera vaccine, licensed to Eubiologics, and a typhoid conjugate in clinical trials with several manufacturers. Partnerships with manufacturers are sought for seven other candidate vaccines (Fig. 6) . The vision of the Gates Foundation, reiterated by Ray Prasad, is to ensure sustainable supply of high quality, affordable vaccines of greatest impact (Fig. 7) . In partnership with the National Institute for Innovation in Manufacturing in Biopharmaceuticals (NIIMBL), a Global Health Fund was launched [19] , based on NIIMBL's 2018 technology roadmap [20] . A call for proposals was recently issued for innovative partnerships to develop in vitro assays to replace animal testing, particularly for polio, rabies and wP vaccines [21] , which are priorities for developing countries.",
+            "cite_spans": [
+                {
+                    "start": 881,
+                    "end": 885,
+                    "text": "[17]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 905,
+                    "end": 909,
+                    "text": "[18]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 3321,
+                    "end": 3325,
+                    "text": "[19]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 3370,
+                    "end": 3374,
+                    "text": "[20]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 3547,
+                    "end": 3551,
+                    "text": "[21]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 3008,
+                    "end": 3016,
+                    "text": "(Fig. 6)",
+                    "ref_id": "FIGREF6"
+                },
+                {
+                    "start": 3169,
+                    "end": 3177,
+                    "text": "(Fig. 7)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Removing financial barriers for innovative manufacturing in developing countries"
+        },
+        {
+            "text": "The regulatory convergence initiative of DCVMN has aimed to improve dialogue among manufacturers and regulatory agencies, and harmonize procedures without modifying regulations. Proposals for improvements include pre-registration and postregistration procedural changes, new testing methods, and new surveillance tools [22] .",
+            "cite_spans": [
+                {
+                    "start": 319,
+                    "end": 323,
+                    "text": "[22]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Regulatory dialogue forum towards implementing regulatory convergence tools"
+        },
+        {
+            "text": "The framework for marketing authorization of biologicals in Brazil was outlined by Bernardo Moreira, from the Agencia Nacional de Vigilancia Sanitaria (ANVISA). Requirements were aligned with International Council for Harmonisation (ICH) and WHO requirements, including stability testing, post-approval change categorization, prioritization and products for rare and neglected diseases. These resulted in measurable improvements (Fig. 8) . Manufacturers welcomed such projects on regulatory alignment, optimizing reliance pathways and improving transparency of information.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 429,
+                    "end": 437,
+                    "text": "(Fig. 8)",
+                    "ref_id": "FIGREF7"
+                }
+            ],
+            "section": "Regulatory dialogue forum towards implementing regulatory convergence tools"
+        },
+        {
+            "text": "Carmen R. Hernandez (WHO), Alexandra Guta (PAHO), and Diadi\u00e9 Maiga (WHO/African Regional Office), provided global and regional perspectives and insights on convergence approaches of WHO's five year plan, to support effective and efficient regulatory systems [23] . The first of four strategic priorities is strengthening of regulatory systems, using the Global Benchmarking Tool, WHO-listed authorities and laboratory networks. The second is regulatory preparedness for emergencies, as applied in Ebola and polio activities [24] . The third is strengthening of product prequalification (PQ) and risk assessment processes. The fourth is increasing impact of regulatory support. An impact assessment on PQ, completed in 2019 [25] , demonstrated that PQ enables a core market of US$3.5 billion, achieved a return on investment of 30-40 to 1, and allowed 340-400 million additional patients access to products through resources saved. Reliance on the collaborative registration procedures with WHO improved registration timelines of National Regulatory Authorities. Training of regulatory ",
+            "cite_spans": [
+                {
+                    "start": 258,
+                    "end": 262,
+                    "text": "[23]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 524,
+                    "end": 528,
+                    "text": "[24]",
+                    "ref_id": null
+                },
+                {
+                    "start": 723,
+                    "end": 727,
+                    "text": "[25]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Regulatory dialogue forum towards implementing regulatory convergence tools"
+        },
+        {
+            "text": "The Gates Founda\u019fon Investments in Vaccines by Area Fig. 7 . Bill & Melinda Gates Foundation cumulative investments into vaccines and areas (amounts paid or committed). legend: From 1996 to 2020, significant investments were made for vaccine policy, country systems, markets and specific product development, to make vaccines available to developing countries and improve their uptake. The circles represent the programmes and disease areas and respective size of the financial investments. TB: tuberculosis, EDD: enteric and diarrhoeal diseases, PST: Program Strategy Team. Courtesy of R. Prasad, Gates Foundation. professionals correlated positively with competence, vigilance and reporting, improved operations, cooperation and communication.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 52,
+                    "end": 58,
+                    "text": "Fig. 7",
+                    "ref_id": null
+                }
+            ],
+            "section": "Programme or Disease Areas"
+        },
+        {
+            "text": "Similarly, regional implementation of principles of regulatory reliance, sharing of responsibility and improving oversight across regulatory settings translated into system strengthening and efficiency at PAHO [26] . Notably, the Caribbean Regulatory System used reliance principles to register Euvichol cholera vaccines in Haiti and continues with post-marketing activities there [27, 28] . African Vaccine Regulatory Forum (AVAREF) developed tools for joint clinical trial reviews [29] conducted in 2018 and 2019 on RTS,S malaria, leishmaniosis and rotavirus vaccines. In 2019, WHO and AVAREF collaboration accelerated the registration of the first Ebola vaccine.",
+            "cite_spans": [
+                {
+                    "start": 210,
+                    "end": 214,
+                    "text": "[26]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 381,
+                    "end": 385,
+                    "text": "[27,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 386,
+                    "end": 389,
+                    "text": "28]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 483,
+                    "end": 487,
+                    "text": "[29]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Programme or Disease Areas"
+        },
+        {
+            "text": "The WHO Vaccine Safety Blueprint 2.0 represents another tool for regulatory convergence [30] , fostering dialogue among manufacturers and global regulatory agencies, as presented by Patrick Zuber (WHO). A 2019 landscape analysis recommended more focus on communication, regulatory frameworks and systems coordination, and new priority areas relating to fragile states, governance and financing [31] . He acknowledged Global safety reporting improvements and the Vaccine Safety Net that collates electronic communications [32] .",
+            "cite_spans": [
+                {
+                    "start": 88,
+                    "end": 92,
+                    "text": "[30]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 394,
+                    "end": 398,
+                    "text": "[31]",
+                    "ref_id": null
+                },
+                {
+                    "start": 521,
+                    "end": 525,
+                    "text": "[32]",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Programme or Disease Areas"
+        },
+        {
+            "text": "Taken together, alignment to ICH, WHO Global Benchmarking Tool, WHO-listed authorities, laboratory networks, EUL, product prequalification, regional principles of regulatory reliance, joint clinical trial reviews and the Blueprint 2.0 represent innovative tools for regulatory convergence, fostering dialogue among manufacturers and global regulatory agencies, accelerating vaccines' access.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Programme or Disease Areas"
+        },
+        {
+            "text": "Marion Menozzi-Arnaud, (Gavi) , Debra Kristensen (PATH) and Birgitte Giersing (WHO) shared the goal, methodology and progress of VIPS. It is a close collaboration, launched in 2018 between Gavi, WHO, Gates Foundation, UNICEF and PATH, to prioritise innovations in vaccine attributes, and provide clarity to stakeholders making investment decisions. The VIPS process assessed 24 innovations in six categories, and included country consultations, advice of a Steering Committee of 17 experts, and industry consultations. The first prioritisation phase short-listed 9 innovations (Fig. 9 ). VIPS will conclude the final prioritization in 2020, allowing informed manufacturer engagement in innovative vaccine technologies.",
+            "cite_spans": [
+                {
+                    "start": 23,
+                    "end": 29,
+                    "text": "(Gavi)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 577,
+                    "end": 584,
+                    "text": "(Fig. 9",
+                    "ref_id": "FIGREF8"
+                }
+            ],
+            "section": "The vaccine innovation prioritization strategy (VIPS)"
+        },
+        {
+            "text": "Dominic Hein (Gavi) led a panel discussion on how VIPS may drive vaccine delivery innovations beyond the prioritisation and communication, with participation of David Kaslow (PATH), Ana L. Kahn (WHO), Ann Ottosen (UNICEF), Steven Gao (Innovax) and Sai Prasad (Bharat). Panellists discussed that uncertainty in policy, regulation, finance and operations increase innovator risks which need rebalancing. VIPS offers aligned priorities and clear value propositions. Evolving value propositions were experienced during controlled temperature chain (CTC) implementation. Products had to be understood in each context, as country engagement is critical to success. Some setbacks were encountered, such as CTC approval of a pneumococcal vaccine only used for routine vaccination. Information gathered by VIPS will help avoid similar situations. Innovations often stall because of challenges in predicting demand. Vaccine Vial Monitors (VVMs), for example, took 15 years to implement. VIPS is in a unique position to define priorities and demand requirements, mobilize funding and assist decision-makers in understanding risks and benefits of innovations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The vaccine innovation prioritization strategy (VIPS)"
+        },
+        {
+            "text": "Manufacturers need assurance that the market will pay more for a product delivering greater programmatic value. Some prioritized technologies are easy to implement: CTC innovations might only require additional stability studies, while others may need infrastructure or additional clinical studies. VIPS provides depth of market analysis, value estimates and a clear signal to all stakeholders including manufacturers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The vaccine innovation prioritization strategy (VIPS)"
+        },
+        {
+            "text": "Vector technologies for future manufacturing of vaccines relevant to LMICs and epidemics were illustrated by Sarah Gilbert (VaxHub), in the form of a chimpanzee adenovirus manufacturing platform [33] . Chimpanzee adenoviral vectors expressing rabies, Rift Valley fever and malaria antigens, cultured in mammalian cells in 3L bioreactors, then purified through tangential flow filtration and ion exchange chromatography, produced up to 1700 doses per litre. A second adenovirus manufacturing platform, using serum-free media, microcarriers and single-use components, was presented by Mats Lundgren (GE Healthcare).",
+            "cite_spans": [
+                {
+                    "start": 195,
+                    "end": 199,
+                    "text": "[33]",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advancements in developing future vaccines and other innovative technologies"
+        },
+        {
+            "text": "Synthetic RNA as a vaccine platform for rapid response to outbreaks was described by Ben Pierce (Future Vaccine Manufacturing Research (FVMR) Hub). RNA vaccines offer rapid, synthetic, cellfree and scalable manufacture. They may be rapidly synthesized using in vitro transcription, which does not require cells or animal substrates, therefore improving regulatory acceptability. A successful Phase I trial with RNA encoding an antibody against chikungunya was recently announced [34] . Ebola, Marburg, Lassa fever and rabies RNA candidates will progress through clinical development with Innovate UK and CEPI. DCVMN members were invited to enter scientific collaborations, and consultancy agreements on technology platforms supported by the FVMR Hub (Fig. 10) . Technology transfer for product-development collaboration using the baculovirus platform for rabies and influenza vaccines is ongoing at Vabiotech, as described by Do Tuan Dat. Other FVMR initiatives to support manufacturers include quality control training with the National Institute Biological Standards and Control.",
+            "cite_spans": [
+                {
+                    "start": 479,
+                    "end": 483,
+                    "text": "[34]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 750,
+                    "end": 759,
+                    "text": "(Fig. 10)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Advancements in developing future vaccines and other innovative technologies"
+        },
+        {
+            "text": "Cal MacLennan (BactiVac) presented BactiVac, which provides catalyst funding to accelerate development of bacterial vaccines relevant to LMICs at preclinical-to-clinical transition stages. Three rounds of awards supported 35 projects. Three Shigella vaccine candidates employing novel technologies were presented. The most advanced candidate uses bioconjugate technology [35] , where conjugation occurs within a bacterium [36] . The second uses membrane budding technology to produce vaccines [37, 38] . The third is a synthetic conjugate of short O-antigen [39] . Each candidate vaccine requires a manufacturing partner for late-stage clinical development. A Controlled Human Infection Model (CHIM) for Shigella was developed to facilitate licensure, following cholera and typhoid vaccine precedents. WHO-led stakeholder consultations identified potential licensure routes, although CHIM is not yet considered for LMIC vaccine approval.",
+            "cite_spans": [
+                {
+                    "start": 371,
+                    "end": 375,
+                    "text": "[35]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 422,
+                    "end": 426,
+                    "text": "[36]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 493,
+                    "end": 497,
+                    "text": "[37,",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 498,
+                    "end": 501,
+                    "text": "38]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 558,
+                    "end": 562,
+                    "text": "[39]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advancements in developing future vaccines and other innovative technologies"
+        },
+        {
+            "text": "Progress on Zika and chikungunya vaccines was described by Raches Ella (Bharat Biotech). Both candidate vaccines are grown in Vero cells, inactivated and formulated with Al(OH) 3 . The Zika candidate vaccine is safe and immunogenic [40] and Phase 2 is planned. The chikungunya candidate vaccine was approved for a Phase I trial in 2016. Doses were derived from preclinical challenge studies and neutralizing antibody titres of recovering patients. A Phase 2/3 study was proposed, with licensure planned for 2021.",
+            "cite_spans": [
+                {
+                    "start": 177,
+                    "end": 178,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 232,
+                    "end": 236,
+                    "text": "[40]",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advancements in developing future vaccines and other innovative technologies"
+        },
+        {
+            "text": "Clinical results for bivalent HPV 16/18 L1-based vaccine were published [41, 42] and a facility, designed for 30 million doses annually, was inspected by the Chinese regulatory authority. Phase 4 studies will follow licensure, mentioned Weidan Huang (Innovax). A 9-valent HPV vaccine entered Phase 2 clinical trials in 2019. Innovax is seeking collaborations.",
+            "cite_spans": [
+                {
+                    "start": 72,
+                    "end": 76,
+                    "text": "[41,",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 77,
+                    "end": 80,
+                    "text": "42]",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advancements in developing future vaccines and other innovative technologies"
+        },
+        {
+            "text": "Results of a PCV13 vaccine Phase 3 clinical trial conducted across four age groups, with Prevnar 13 as comparator [43] , was described by Qian Zhang (Minhai Biotechnology). Safety and robust immune response were demonstrated against all 13 serotypes. Vaccination at two months showed non-inferior response rate and IgGs for each serotype.",
+            "cite_spans": [
+                {
+                    "start": 114,
+                    "end": 118,
+                    "text": "[43]",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advancements in developing future vaccines and other innovative technologies"
+        },
+        {
+            "text": "Vaxirab N vaccine development against rabies was described by Sanjeev Kumar and Kapil Maithal (Zydus Cadila). The vaccine, produced in chick embryo cells, inactivated and lyophilized, is prequalified by WHO [44] . Current clinical trials are evaluating intradermal delivery. In 2018, WHO prioritized monoclonal antibodies for adjunct post-exposure treatment of rabies, and a mix of two murine monoclonal antibodies completed clinical trials and gained market authorization in India. A Phase 3 study investigating safety and efficacy of TwinRab and a comparator antibody, both administered in conjunction with VaxiRab-N in postexposure patients, showed comparable efficacy between antibody products.",
+            "cite_spans": [
+                {
+                    "start": 203,
+                    "end": 211,
+                    "text": "WHO [44]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advancements in developing future vaccines and other innovative technologies"
+        },
+        {
+            "text": "J. Cuccui (London School of Hygiene and Tropical Medicine), outlined recent advances in low-cost bioconjugation technology for vaccines [45] . Candidates include updated Streptococcus pneumoniae and new Francisella tularensis vaccines. Vaccines against pathogenic E. coli, Shigella flexneri 2a and Shigella dysenteriae are in Phase I trials. C. L\u00f3pez-Mac\u00edas (BactiVac) outlined the potential of Salmonella porins, now patented and under development, as a multivalent vaccine against Salmonella entericainduced disease. Antibodies to porins can be blocked by antilipopolysaccharide antibodies [46, 47] .",
+            "cite_spans": [
+                {
+                    "start": 136,
+                    "end": 140,
+                    "text": "[45]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 592,
+                    "end": 596,
+                    "text": "[46,",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 597,
+                    "end": 600,
+                    "text": "47]",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advancements in developing future vaccines and other innovative technologies"
+        },
+        {
+            "text": "Updates on temperature monitoring innovations were provided by Ted Prusik (Temptime/Zebra Technologies). The VVM-plus temperature-threshold indicator is being launched with Rotasiil vaccine (VVM250). In the context of the 2019 Gavi future requirements for GS1 traceability barcoding [48] , OneScan, incorporating digitized VVMs with 2-dimensional barcodes, is undergoing pilot studies in the USA. New applications of blow-fill-seal (BFS) technology to vaccines were reported by Tim Kram (Rommelag), demonstrating compatibility [49] . A rotavirus vaccine in BFS packaging [50] and two studies for development of container and compact prefilled auto-disable injection devices are progressing.",
+            "cite_spans": [
+                {
+                    "start": 283,
+                    "end": 287,
+                    "text": "[48]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 527,
+                    "end": 531,
+                    "text": "[49]",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 571,
+                    "end": 575,
+                    "text": "[50]",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advancements in developing future vaccines and other innovative technologies"
+        },
+        {
+            "text": "Akira Homma, Bio-Manguinhos/Fiocruz, concluded that the meeting updated manufacturers on current thinking in WHO's IA2030 strategy, evaluation of coverage gaps and inequities by Gavi, UNICEF, PAHO and others, and identification of market data and trends for the decade ahead. Other significant areas of progress were preparedness for outbreaks and initiatives in regulatory convergence and system strengthening. Valuable side meetings enabling partnerships and collaborations continue to be a feature of these gatherings. He urged manufacturers to accelerate innovation and prequalify their products to strengthen vaccination as a global good.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declaration of Competing Interest"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World Health Organization. Immunisation Agenda 2030. A Global Strategy To Leave No One Behind",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "1--29",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Sustainable Development Goals",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "World Health Organization. A world at risk. Annual report on global preparedness for health emergencies",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "2019",
+            "issn": "",
+            "pages": "1--48",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Vaccine candidates for poor nations are going to waste",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kaslow",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Black",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Bloom",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Datla",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Salisbury",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rappuoli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nature",
+            "volume": "564",
+            "issn": "",
+            "pages": "337--346",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/d41586-018-07758-3"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "World Health Organization. Full Public Health Value Propositions for Vaccines",
+            "authors": [],
+            "year": 2018,
+            "venue": "",
+            "volume": "1",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "World Health Organization. A global strategy to eliminate yellow fever epidemics (EYE)",
+            "authors": [],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "1--55",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Reports of the Technical Advisory Group (TAG) on vaccine-preventable Diseases",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "World Health Organization. Global measles and rubella update",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "World Health Organization. Two out of three wild poliovirus strains eradicated",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Improving the transparency of markets for medicines, vaccines, and other health products",
+            "authors": [],
+            "year": 2020,
+            "venue": "World Health Assembly",
+            "volume": "2019",
+            "issn": "",
+            "pages": "1--3",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "MI4A: Market Information for Access to Vaccines",
+            "authors": [],
+            "year": null,
+            "venue": "World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Vaccine Procurement Practitioners Network",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Gates Foundation. Bill and Melinda Gates Medical Research Institute",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Research investment for Global Health Technology Fund",
+            "authors": [],
+            "year": 2019,
+            "venue": "Right Fund. Right Fund",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "The National Institute for Innovation in Manufacturing Biopharmaceuticals",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "The National Institute for Innovation in Manufacturing Biopharmaceuticals",
+            "authors": [],
+            "year": null,
+            "venue": "Vaccines Roadmap",
+            "volume": "2018",
+            "issn": "",
+            "pages": "1--28",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "The National Institute for Innovation in Manufacturing Biopharmaceuticals",
+            "authors": [],
+            "year": 2019,
+            "venue": "Downloads/Project_Call_3-1/PC3.1G-RequestforProposals-FINAL",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Opportunities for improving access to vaccines in emerging countries through efficient and aligned registration procedures: An industry perspective",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Dellepiane",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pagliusi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Vaccine",
+            "volume": "37",
+            "issn": "",
+            "pages": "2982--2991",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2019.03.025"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Delivering quality-assured medical products for all 2019-2023: WHO's five year plan to help build effective and efficient regulatory systems",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "2019",
+            "issn": "",
+            "pages": "1--35",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "World Health Organization. Impact assessment of WHO prequalification and systems supporting activities",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Regulatory reliance principles: Concept note and recommendations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "2018",
+            "issn": "",
+            "pages": "1--14",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Enhancing global vaccine pharmacovigilance: Proof-of-concept study on aseptic meningitis and immune thrombocytopenic purpura following measles-mumps containing vaccination",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perez-Vilar",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Weibel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sturkenboom",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Black",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Maure",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Castro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Vaccine",
+            "volume": "36",
+            "issn": "",
+            "pages": "347--54",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2017.05.012"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Building capacity for active surveillance of vaccine adverse events in the Americas: A hospital-based multi-country network",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bravo-Alc\u00e1ntara",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "P\u00e9rez-Vilar",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Molina-Le\u00f3n",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sturkenboom",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Black",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zuber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Vaccine",
+            "volume": "36",
+            "issn": "",
+            "pages": "363--70",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/J.VACCINE.2017.04.069"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "World Health Organization Regional Office for Africa",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Global Vaccine Safety Blueprint 2.0 (GVSB2.0)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "2019",
+            "issn": "",
+            "pages": "1--38",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Vaccine safety net",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "The Future Vaccine Manufacturing Research Hub: securing the supply of essential vaccines",
+            "authors": [
+                {
+                    "first": "Vax",
+                    "middle": [],
+                    "last": "Hub",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Announces Positive Phase 1 Results for the First Systemic Messenger RNA Therapeutic Encoding a Secreted Protein (mRNA-1944)",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Moderna",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Moderna",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Start of clinical trials for LimmaTech's Shigella vaccine",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Startupticker",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ch",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Characterization and immunogenicity of a Shigella flexneri 2a O-antigen bioconjugate vaccine candidate",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ravenscroft",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Braun",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schneider",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Dreyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wetter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Haeuptle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Glycobiology",
+            "volume": "29",
+            "issn": "",
+            "pages": "669--80",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/glycob/cwz044"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Emerging Technologies for Low-Cost, Rapid Vaccine Manufacture",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Kis",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Shattock",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Kontoravdi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Biotechnol J",
+            "volume": "14",
+            "issn": "",
+            "pages": "1--14",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/biot.201800376"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Emerging Technologies for Low-Cost, Rapid Vaccine Manufacture",
+            "authors": [
+                {
+                    "first": "Kis",
+                    "middle": [],
+                    "last": "Zolt\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shattock",
+                    "middle": [],
+                    "last": "Robin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shah",
+                    "middle": [],
+                    "last": "Nilay",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kontoravdi",
+                    "middle": [],
+                    "last": "Cleo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Biotechnol. J",
+            "volume": "14",
+            "issn": "7",
+            "pages": "1--2",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/biot.v14.710.1002/biot.201970055"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "How can controlled human infection models accelerate clinical development and policy pathways for vaccines against Shigella?",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Giersing",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Porter",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kotloff",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Neels",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cravioto",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Maclennan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Vaccine",
+            "volume": "37",
+            "issn": "",
+            "pages": "4778--83",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2019.03.036"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Phase 1 clinical trial to evaluate safety and effectiveness of ZIKA vaccine in healthy adults",
+            "authors": [],
+            "year": 2019,
+            "venue": "Clinical Trials Registry India. A",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Safety, and Immunogenicity of an Escherichia coli-Produced Bivalent Human Papillomavirus Vaccine: An Interim Analysis of a Randomized Clinical Trial",
+            "authors": [
+                {
+                    "first": "Y-L",
+                    "middle": [],
+                    "last": "Qiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R-C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-M",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L-H",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-G",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Natl Cancer Inst",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jnci/djz074"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Immunogenicity noninferiority study of 2 doses and 3 doses of an Escherichia coli-produced HPV bivalent vaccine in girls vs. 3 doses in young women. Sci China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Life Sci",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11427-019-9547-7"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Phase III Clinical Trial of a 13-valent Pneumococcal Conjugate Vaccine in Healthy Infants",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Nih",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Recent advances in the production of recombinant glycoconjugate vaccines",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kay",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cuccui",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Wren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Vaccines",
+            "volume": "4",
+            "issn": "",
+            "pages": "1--8",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41541-019-0110-z"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Dysregulated Humoral Immunity to Nontyphoidal Salmonella in HIV-Infected African Adults",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Maclennan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Gilchrist",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gordon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cunningham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cobbold",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Goodall",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kingsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jjg",
+                    "middle": [],
+                    "last": "Van Oosterhout",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Msefula",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mandala",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Leyton",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Marshall",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Gondwe",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bobat",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lopez-Macias",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Doffinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Zijlstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Dougan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Drayson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Icm",
+                    "middle": [],
+                    "last": "Maclennan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Molyneux",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Science",
+            "volume": "328",
+            "issn": "5977",
+            "pages": "508--520",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science:1180346"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Invasive nontyphoidal salmonella disease: An emerging and neglected tropical disease in Africa",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Feasey",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Dougan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kingsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Heyderman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gordon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Lancet",
+            "volume": "379",
+            "issn": "11",
+            "pages": "61752--61754",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(11)61752-2"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Gavi announcement: vaccine manufacturer GS1 compliance",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Gavi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Immunogenicity of a quadrivalent Ann Arbor strain live attenuated influenza vaccine delivered using a blow-fill-seal device in adults: A randomized, active-controlled study",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sheldon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jeanfreau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sliman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Charenkavanich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Rousculp",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Dubovsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Influenza Other Respi Viruses",
+            "volume": "7",
+            "issn": "",
+            "pages": "1142--50",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/irv.12027"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Exploring new packaging and delivery options for the immunization supply chain",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zehrung",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jarrahian",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Giersing",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kristensen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Vaccine",
+            "volume": "35",
+            "issn": "",
+            "pages": "2265--71",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2016.11.095"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Fig. 1. Timeline of health achievements and vaccine introductions in the Americas from 1970 to 2020. Legend: Twelve major health achievements of the PAHO region are plotted along a timeline from 1970 to 2020. Dark blue dots and text boxes represent elimination/eradication of the diseases indicated in underlined red text (smallpox, poliomyelitis, measles, rubella and congenital rubella syndrome, neonatal tetanus); light blue dots with dashed text boxes represent introduction of novel vaccines; the green dot with dotted text box represents future goals to be achieved. HPV: human papillomavirus vaccine. Courtesy of J. Barbosa, PAHO.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "INFECTIONS AND MATERNAL IMMUNIZATION MALARIA ZOONOTIC, EMERGING, AND SEXUALLY TRANSMITTED DISEASES ENTERIC AND DIARRHEAL DISEASES PATH's Center for Vaccine Innovation and Access spectrum of projects. legend: PATH portfolio snapshot at December 2019, which includes over two dozen vaccines in development and use across 17 disease targets. Does not include new or ongoing proposal development work in dengue, Zika or Ebola, nor ongoing support to the Expanded Programme on Immunization in multiple countries. In the upper panel, grey boxes on the first row represent the eight development phases of PATH's product development partnerships, managed by PATH interdisciplinary teams; boxes aligned below these indicate specific antigens or areas of research. The lower panel illustrates four disease areas: enteric and diarrhoeal diseases (blueish group boxes), malaria (purpleish boxes), respiratory infections and maternal immunization (redish group boxes), and zoonotic, emerging and sexually transmitted diseases (greenish group boxes). Colour coding in the upper panel corresponds with coding of antigen or vaccine type in the lower panel. Courtesy of D. Kaslow, PATH.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Developing Country Vaccine Manufacturers' contribution to GAVI markets from 2012 to 2018. legend: The number and corresponding percentage contribution of DCVMN-affiliated (www.dcvmn.org) suppliers is shown by the blue area of the stacked column and pie charts. Red columns or pie area indicate supply contributed by companies affiliated to IFPMA (International Federation of Pharmaceutical Manufacturers & Associations; cf. www.ifpma.org). The green areas show the contribution of manufacturers not affiliated neither to DCVMN nor IFPMA. Non-member subsidiaries were counted according to affiliation of the parent company. DCVMN members' contributions have been steadily increasing, with manufacturers contributing over 2 billion doses, or over 50%, of the vaccine volumes procured between 2012 and 2018. Courtesy of S. Berkley, Gavi.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Market health indicators include market size, market growth, pricing, number of players and number of products. Rajinder Suri (Panacea) reviewed the whole-cell pertussis (wP) pentavalent market from 2011 to 2019. From 2006-2015 demand grew and prices dropped. From 2016 to 2019 volume and price decreased. Some manufacturers exited from the market suggesting that stakeholder alignment on fair pricing and extent of investments are important for sustainabilityFigures 1-10.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Changes in percent of vaccine volume procured by self-procuring, non-Gavi Middle Income Countries (MICs) from DCVMN and IFPMA members manufacturers over time. legend: Pie chart showing increase percentage of vaccine procurement by MICs from DCVMN members (blue area) and from IFPMA members (orange area) through self-procuring, non-Gavi MICs, in 2013 and 2018. The top 5 vaccine groups in which most countries procured from DCVMs in 2018 were Hepatitis B, DTcontaining, BCG and MMR vaccines. Courtesy of T. Cernuschi, WHO. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.) Impact of global vaccine procurement on PAHO Member States. Chart representing the correlation between number of suppliers (Y-axis) and the availability of vaccines in the markets (X-axis). Legend shows the size of the circles representing the number of PAHO member states procuring the respective vaccines indicated in text. Below the horizontal line are vaccines supplied by less than 3 manufacturers, above the horizontal line are depicted vaccines produced by more than 3 manufacturers. Courtesy of PAHO. this article as: S. Pagliusi, M. Dennehy and A. Homma, Two decades of vaccine innovations for global public good: Report of the Developing Countries' Vaccine Manufacturers Network 20th meeting, 21-23 october 2019, Rio de Janeiro, Brazil, Vaccine, https://doi.org/10.1016/j. vaccine.2020.05.062",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "The International Vaccine Initiative vaccine development pipeline. legend: Bar chart indicates nine vaccine candidates developed through IVI collaborations (text listed on the left) and the respective stage of development (horizontal blue bars), from preclinical to licensure and prequalification (text on the upper arrow-boxes). Bivalent, inactivated oral cholera vaccine was the first product to be licensed and prequalified. A Vi-DT typhoid conjugate vaccine is currently in Phase III trials with two DCVM partners. Seven other vaccine candidates are in earlier development stages. Courtesy of A. Wartel, IVI. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Increasing number of registrations granted by ANVISA for medicines, including biological products, from 2014 to 2018. legend: Colum chart illustrating the number of products registrations (Y axis) granted by ANVISA each year (X axis). Since 2015 the number of approved products increased, as compared to 2014. In 2018, ANVISA authorized 827 registrations of drugs or biologicals, including 10 new medicines for rare diseases; in addition, 173 dossiers prioritizations were granted. Courtesy of B. Moreira, Anvisa.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "Nine innovations short-listed under the VIPS initial prioritization phase. legend: The pictures are examples of the innovation category. The second and final prioritization phase will analyze the 9 innovations in the context of 17 priority vaccines. A final list of three or four prioritized innovations will be published in March 2020. Courtesy of M. Menozzi-Arnaud, Gavi.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ". 1. Timeline of health achievements and vaccine introductions in the Americas from 1970 to 2020. Legend: Twelve major health achievements of the PAHO region are plotted along a timeline from 1970 to 2020. Dark blue dots and text boxes represent elimination/eradication of the diseases indicated in underlined red text (smallpox, poliomyelitis, measles, rubella and congenital rubella syndrome, neonatal tetanus); light blue dots with dashed text boxes represent introduction of novel vaccines; the green dot with dotted text box represents future goals to be achieved. HPV: human papillomavirus vaccine. Courtesy of J. Barbosa, PAHO. David Kaslow (PATH) commended the malaria immunization in Malawi in 2019 and public-private partnerships of PATH's Malaria Vaccine Initiative. He reviewed the portfolio and activities of PATH's Center for Vaccine Innovation and Access (CVIA) [4] towards achieving the affordable meningitis A, Japanese encephalitis and novel rotavirus vaccines. Ongoing innovation projects include over two dozen vaccines under development across 17 disease targets",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Fig. 10. FVMR Hub innovative vaccine platforms. Research within the Future Vaccine Manufacturing Research Hub (FVMR Hub), a donor of DCVMN that is led by Imperial College, London, and directed by Professor Robin Shattock, focuses on four innovative technologies: generalized modules for membrane antigens (GMMA), baculovirus, yeast, and RNA. The blue text summarizes advantages or strengths of each technology and generalized challenges are shown in orange text. Risk level, indicated by the purple arrow, is categorized according to development stage of each technology. GMMA is the most developed technology, therefore the lowest risk. For further details, refer to[35] and[36]. More information on the FVMR Hub may be found at https://www.imperial.ac.uk/future-vaccine-hub. Courtesy B. Pierce, FVMN. Credit for images is given to luminance studio/, Voodison328/, Aldona Griskeviciene/ nobeastsoffierce/shutterstock.com.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We are grateful for the generous availability of all speakers and moderators whose made the meeting possible and contributed to its success. We are particularly thankful to the session rapporteurs: ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "The authors alone are responsible for the views expressed in this article, which do not necessarily represent the views, decisions or policies of any mentioned institutions with which the authors are affiliated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Disclaimer"
+        }
+    ]
+}

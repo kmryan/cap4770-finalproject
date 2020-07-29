@@ -1,0 +1,450 @@
+{
+    "paper_id": "3c0ae9e7e0fce77495f1b0e54f1bf203e9508f22",
+    "metadata": {
+        "title": "Journal Pre-proofs Endothelial progenitor cells and mesenchymal stem cells to overcome vascu- lar deterioration and cytokine storm in critical patients with COVID-19 Endothelial progenitor cells and mesenchymal stem cells to overcome vascular deterioration and cytokine storm in critical patients with COVID-19",
+        "authors": [
+            {
+                "first": "Fatih",
+                "middle": [],
+                "last": "Karaahmet",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Medicana International Ankara Hospital",
+                    "location": {
+                        "settlement": "Ankara",
+                        "country": "Turkey"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Altan",
+                "middle": [],
+                "last": "Sinan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Kocaman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Medicana International Ankara Hospital",
+                    "location": {
+                        "settlement": "Ankara",
+                        "country": "Turkey"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "We hereby declare that all authors have made a substantial contribution to the information submitted for publication; all have read and approved the final manuscript and the manuscript or portionsthereof are not under consideration by another journal. Also, we have no conflict of interest to report.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2 or COVID-2019) is an emerging global health threatening viral infection pathogen, originating from Wuhan, Autoimmunity and infectious agents seems potential immunologic triggers in COV\u0130D-19. The clinical spectrum of COVID-19 infection ranges from asymptomatic to critical patient clinic that requires intensive care management. Poorer prognosis is associated with the advanced age, diabetes mellitus and hypertension, which are also vascular risk factors (4) .",
+            "cite_spans": [
+                {
+                    "start": 515,
+                    "end": 518,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Endothelial progenitor cells and mesenchymal stem cells to overcome vascular deterioration and cytokine storm in critical patients with COVID-19"
+        },
+        {
+            "text": "Besides the adequate immune system, sufficient vascular endothelial repair reserve and immune regulatory capacity are needed for resolving the cytokine storm and endothelial damage occurring in this disease. On the other side, activation of cytokine-mediated inflammation, endothelial dysfunction and thrombus formation and this way vascular cardiopulmonary collapse leads to poor prognostic result of the COVID-19 process. Further, high blood pressure, thrombosis, pulmonary embolism and catastrophic course leads to suggest that the virus is also targeting the endothelium (5, 6) . In light of this information, the sufficient repair of the endothelial lining of blood vessels with Endothelial progenitor cells (EPCs) treatment may have a crucial role to overcome the vascular collapse driving forces in COVID-19 patients, as well as to modulate human immune system.",
+            "cite_spans": [
+                {
+                    "start": 575,
+                    "end": 578,
+                    "text": "(5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 579,
+                    "end": 581,
+                    "text": "6)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Endothelial progenitor cells and mesenchymal stem cells to overcome vascular deterioration and cytokine storm in critical patients with COVID-19"
+        },
+        {
+            "text": "EPCs include a heterogeneous population of hematopoietic and nonhematopoietic progenitor cells. Expression of specific surface markers (i.e., CD34, VEGF-R2, CD133) has been generally accepted as an identifying characteristic of these cells. Circulating EPC level and function may serve as both biomarkers of vascular function and as prognostic indices for vascular disease. Accumulating evidence leads to suggest that bone marrow-derived EPCs for repairing endothelial damage is now considered as an important novel potential therapeutic option for vascular repair (7, 8) . In critical patients in the course of COVID-19, EPCs may have an important contribution to stem cell treatments to maintain vascular endothelin functions.",
+            "cite_spans": [
+                {
+                    "start": 565,
+                    "end": 568,
+                    "text": "(7,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 569,
+                    "end": 571,
+                    "text": "8)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Endothelial progenitor cells and mesenchymal stem cells to overcome vascular deterioration and cytokine storm in critical patients with COVID-19"
+        },
+        {
+            "text": "Mesenchymal stem cells (MSCs) can be derived from various adult tissues with multipotent and self-renewal abilities. The beneficial effects of MSCs like tissue repair and immunomodulatory properties have made them a encouraging therapy in different types of disorders. MSCs could encourage inflammation when the immune system is underactivated and restrict inflammation when the immune system is overactivated to prevent self-overattack (9) .",
+            "cite_spans": [
+                {
+                    "start": 437,
+                    "end": 440,
+                    "text": "(9)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Endothelial progenitor cells and mesenchymal stem cells to overcome vascular deterioration and cytokine storm in critical patients with COVID-19"
+        },
+        {
+            "text": "In critical patients who do not respond to current treatment, the restoration of vascular endothelial function and modulation of immune system by synergistic use of EPCs and MSCs may have a crucial role to overcome the vascular collapse driving forces in COVID-19 patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Endothelial progenitor cells and mesenchymal stem cells to overcome vascular deterioration and cytokine storm in critical patients with COVID-19"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Potential effect of natural and anabolizan steroids in elderly patient with COVID-19. Med Hypotheses",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Karaahmet",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Karaahmet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "140",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mehy.2020.109772"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The Human Coronavirus Disease COVID-19: Its Origin, Characteristics, and Insights into Potential Drugs and Its Mechanisms. Pathogens",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Alanagreh",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Alzoughool",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Atoum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "29",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/pathogens9050331"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "COVID-19: an update on diagnostic and therapeutic approaches",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Iyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Jayaramayya",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Subramaniam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMB Rep",
+            "volume": "53",
+            "issn": "",
+            "pages": "191--205",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Acute myocardial injury is common in patients with covid-19 and impairs their prognosis. Heart",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Xiong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/heartjnl-2020-317007"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Endothelial cell infection and endotheliitis in COVID-19",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Varga",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Flammer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Steiger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "2",
+            "issn": "",
+            "pages": "1417--1418",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "COVID-19 and the cardiovascular system: implications for risk assessment, diagnosis, and treatment options",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guzik",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mohiddin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dimarco",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Cardiovasc Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Endothelial progenitor cells (CD34+KDR+) and monocytes may provide the development of good coronary collaterals despite the vascular risk factors and extensive atherosclerosis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kocaman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Yal\u00e7\u0131n",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ya\u011fc\u0131",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Anadolu Kardiyol Derg",
+            "volume": "11",
+            "issn": "",
+            "pages": "290--299",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Endothelial and cardiac progenitor cells for cardiovascular repair: A controversial paradigm in cell therapy",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Bianconi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sahebkar",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kovanen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Pharmacol Ther",
+            "volume": "181",
+            "issn": "",
+            "pages": "156--168",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Immune modulation by mesenchymal stem cells",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Cell Prolif",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "We hereby declare that all authors have made a substantial contribution to the information submitted for publication; all have read and approved the final manuscript and the manuscript or portionsthereof are not under consideration by another journal",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Acknowledgment",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Support",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "China in December 2019 (1). There is no proven effective curable management for COVID-19. However, developments in the treatment of COVID-19 are intriguing. Understanding immunopathogenesis of COVID-19 is very important for developing efficient treatment regimens. There are a rapidly increasing number of clinical investigations of cell-based therapy approaches for COVID-19. Moreover, a variety of anti-inflammatory agent that can reduce the entry of the virus into the cell, various antivirals studied for other viruses, anticoagulants, vitamins, antibiotics, immune system modulators and immune plasma are applied. Likewise, working towards the development of vaccines against COVID-19continues rapidly/intensely(2,3).",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

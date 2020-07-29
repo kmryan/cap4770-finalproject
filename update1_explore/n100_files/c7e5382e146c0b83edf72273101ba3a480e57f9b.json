@@ -1,0 +1,1375 @@
+{
+    "paper_id": "c7e5382e146c0b83edf72273101ba3a480e57f9b",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Elena",
+                "middle": [],
+                "last": "Cavarretta",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sapienza University of Rome",
+                    "location": {
+                        "settlement": "Latina",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Giuseppe",
+                "middle": [],
+                "last": "Biondi-Zoccai",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sapienza University of Rome",
+                    "location": {
+                        "settlement": "Latina",
+                        "country": "Italy"
+                    }
+                },
+                "email": "giuseppe.biondizoccai@uniroma1.it."
+            },
+            {
+                "first": "Giacomo",
+                "middle": [],
+                "last": "Frati",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sapienza University of Rome",
+                    "location": {
+                        "settlement": "Latina",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Francesco",
+                "middle": [],
+                "last": "Versaci",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ospedale Santa Maria Goretti",
+                    "location": {
+                        "settlement": "Latina",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Biondi",
+                "middle": [],
+                "last": "Giuseppe",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Zoccai",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "2 So far as any single place could claim the honor of being the seat of the scientific revolution, the distinction must belong to Padua Herbert Butterfield, 1957 Severe acute respiratory syndromes-coronavirus-2 (SARS-CoV-2) infection has wreaked havoc globally with an ominous morbidity and mortality impact. [1, 2] Indeed, coronavirus-associated disease-2019 (COVID-2019) still represents a formidable challenge for pathophysiology, prognostication, management and rehabilitation, this holds even truer given the conflicting reports accrued so far for several purportedly effective interventions. [1, 3, 4] While substantial steps have been accomplished in terms of diagnostic yield, even recognizing early infection is still quite challenging. Each country has addressed COVID-19 in its own way, with variable results.",
+            "cite_spans": [
+                {
+                    "start": 144,
+                    "end": 161,
+                    "text": "Butterfield, 1957",
+                    "ref_id": null
+                },
+                {
+                    "start": 309,
+                    "end": 312,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 313,
+                    "end": 315,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 598,
+                    "end": 601,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 602,
+                    "end": 604,
+                    "text": "3,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 605,
+                    "end": 607,
+                    "text": "4]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Perusing data on China's experience with the virus, which have been questioned in terms of completeness and truthfulness of reporting, with some skepticism despite several authoritative reports [5] . Countries and healthcare systems, which have acted with a global vision, but also with a firm and proactive local hand, have seen the best results in terms of deaths and system derangement. Conversely, countries with a loose policy (either initially such as UK or throughout such as Sweden) have already paid an enormous toll of life and pain, and hypothetically will likely continue to do so. [6] As any family interaction recapitulates society interactions at large, so local management practices of SARS-CoV-2, with their successes and failures, reminds us of more global efforts at managing this pandemic, and thus may offer important insights for current practitioners, as well as for those facing similar threats in the near or long-term future.",
+            "cite_spans": [
+                {
+                    "start": 194,
+                    "end": 197,
+                    "text": "[5]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 594,
+                    "end": 597,
+                    "text": "[6]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In the present issue, Pasin and colleagues [7] provide important insights on the real-world challenges faced by the Veneto (Venice) healthcare professionals when in late February-early 3 March 2020 they tackled the COVID-19 breakthrough without much guidance from the World Health Organization or Italian national government. [8] While on the one hand this article represents evidently a case study in regional and local healthcare delivery, sharing the same strengths and limitations of any observational study exploiting compiled data, on the other hand it can poignantly inform current practitioners and hopefully even future healthcare managers and stakeholders. Indeed, despite being close to the other, and facing the same mortal threat of SARS-CoV-2 almost concomitantly, Veneto largely succeeded, while Lombardy largely and loudly failed in doing so. For instance, to date, Veneto has had much fewer cases of COVID-19 than Lombardy, as well as deaths (Figure 1 ). This holds true even taking into account population and density, as also shown by the staggering 1.79 relative risk of dying if infected by SARS-CoV-2 in Lombardy in comparison to Veneto.",
+            "cite_spans": [
+                {
+                    "start": 43,
+                    "end": 46,
+                    "text": "[7]",
+                    "ref_id": null
+                },
+                {
+                    "start": 326,
+                    "end": 329,
+                    "text": "[8]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 959,
+                    "end": 968,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "[9] While several reasons might be advanced to explain the failure of Lombardy, it is more constructive to emphasize best practices put forward in Veneto, which included a multidimensional effort based on shared decision making aimed at local containment, forceful mitigation, expansion of intensive care unit and stepdown unit facilities, selective intubation protocols, and so on. In particular, the choice to increase nurse to patient ratio, emphasizing the role of nursing and paramedic personnel was a smart choice, as was the decision to adopt relatively restrictive intubation protocols and liberal use of ultrasound guidance. [5, 10] While sparingly adopted, prone positioning for non-invasive ventilation likely contributed to Veneto's success, as was selective use of extra-corporeal membrane oxygenation based on precise hemodynamic data, [11] which, despite the theoretical benefits, may actually serve simply as a bridging strategy if used too liberally. [12] [13] [14] Not all that glitters is gold; in retrospect, we may consider too optimistic opinions, and a shotgun approach to the medical therapy administered to patients with COVID-19, without really convincing data in support of any drug treatment. Accordingly, Veneto, as well as many other early 4 combatants in the fight against SARS-CoV-2, failed to exploit this chronological advantage to design and implement one or more platforms and pragmatic randomized trials, which could have proved crucial to better treat subsequent patients and even more so by informing other practitioners elsewhere. Considering that most institutions in Veneto used a common electronic health record, adding a brief consent form and randomization module would have been easy, and it would have generated a veritable database of scientifically sound data on best management practices for COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 634,
+                    "end": 637,
+                    "text": "[5,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 638,
+                    "end": 641,
+                    "text": "10]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 850,
+                    "end": 854,
+                    "text": "[11]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 968,
+                    "end": 972,
+                    "text": "[12]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 973,
+                    "end": 977,
+                    "text": "[13]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 978,
+                    "end": 982,
+                    "text": "[14]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Another missing piece is the non-COVID-19 burden of morbidity and mortality in Veneto. Indeed, it is becoming apparent that many deaths directly due to COVID-19 were not appropriately attributed to this condition. In addition, delays in care for other severe conditions (eg, acute myocardial infarction) have likely caused untoward deaths during these frantic months. [14, 15] Accordingly, in the future efforts at managing SARS-CoV-2 or similarly dreadful infections should consider direct countermeasures for such emergencies, but also the best way to maintain top quality care and networks for other conditions. Conversely, lockdown measures limiting environmental pollution may have contributed to favorable clinical results for several chronic conditions. [16, 17] In conclusion, while hopefully Italy and Europe have already seen the worst of the COVID-19 emergency, it is always important to self-criticize prior actions and interventions in an explicit and constructive fashion. Without indulging in self-complacency, the Italian region of Veneto has combined evidence-based medicine with time tested public health interventions, as well as a global vision with a local proactive stance, successfully controlling the morbidity and mortality impact associated with the spread of SARS-CoV-2 in its borders in the early months of 2020. ",
+            "cite_spans": [
+                {
+                    "start": 368,
+                    "end": 372,
+                    "text": "[14,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 373,
+                    "end": 376,
+                    "text": "15]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 761,
+                    "end": 765,
+                    "text": "[16,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 766,
+                    "end": 769,
+                    "text": "17]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Severe Covid-19",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Berlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gulick",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Martinez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMcp2009575"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "SARS-CoV-2 and COVID-19: facing the pandemic together as citizens and cardiovascular practitioners",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Biondi Zoccai",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Landoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Carnevale",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cavarretta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sciarretta",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Frati",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Minerva Cardioangiol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Relationship between ACE-inhibitors, ARBs and SARS-CoV-2 infection: where are we? Minerva Cardioangiol",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Infusino",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cimino",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lombardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mancone",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cavarretta",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Frati",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Pugliese",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Fedele",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Biondi-Zoccai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.23736/S0026-4725.20.05271-8"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the COVID-19 Pandemic",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Driggin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Madhavan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bikdeli",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chuich",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Laracy",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Biondi-Zoccai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Der Nigoghossian",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Zidar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Haythe",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Brodie",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Beckman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kirtane",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Stone",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Krumholz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Parikh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Am Coll Cardiol",
+            "volume": "75",
+            "issn": "18",
+            "pages": "2352--2371",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Chinese Association of Anesthesiologists Expert Consensus on the Use of Perioperative Ultrasound in Coronavirus Disease",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mi",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Epub ahead of print",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Patients",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Cardiothorac Vasc Anesth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "20",
+            "issn": "",
+            "pages": "30325--30331",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.jvca.2020.04.002"
+                ],
+                "PMID": [
+                    "32418832"
+                ],
+                "PMCID": [
+                    "PMC7194578"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "COVID-19 in Europe: the Italian lesson",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saglietto",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "&apos;ascenzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zoccai",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Ferrari",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "1110--1111",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Network for Coordination of SARS-CoV-2 outbreak in Veneto, Italy",
+            "authors": [],
+            "year": 2020,
+            "venue": "J Cardiothorac Vasc Anesth",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.jvca.2020.05.005"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Covid-19 in Italy: lesson from the Veneto Region",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Mugnai",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bilato",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur J Int Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ejim.2020.05.039"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Coronavirus Disease-2019 (COVID-19) and Cardiovascular Complications",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Cardiothorac Vasc Anesth",
+            "volume": "30",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.jvca.2020.04.041"
+                ],
+                "PMID": [
+                    "32451271"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Hemodynamic Monitoring Options in COVID-19",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Rozental",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Thalappillil",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "White",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Cardiothorac Vasc Anesth",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.jvca.2020.04.050"
+                ],
+                "PMID": [
+                    "32457007"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Extracorporeal membrane oxygenation for critically ill patients with coronavirus-associated disease 2019: an updated perspective of the European experience",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Marullo",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cavarretta",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Biondi-Zoccai",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mancone",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peruzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Piscioneri",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sartini",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Versaci",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Morelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Miraldi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Frati",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Minerva Cardioangiol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.23736/S0026-4725.20.05328-1"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "COVID-19 Outbreak in France: Setup and Activities of a Mobile Extracorporeal Membrane Oxygenation Team During the First 3 Weeks",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Haye",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fourdrain",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Abou-Arab",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Berna",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Mahjoub",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Epub ahead of print",
+            "authors": [
+                {
+                    "first": "Cardiothorac",
+                    "middle": [],
+                    "last": "Vasc",
+                    "suffix": ""
+                },
+                {
+                    "first": "Anesth",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "8",
+            "issn": "",
+            "pages": "30424--30433",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.jvca.2020.05.004"
+                ],
+                "PMID": [
+                    "32457006"
+                ],
+                "PMCID": [
+                    "PMC7207137"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Patient Demographics and Extracorporeal Membranous Oxygenation (ECMO)-Related Complications Associated With Survival to Discharge or 30-Day Survival in Adult Patients Receiving Venoarterial (VA) and Venovenous (VV) ECMO in a Quaternary Care Urban Center",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kaushal",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Cardiothorac Vasc Anesth",
+            "volume": "33",
+            "issn": "4",
+            "pages": "910--917",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/j.jvca.2018.08.193"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "STelevation myocardial infarction in the COVID-19 era. Minerva Cardioangiol",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Versaci",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Scappaticci",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Calcagno",
+                    "suffix": ""
+                },
+                {
+                    "first": "Del",
+                    "middle": [],
+                    "last": "Prete",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Romeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Peruzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cavarretta",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Frati",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.23736/S0026-4725.20.05343-8"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Impact of environmental pollution and weather changes on the incidence of ST-elevation myocardial infarction",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Biondi-Zoccai",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Frati",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gaspardone",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mariano",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Di",
+                    "middle": [],
+                    "last": "Giosa",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Bolignano",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dei",
+                    "middle": [],
+                    "last": "Giudici",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Calcagno",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Scappaticci",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sciarretta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Valenti",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Casati",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Visconti",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Penco",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Giannico",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Peruzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cavarretta",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Budassi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cosma",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Federici",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Roever",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Romeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Versaci",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur J Prev Cardiol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/2047487320928450"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Climate changes and ST-elevation myocardial infarction treated with primary percutaneous coronary angioplasty",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Versaci",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Biondi-Zoccai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Giudici",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mariano",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Trivisonno",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sciarretta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Valenti",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Peruzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cavarretta",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Frati",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Scappaticci",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Federici",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Romeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Int J Cardiol",
+            "volume": "294",
+            "issn": "",
+            "pages": "1--5",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijcard.2019.07.006"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Legend",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Comparative results of three Italian regions (Lombardy, Veneto and Latium) in facing the severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) infection and the ensuing coronavirus-associated disease-2019 (COVID-19) pandemic (top panel), and potential hurdles and ways to effectively managing this emergency (bottom panel). ICU=intensive care unit.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

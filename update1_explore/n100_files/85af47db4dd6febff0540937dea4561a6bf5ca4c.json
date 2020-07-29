@@ -1,0 +1,4161 @@
+{
+    "paper_id": "85af47db4dd6febff0540937dea4561a6bf5ca4c",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Cec\u00edlia",
+                "middle": [],
+                "last": "Tomori",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Johns Hopkins University School of Nursing",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Karleen",
+                "middle": [],
+                "last": "Gribble",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Western Sydney University",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Aunchalee",
+                "middle": [
+                    "E L"
+                ],
+                "last": "Palmquist",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Carolina Global Breastfeeding Institute",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Mija-Tesse",
+                "middle": [],
+                "last": "Ververs",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Johns Hopkins University Bloomberg School of Public Health",
+                    "location": {
+                        "addrLine": "Center for Humanitarian Health"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Marielle",
+                "middle": [
+                    "S"
+                ],
+                "last": "Gross",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Johns Hopkins University Berman Institute of Bioethics",
+                    "location": {}
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The World Health Organisation (WHO) has provided detailed guidance on the care of infants of women who are a person under investigation (PUI) or confirmed to have COVID-19, which supports immediate postpartum mother-infant contact and breastfeeding with appropriate respiratory precautions. Although many countries have followed WHO guidance, others have implemented infection prevention and control policies (IPC) that impose varying levels of postpartum separation and discourage or prohibit breastfeeding or provision of expressed breastmilk. These policies aim to protect infants from the potential harm of infection from their mothers, yet they may fail to fully account for the impact of separation. Global COVID-19 data are suggestive of potentially lower susceptibility and a typically milder course of disease among children, although the potential for severe disease in infancy remains. Separation causes cumulative harms, including disrupting breastfeeding and limiting its protection against infectious disease, which has disproportionate impacts on vulnerable infants. Separation also presumes the replaceability of breastfeedinga risk that is magnified in emergencies. Moreover, separation does not ensure lower viral exposure during hospitalizations and post-discharge, and contributes to the burden on overwhelmed health systems. Finally, separation magnifies maternal health consequences of insufficient breastfeeding and compounds trauma in communities who have experienced long-standing inequities and violence, including family separation. Taken together, separating PUI/confirmed SARS-CoV-2 positive mothers and their infants may lead to excess preventable illnesses and deaths among infants and women around the world. Health services must consider the short-and-long-term impacts of separating mothers and infants in their policies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "1. The World Health Organization has provided comprehensive guidance that promotes proximity and breastfeeding for mothers and infants affected by COVID-19. 2. Some settings followed WHO guidance, while others implemented policies that impose separation on COVID-19-affected mothers and infants. 3. Separation policies aim to protect infants from potential harm from maternal infection with SARS-CoV-2, but fail to account for the impacts of separation. 4. Separation policies have detrimental effects on breastfeeding, and do not ensure lower viral exposure, resulting in potential excess deaths. 5. Health services must consider the full impacts of separating mothers and infants in their policies. Background",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Health policy development for pregnant women, new mothers, and infants in the rapidly changing COVID-19 pandemic presents a significant challenge for governments and organisations. This article is protected by copyright. All rights reserved.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "On March 13, 2020, the World Health Organisation (WHO) published detailed guidance on the care of infants of women who are confirmed to have COVID-19 or who are a person under investigation (PUI) for COVID-19. This guidance recommends immediate postpartum skin-to-skin contact, breastfeeding and rooming-in, with the addition of hand washing and mask-wearing precautions (World Health Organization, 2020a) . These recommendations are informed by evidence that SARS-CoV-2 has thus far not been found in breastmilk and severe COVID-19 illness is rare in infants, coupled with extensive evidence that early proximity and breastfeeding are protective of infant health (World Health Organization, 2020) . In the WHO guidance, separating an infant from their mother and supporting feeding of expressed milk, donor milk, or a breastmilk substitute is only recommended when the mother is too ill to care for the infant or the infant is too ill to breastfeed. The WHO guidance builds on decades of work on maternal and infant health (World Health Organization, 2003 , 2017a , 2017b and has remained consistent since it was first released. Further clarification has been issued on April 28, 2020, strengthening these recommendations and providing additional information for the public as well as health care workers (WHO 2020b). Many governments and health authorities have guidelines aligned with the WHO guidance (Royal College of Obstetricians and Gynaecologists et al., 2020; Public Health Agency of Canada, 2020; College Perinatale Zorg, 2020; Queensland Clinical Guidelines, 2020; Davanzo et al, 2020) .",
+            "cite_spans": [
+                {
+                    "start": 371,
+                    "end": 405,
+                    "text": "(World Health Organization, 2020a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 664,
+                    "end": 697,
+                    "text": "(World Health Organization, 2020)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1024,
+                    "end": 1056,
+                    "text": "(World Health Organization, 2003",
+                    "ref_id": null
+                },
+                {
+                    "start": 1057,
+                    "end": 1064,
+                    "text": ", 2017a",
+                    "ref_id": null
+                },
+                {
+                    "start": 1065,
+                    "end": 1072,
+                    "text": ", 2017b",
+                    "ref_id": null
+                },
+                {
+                    "start": 1441,
+                    "end": 1469,
+                    "text": "Gynaecologists et al., 2020;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1470,
+                    "end": 1507,
+                    "text": "Public Health Agency of Canada, 2020;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1508,
+                    "end": 1538,
+                    "text": "College Perinatale Zorg, 2020;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1539,
+                    "end": 1576,
+                    "text": "Queensland Clinical Guidelines, 2020;",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 1577,
+                    "end": 1597,
+                    "text": "Davanzo et al, 2020)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Nonetheless, reports from high-and low-resource contexts indicate that COVID-19-related hospital infection prevention and control (IPC) policies are being implemented that impose varying levels of postpartum separation and discourage or prohibit breastfeeding or provision of expressed breastmilk by PUI or COVID-19 confirmed mothers. In China, where COVID-19 first arose, mothers and infants were routinely separated and recommended feeding infants with breastmilk substitutes (L. Wang et al., 2020) . A number of other countries have put forth similar guidance to move, or to consider moving, PUI and COVID-19 confirmed mothers and infants immediately after birth into separate rooms, including the Philippines (Philippine Obstetrical and Gynecological Society, 2020), Indonesia (Pemerintah Kabupaten Kulon Progo, 2020), Thailand (Royal College of Obstetricians and Gynaecologists of Thailand, 2020), India (National Neonatal Forum of India, 2020) , Malaysia (Ministry of Health Malaysia, 2020), Japan (Japanese Society for Neonatal Health and Development, 2020) and, initially, the United States (Centers for Disease Control and Prevention, 2020). In the majority of cases where mothers and infants are separated, guidelines encourage mothers to express breastmilk to be delivered via healthy caregivers; in some other cases, however, even expressed milk feeding may be prohibited (e.g. Malaysia). If separation is not possible due to facility limitations and/or \"maternal wishes,\" or \"rooming in\" is allowed, 1.5-2m of distance between mother and infant or other barriers may be recommended (Royal College of Obstetricians and Gynaecologists of Thailand, 2020; Republic of Vietnam Ministry of Health, 2020; Rigourd, 2020; Western Sydney Local Health District, 2020; Centers for Disease Control and Prevention, 2020). In practice, however, even when direct breastfeeding is permitted, it may not be prioritized or adequately supported, particularly when the default recommendation is separation. Similarly, adequate support for breast milk expression when separation is implemented may not be provided.",
+            "cite_spans": [
+                {
+                    "start": 482,
+                    "end": 500,
+                    "text": "Wang et al., 2020)",
+                    "ref_id": null
+                },
+                {
+                    "start": 909,
+                    "end": 949,
+                    "text": "(National Neonatal Forum of India, 2020)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Separation policies aim to protect infants from potential harm of postnatal infection by their COVID-19 suspected or confirmed mothers. While we share these concerns, in this commentary we suggest that these policies may fail to fully account for the impact of separation given current evidence on infant risks from SARS-CoV-2 infection and established importance of proximity and breastfeeding for infants' and women's health.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The body of evidence on COVID-19 in infants has grown substantially since February 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limited evidence on COVID-19 in infants"
+        },
+        {
+            "text": "Research data and reviews show that children constitute a lower proportion of cases than would be expected and generally have milder illness (Ludvigsson, 2020; Du et al., 2020; Zhu et al., 2020 . Nevertheless, some severe cases among infants have been reported and robust understanding of prevalence and severity continues to be hindered by insufficient testing.",
+            "cite_spans": [
+                {
+                    "start": 141,
+                    "end": 159,
+                    "text": "(Ludvigsson, 2020;",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 160,
+                    "end": 176,
+                    "text": "Du et al., 2020;",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 177,
+                    "end": 193,
+                    "text": "Zhu et al., 2020",
+                    "ref_id": "BIBREF115"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Limited evidence on COVID-19 in infants"
+        },
+        {
+            "text": "To date the largest study of COVID-19 focusing on children (n=2143) originates from China and combines 35.9% percent laboratory confirmed and 64.1% suspected cases (Dong et al., 2020) . The authors argued that, while children had relatively mild symptoms overall, infants as a subset had relatively more severe illness compared to other children. However, suspected cases were more likely to have severe symptoms than confirmed cases (Robinson, 2020) and, among the 85 infants with confirmed COVID-19, 78 (92%) had no, mild or moderate symptoms, while 7 infants (8.2%) had severe or critical symptoms (Dong et al., 2020) .",
+            "cite_spans": [
+                {
+                    "start": 164,
+                    "end": 183,
+                    "text": "(Dong et al., 2020)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 434,
+                    "end": 450,
+                    "text": "(Robinson, 2020)",
+                    "ref_id": "BIBREF74"
+                },
+                {
+                    "start": 601,
+                    "end": 620,
+                    "text": "(Dong et al., 2020)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Limited evidence on COVID-19 in infants"
+        },
+        {
+            "text": "Several other settings have so far reported on infection rates in children. As of April 27, 2020",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limited evidence on COVID-19 in infants"
+        },
+        {
+            "text": "Italy reported 1.8% of confirmed cases were among children and two deaths <10 years (no details provided) out of 199,470 individuals (The COVID-19 Task force of the Department of Infectious Diseases and & the IT Service Istituto Superiore di Sanit\u00e0, 2020). These cases are relatively proportionate to the 1.5% of <18 population of Italy, an aging nation. In Spain, with a younger population, 0.8% of 4695 confirmed cases constituted children, 60% of whom required hospitalization, and 9.7% were admitted to PICU (Tagarro et al, 2020) . In the US, in a much younger population (22% under 18 years), data through April 2, 2020 suggest similarly low proportions: of 149,082 cases, 1.7% were among children, of which infants constituted 15% (n=380) (CDCMMWR, 2020). This likely represents significant underreporting of actual cases across all age groups. In these data a greater proportion of severe cases have been reported among infants, requiring hospitalization (59/95 pediatric cases with known hospitalization status, and 5/15 PICU admissions) (CDCMMWR, 2020). In the limited sample (n=295) where hospitalization and underlying condition data were available, most of those hospitalized (28/37 or 77%) had at least one underlying condition, including all those admitted to an ICU. Most pediatric cases, however, lacked data on hospitalization and underlying conditions, and feeding mode was unavailable (CDCMMWR, 2020). Moreover, 3 infants infected with SARS-CoV-2 were reported to have died, however, their cause of death has not been reported and it is unknown whether COVID-19 was found in the large-scale population screening (n=848) and 38 (6.7%) tested positive in the targeted screening group (n=564), compared to 0.8% and 13.7%, respectively, in persons aged 10 and over. Debates over susceptibility remain unresolved, however, as detailed contact tracing from China suggests that children within households had the same likelihood of being infected as adults (Bi et al 2020) and viral loads of children are similar to those of adults . Taken together, global COVID-19 data are suggestive of potentially lower susceptibility and a typically milder course of disease among children, although the potential for severe disease in infancy remains.",
+            "cite_spans": [
+                {
+                    "start": 512,
+                    "end": 533,
+                    "text": "(Tagarro et al, 2020)",
+                    "ref_id": "BIBREF84"
+                },
+                {
+                    "start": 1969,
+                    "end": 1984,
+                    "text": "(Bi et al 2020)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Limited evidence on COVID-19 in infants"
+        },
+        {
+            "text": "Acute harms of physical separation on overall infant health and breastfeeding are well documented. They constitute a key foundation for the \"10 Steps to Successful Breastfeeding\" and the basis for implementing the Baby Friendly Hospital Initiative (World Health Organization, n.d.), a global effort to protect, promote and support breastfeeding in the context of maternity services. Skin to skin contact and proximity are important for infant health and for early maternal-infant interaction regardless feeding mode, but closeness is particularly important for initiating and maintaining breastfeeding (cf. Widstr\u00f6m et al 2019, Moore et al 2016 , Escamilla et al 2016 . While there is growing concern about the impact of separation policies (Stuebe, 2020; Bartick, 2020) , the sequelae of COVID-19-related separation and corresponding insufficient breastfeeding have not yet been adequately mapped.",
+            "cite_spans": [
+                {
+                    "start": 628,
+                    "end": 644,
+                    "text": "Moore et al 2016",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 645,
+                    "end": 667,
+                    "text": ", Escamilla et al 2016",
+                    "ref_id": null
+                },
+                {
+                    "start": 741,
+                    "end": 755,
+                    "text": "(Stuebe, 2020;",
+                    "ref_id": "BIBREF81"
+                },
+                {
+                    "start": 756,
+                    "end": 770,
+                    "text": "Bartick, 2020)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The cumulative impacts of separation"
+        },
+        {
+            "text": "Breastfeeding, an evolutionary adaptation shared by mammals, simultaneously provides infants with developmentally appropriate nutrition and protection against infectious diseases (Tomori et al., 2018) . Infants are inherently vulnerable to infections due to their immature immune systems (Goronzy et al., 2019) . Breastfeeding provides infants with passive immune support through a complex of nutrients, immune cells and other biologically active components that support infant health, growth, and development (Cacho & Lawrence, 2017) .",
+            "cite_spans": [
+                {
+                    "start": 179,
+                    "end": 200,
+                    "text": "(Tomori et al., 2018)",
+                    "ref_id": "BIBREF89"
+                },
+                {
+                    "start": 288,
+                    "end": 310,
+                    "text": "(Goronzy et al., 2019)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 510,
+                    "end": 534,
+                    "text": "(Cacho & Lawrence, 2017)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Separation limits breastfeeding's protection against infectious disease"
+        },
+        {
+            "text": "Worldwide, infants who are not exclusively breastfed are more likely to become seriously ill or perish from infections (Victora et al., 2016) . The impact of breastfeeding on respiratory This article is protected by copyright. All rights reserved.",
+            "cite_spans": [
+                {
+                    "start": 119,
+                    "end": 141,
+                    "text": "(Victora et al., 2016)",
+                    "ref_id": "BIBREF91"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Separation limits breastfeeding's protection against infectious disease"
+        },
+        {
+            "text": "infections is especially notable (Victora et al., 2016; Quigley et al., 2016; Raheem et al., 2017) . While SARS-CoV-2 is a novel virus, breastfeeding's antimicrobial and antiviral properties are well-documented and likely to provide important protective effects (Cacho & Lawrence, 2017 , Liang et al., 2020 . A case study from China of a breastfeeding mother and 13-month-old child found no evidence of virus, but detected IgG antibodies in the mother's breastmilk . Furthermore, breastfeeding provides protection from other serious infections that infants may encounter, including respiratory syncytial virus disease (Nishimura et al., 2009) , influenza A (Melendi et al., 2010) , and severe gastroenteritis ",
+            "cite_spans": [
+                {
+                    "start": 33,
+                    "end": 55,
+                    "text": "(Victora et al., 2016;",
+                    "ref_id": "BIBREF91"
+                },
+                {
+                    "start": 56,
+                    "end": 77,
+                    "text": "Quigley et al., 2016;",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 78,
+                    "end": 98,
+                    "text": "Raheem et al., 2017)",
+                    "ref_id": "BIBREF68"
+                },
+                {
+                    "start": 262,
+                    "end": 285,
+                    "text": "(Cacho & Lawrence, 2017",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 286,
+                    "end": 306,
+                    "text": ", Liang et al., 2020",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 618,
+                    "end": 642,
+                    "text": "(Nishimura et al., 2009)",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 657,
+                    "end": 679,
+                    "text": "(Melendi et al., 2010)",
+                    "ref_id": "BIBREF44"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Separation limits breastfeeding's protection against infectious disease"
+        },
+        {
+            "text": "Insufficient breastfeeding is particularly harmful for poor and marginalized infants who disproportionately suffer adverse health outcomes. In low-and middle-income countries, 72% of admissions for diarrhoea and 57% of those for respiratory infections could be prevented if infants were exclusively breastfed, and infants who are not breastfed have eightfold higher mortality than exclusively breastfed infants (Victora et al 2016) . Additionally, risk is impacted by the level of poverty and marginalization. For instance, a study of infants from slum or otherwise impoverished environments in India, Ghana and Peru found that nonbreastfeed infants were 33 times more likely to die from lower respiratory tract infections This article is protected by copyright. All rights reserved. than exclusively breastfed infants (Bahl et al., 2005) .",
+            "cite_spans": [
+                {
+                    "start": 411,
+                    "end": 431,
+                    "text": "(Victora et al 2016)",
+                    "ref_id": "BIBREF91"
+                },
+                {
+                    "start": 819,
+                    "end": 838,
+                    "text": "(Bahl et al., 2005)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Insufficient breastfeeding disproportionately impacts vulnerable infants"
+        },
+        {
+            "text": "In high income countries, better social infrastructure (e.g. sanitation) and health care means that aggregate excess mortality is not as significant. Nevertheless, almost one third of UK infant hospitalizations for infections could be prevented with six months of breastfeeding (Payne & Quigley, 2017) with the impact of the lack of breastfeeding being greater in more disadvantaged families (Quigley et al., 2006) . Similarly, research in the US calculated that over 700 infant deaths annually could be averted if all infants were breastfed on discharge from hospital (Bartick et al., 2017) . Most of these deaths were a result of sudden infant death syndrome and necrotizing enterocolitis. Both conditions disproportionately impact Black infants reflecting the historical and structural inequities Black communities face in the US (Bartick et al., 2017; Roberts, 1997; Bailey et al., 2017) . Therefore, immediate postpartum separation introduces significant risk of secondary iatrogenic harms due to disruption of breastfeeding, particularly in communities already facing marginalization, poor health, and structural barriers to care prior to the COVID-19 pandemic. For these reasons, consideration of any clinical or public health intervention that may reduce the ability of infants to be exclusively breastfed must be seriously interrogated.",
+            "cite_spans": [
+                {
+                    "start": 278,
+                    "end": 301,
+                    "text": "(Payne & Quigley, 2017)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 392,
+                    "end": 414,
+                    "text": "(Quigley et al., 2006)",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 569,
+                    "end": 591,
+                    "text": "(Bartick et al., 2017)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 833,
+                    "end": 855,
+                    "text": "(Bartick et al., 2017;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 856,
+                    "end": 870,
+                    "text": "Roberts, 1997;",
+                    "ref_id": "BIBREF73"
+                },
+                {
+                    "start": 871,
+                    "end": 891,
+                    "text": "Bailey et al., 2017)",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Insufficient breastfeeding disproportionately impacts vulnerable infants"
+        },
+        {
+            "text": "Guidance that recommends separation builds on an implicit assumption that the harmful impacts of separation on breastfeeding can be mitigated. This assumption undervalues the importance of breastfeeding on infant health even under non-emergency conditions. During the pandemic, the impact of disruptions to breastfeeding are magnified. Those struggling with breastfeeding due to early separation at the hospital may not have access to human milk: the-first line replacement feeding option (Kotalik, 2020; WXIN-TV Indianapolis, 2020 ). In the US and the UK, panic buying of infant formula after emergency measure declarations have resulted in shortages (National WIC Association, 2020; Brown, 2020) . Families without access to appropriate breastmilk substitutes may be forced to resort to even more risky alternatives such as unmodified cow's milk or early use of solid foods if separation has resulted in insufficient maternal milk. Finally, in some settings infant formula manufacturers are using the pandemic as a further marketing opportunity that will undermine overall breastfeeding and consequently maternal and infant health (Small, 2020) .",
+            "cite_spans": [
+                {
+                    "start": 489,
+                    "end": 504,
+                    "text": "(Kotalik, 2020;",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 505,
+                    "end": 531,
+                    "text": "WXIN-TV Indianapolis, 2020",
+                    "ref_id": null
+                },
+                {
+                    "start": 652,
+                    "end": 684,
+                    "text": "(National WIC Association, 2020;",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 685,
+                    "end": 697,
+                    "text": "Brown, 2020)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1133,
+                    "end": 1146,
+                    "text": "(Small, 2020)",
+                    "ref_id": "BIBREF80"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Hidden assumptions about the replaceability of breastfeeding"
+        },
+        {
+            "text": "The assumption that infants will have lower total likelihood of becoming infected with SARS-CoV-2 if separated from their mothers assumes that WHO precautions (e.g.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Separation does not ensure lower viral exposure during hospitalization or afterwards"
+        },
+        {
+            "text": "handwashing, wearing a medical mask, coughing/sneezing into tissues, disinfecting surfaces) (WHO 2020a (WHO , 2020b , are insufficient and that there is no other source of infection. In limited available data to date, no infections have been reported from proximate care and breastfeeding. In an Australian case study of a mother who tested positive and her infant who received proximate care, and who breastfed while observing mask-wearing and handwashing precautions, reported no illness in the infant including during post-discharge follow-up (Lowe & Bopp, 2020) . Considerable evidence of nosocomial transmission of SARS-CoV-2 from China (Y. Wang et al., 2020) , Italy (Nacoti et al., 2020) , Germany (Schwierzeck, 2020) , and the US (Butler, 2020; Goch, 2020) , however, suggests that healthcare workers also constitute a significant source of exposure. Health care settings around the world are currently facing critical shortages of personal protective equipment, testing capacity, and staff needed to implement recommended IPC in facilities. Additionally, alternate caregivers who appear This article is protected by copyright. All rights reserved. healthy may still be sources of exposure . As much as 44% of viral transmission may take place during the presymptomatic stage (He et al., 2020) . Finally, infants who are separated in hospital are likely to be reunited with their mothers upon discharge, potentially before viral shedding is complete (~14 days) (W\u00f6lfel et al., 2020) . The infant will then be exposed to the virus from the mother as well as to other sources of infection in the home. Separation may therefore not serve its intended purpose of protection from the virus.",
+            "cite_spans": [
+                {
+                    "start": 92,
+                    "end": 102,
+                    "text": "(WHO 2020a",
+                    "ref_id": null
+                },
+                {
+                    "start": 103,
+                    "end": 115,
+                    "text": "(WHO , 2020b",
+                    "ref_id": null
+                },
+                {
+                    "start": 546,
+                    "end": 565,
+                    "text": "(Lowe & Bopp, 2020)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 646,
+                    "end": 664,
+                    "text": "Wang et al., 2020)",
+                    "ref_id": null
+                },
+                {
+                    "start": 673,
+                    "end": 694,
+                    "text": "(Nacoti et al., 2020)",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 705,
+                    "end": 724,
+                    "text": "(Schwierzeck, 2020)",
+                    "ref_id": null
+                },
+                {
+                    "start": 738,
+                    "end": 752,
+                    "text": "(Butler, 2020;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 753,
+                    "end": 764,
+                    "text": "Goch, 2020)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1284,
+                    "end": 1301,
+                    "text": "(He et al., 2020)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1469,
+                    "end": 1490,
+                    "text": "(W\u00f6lfel et al., 2020)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Separation does not ensure lower viral exposure during hospitalization or afterwards"
+        },
+        {
+            "text": "A mandate to separate or isolate mothers and infants who are COVID-19 confirmed or PUI but otherwise relatively well risks placing undue stress on already overwhelmed health systems. This concern is increased in locations where the practice of routinely COVID testing women admitted in labor will likely yield additional SARS-CoV-2 positive cases with mild, or pre-or asymptomatic presentation in pregnancy (Breslin et al., 2020; Sutton et al., 2020) .",
+            "cite_spans": [
+                {
+                    "start": 407,
+                    "end": 429,
+                    "text": "(Breslin et al., 2020;",
+                    "ref_id": null
+                },
+                {
+                    "start": 430,
+                    "end": 450,
+                    "text": "Sutton et al., 2020)",
+                    "ref_id": "BIBREF83"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Overwhelmed health systems"
+        },
+        {
+            "text": "With COVID-19 cases continuing to rise in many settings, and in potential future secondary waves of outbreaks, many hospitals are likely to reach or exceed their capacity. In China (Liu and Tsoi 2020) , Italy (Ramsey, 2020) , Spain (Marx, 2020) , and the US (Rothfeld et al., 2020) , journalists have reported extraordinary conditions where entire hospitals were turned into COVID-19 wards, with staff completely overwhelmed and under extreme stress as health workers care for large numbers of acutely ill and dying patients and also often became sick themselves in high numbers. Under these conditions, separation may not be not a feasible strategy for those mothers and infants who do not require separate care due to severe illness.",
+            "cite_spans": [
+                {
+                    "start": 181,
+                    "end": 200,
+                    "text": "(Liu and Tsoi 2020)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 209,
+                    "end": 223,
+                    "text": "(Ramsey, 2020)",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 232,
+                    "end": 244,
+                    "text": "(Marx, 2020)",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 258,
+                    "end": 281,
+                    "text": "(Rothfeld et al., 2020)",
+                    "ref_id": "BIBREF76"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Overwhelmed health systems"
+        },
+        {
+            "text": "Furthermore, while the focus has been on neonatal health, the maternal health consequences of these separation measures, vis-a-vis compromised breastfeeding are notable across low-middle-and high-income settings. For mothers, lack of breastfeeding is associated with increased risk of postpartum haemorrhage, maternal anaemia, and closely spaced births all of which can be life threatening (Victora et al., 2016; Gribble et al., 2011) . Women who do not breastfeed also face greater risks of breast and other reproductive cancers, and cardiovascular morbidity and mortality (Victora et al., 2016; Chowdhury et al., 2015) .",
+            "cite_spans": [
+                {
+                    "start": 390,
+                    "end": 412,
+                    "text": "(Victora et al., 2016;",
+                    "ref_id": "BIBREF91"
+                },
+                {
+                    "start": 413,
+                    "end": 434,
+                    "text": "Gribble et al., 2011)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 574,
+                    "end": 596,
+                    "text": "(Victora et al., 2016;",
+                    "ref_id": "BIBREF91"
+                },
+                {
+                    "start": 597,
+                    "end": 620,
+                    "text": "Chowdhury et al., 2015)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Maternal health and inequities"
+        },
+        {
+            "text": "The impact of separation on maternal mental health is also significant. Mothers who have experienced separation from their infants due to prematurity, for instance, have experienced acute suffering (Palmquist et al 2020). Mothers report severe stress from not being able to touch or hold their infants with long lasting effects (Carmon, 2020) . Similar to infants, these impacts disproportionately affect mothers, families and communities who have faced historical and persistent structural inequities, such as racism, poverty, neglect and political economic marginalization (Roberts, 1997 negative effects of chronic unresolved grief and psychological distress associated with these recent and historical traumas.",
+            "cite_spans": [
+                {
+                    "start": 328,
+                    "end": 342,
+                    "text": "(Carmon, 2020)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 575,
+                    "end": 589,
+                    "text": "(Roberts, 1997",
+                    "ref_id": "BIBREF73"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Maternal health and inequities"
+        },
+        {
+            "text": "Concerns about severe disease from SARS-CoV-2 in infants appear to be the main driver of guidelines for postpartum separation of mothers and infants. Though motivated by good intentions, this strategy does not sufficiently account for epidemiological evidence or opportunity costs and underestimates the expected sequelae of separation for PUI/confirmed positive mothers and infants. As frequently seen in areas of maternal and child health, the precautionary principle may lead authorities to react to health threats with a perceived abundance of caution. These perceptions may lead to maternal and infant separation recommendations in the context of broader attempts to limit transmission via isolation of cases. In this case, however, such a strategy may inadvertently impose more risks than benefits. The WHO's April 28, 2020 update explicitly addresses discrepancies between its own and different national and professional organizations' guidelines, noting the importance of breastfeeding regardless of socioeconomic circumstance and states that it takes a holistic approach \"based on a full consideration not only of the risks of infection of the infant with COVID-19, but also the risks of serious morbidity and mortality associated with not breastfeeding or the inappropriate use of infant formula milks as well as the protective effects of skin-to-skin contact and breastfeeding.\" (WHO, 2020b) Limitations This commentary provides a synthesis of unintended consequences of separation policies and the harmful impacts of separation on breastfeeding. However, as this is not a systematic This article is protected by copyright. All rights reserved. review, it highlights only key literature and does not engage with the full scope of available literature. Moreover, further emerging research may yield new findings that may lead to novel and different approaches in managing SARS-CoV-2 infection in birthing mothers and infants. Nevertheless, both current literature and evidence from prior epidemics suggests that the integrative perspective taken by the WHO that combines concern for minimizing infection to newborns with that for maintaining proximity and breastfeeding is appropriate in the COVID-19 pandemic.",
+            "cite_spans": [
+                {
+                    "start": 1390,
+                    "end": 1402,
+                    "text": "(WHO, 2020b)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Policy-making in the face of limited evidence"
+        },
+        {
+            "text": "Separating all mother-infant dyads who are suspected or confirmed positive for SARS-CoV-2 regardless of illness severity may lead to a constellation of preventable illnesses and deaths among infants and women around the world. Given the growing evidence of pre-and asymptomatic community transmission, the absence of any effective vaccine or pharmaceutical treatments, and the devastating toll COVID-19 has on health systems, health services must fully consider the short-and-long-term impacts of separating mothers and infants in their policies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion and Future Directions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Infant feeding patterns and risks of death and hospitalization in the first half of infancy: Multicentre cohort study",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Frost",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kirkwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Edmond",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Martines",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bhandari",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Arthur",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bulletin of the World Health Organization",
+            "volume": "83",
+            "issn": "6",
+            "pages": "418--426",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Structural racism and health inequities in the USA: Evidence and interventions. The Lancet",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Bailey",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Krieger",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ag\u00e9nor",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Graves",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Linos",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Bassett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "389",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "COVID-19: Separating Infected Mothers from Newborns: Weighing the Risks and Benefits",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bartick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Trends in Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Suboptimal breastfeeding in the United States: Maternal and pediatric health outcomes and costs",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Bartick",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Schwarz",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jegier",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Reinhold",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Colaizy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bogen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Schaefer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Stuebe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Matern Child Nutr",
+            "volume": "",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/mcn.12366"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Bi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Truelove",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China: A retrospective cohort study. The Lancet Infectious Diseases",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20)30287-5"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Nurses say hospital risks infecting patients with coronavirus-The Washington Post",
+            "authors": [
+                {
+                    "first": "Desmond",
+                    "middle": [],
+                    "last": "Butler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "COVID-19 infection among asymptomatic and symptomatic pregnant women: Two weeks of confirmed presentations to an affiliated pair of New York City hospitals",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Andrikopoulou",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Rupley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-J",
+                    "middle": [],
+                    "last": "Sheen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Aubey",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zork",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Moroz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mourad",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Goffman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "American Journal of Obstetrics & Gynecology MFM",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ajogmf.2020.100118"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Feeding your baby during Coronavirus (COVID-19). Swansea University. Retrieved",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Innate Immunity and Breast Milk",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Cacho",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lawrence",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Frontiers in Immunology",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fimmu.2017.00584"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "They Separated Me From My Baby",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Carmon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Newborns",
+                    "middle": [],
+                    "last": "Coronavirus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "COVID-19): Considerations for Inpatient Obstetric Healthcare Settings",
+            "authors": [],
+            "year": 2019,
+            "venue": "Coronavirus Disease",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Coronavirus Disease 2019 in Children-United States",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Cdcmmwr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MMWR. Morbidity and Mortality Weekly Report",
+            "volume": "69",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.15585/mmwr.mm6914e4"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Breastfeeding and maternal health outcomes: A systematic This article is protected by copyright. All rights reserved. review and meta-analysis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chowdhury",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sinha",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sankar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Taneja",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bhandari",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Rollins",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Martines",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Acta Paediatrica",
+            "volume": "104",
+            "issn": "S467",
+            "pages": "96--113",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "RCOG-richtlijn Coronavirus",
+            "authors": [
+                {
+                    "first": ";",
+                    "middle": [],
+                    "last": "College Perinatale Zorg",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Nvog",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nvk",
+                    "middle": [],
+                    "last": "Knov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Bringing them home: Report of the national inquiry into the separation of Aboriginal and Torres Strait Islander children from their families",
+            "authors": [
+                {
+                    "first": "Australia",
+                    "middle": [],
+                    "last": "Commonwealth Of",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Human Rights and Equal Opportunity Commission",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Breastfeeding and coronavirus disease-2019: Ad interim indications of the Italian Society of Neonatology endorsed by the Union of",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Davanzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Moro",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sandri",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Agosti",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Moretti",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mosca",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "European Neonatal & Perinatal Societies. Maternal & Child Nutrition",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/mcn.13010"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Reproductive Injustice: Racism, Pregnancy, and Premature Birth",
+            "authors": [
+                {
+                    "first": "D.-A",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Features of 16,749 hospitalised UK patients with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Docherty",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Harrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hardwick",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pius",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Norman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Holden",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Read",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Dondelinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Carson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Merson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Plotkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sigfrid",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Halpin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gamble",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Horby",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Nguyen-Van-Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Horby",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.23.20076042"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Epidemiological characteristics of 2143 pediatric patients with 2019 coronavirus disease in China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Pediatrics",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1542/peds.2020-0702"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Clinical characteristics of COVID-19 in children compared with adults in Shandong Province",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s15010-020-01427-2"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "We are not immune\": Henry Ford Health says 734 employees positive for COVID-19",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Goch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Supporting breastfeeding in emergencies: Protecting women's reproductive rights and maternal and infant health",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Gribble",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mcgrath",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Maclaine",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lhotska",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Disasters",
+            "volume": "35",
+            "issn": "4",
+            "pages": "720--738",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1467-7717.2010.01239.x"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Spread of SARS-CoV-2 in the Icelandic Population",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Gudbjartsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Helgason",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jonsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Magnusson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Melsted",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Norddahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Saemundsdottir",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sigurdsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sulem",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Agustsdottir",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Eiriksdottir",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fridriksdottir",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gardarsdottir",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Georgsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gretarsdottir",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Gudmundsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Gunnarsdottir",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gylfason",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Holm",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stefansson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England Journal of Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2006100"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Temporal dynamics in viral shedding and transmissibility of COVID-19",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "H Y"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41591-020-0869-5"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Recommended Meaures to a New Type of Coronavirus Infection in Newborn Infants",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Immune deficiencies at the extremes of age",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Goronzy",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Weyand",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clinical Immunology: Principles and Practice",
+            "volume": "",
+            "issn": "",
+            "pages": "535--543",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "China's Hidden Children: Abandonment, Adoption, and the Human Costs of the One-Child Policy",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "An analysis of SARS-CoV-2 viral load by patient age",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mones",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Veith",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zuchowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hofmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stein",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Edelmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Mothers' Milk Bank seeks vital donors during COVID-19 pandemic | 9news",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kotalik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pei",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shaman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.abb3221"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "The stepwise assembly of the neonatal virome is modulated by breastfeeding",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mattei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        ";"
+                    ],
+                    "last": "Sherrill-Mix",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bittinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kessler",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Baldassano",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Derusso",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ford",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Elovitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mazhani",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zemel",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Bushman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2192-1"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Watching loved ones die without care in Wuhan",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Tsoi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "COVID-19 vaginal delivery -a case report",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Lowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bopp",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Australian and New Zealand Journal of Obstetrics and Gynaecology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Systematic review of COVID-19 in children shows milder cases and a better prognosis than adults",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Ludvigsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Acta Paediatrica",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Impact of Separation on Refugee Families: Syrian Refugees in Jordan. Columbia Global Centers. Amman, and The UN Refugee Agency",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Mcnatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Boothby",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Al-Shannaq",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chandler",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Freels",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Mahmoud",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Majdalani",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zebib",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7916/D80P2GF9"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Breastfeeding is associated with the production of type I interferon in infants infected with influenza virus",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Melendi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Coviello",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bhat",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zea-Hernandez",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferolla",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Polack",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Acta Paediatrica",
+            "volume": "",
+            "issn": "10",
+            "pages": "1517--1521",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Huge avalanche of patients\" hits doctors and hospitals in Spain",
+            "authors": [
+                {
+                    "first": "Willem",
+                    "middle": [],
+                    "last": "Marx",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Guidelines on Management of Coronavirus Disease (COVID-19) in Neonates. Government of Malaysia",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ministry Of Health",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Malaysia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Early skin-to-skin contact for mothers and their healthy newborn infants",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Bergman",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Medley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cochrane Database of Systematic Reviews",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/14651858.CD003519"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "At the Epicenter of the Covid-19 Pandemic and Humanitarian Crises in Italy: Changing Perspectives on Preparation and Mitigation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nacoti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ciocca",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Giupponi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Brambillasca",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Lussana",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pisano",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Goisis",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bonacina",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Fazzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Naspro",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Longhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cereda",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Montaguti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/CAT.20.0080"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "COVID 19 Neonatal Guidelines",
+            "authors": [],
+            "year": 2020,
+            "venue": "National Neonatology Forum",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "WIC Shopping in the COVID-19 Emergency",
+            "authors": [
+                {
+                    "first": "Wic",
+                    "middle": [],
+                    "last": "National",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Association",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Breastfeeding reduces the severity of respiratory syncytial virus infection among young infants: A multi-center prospective study",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nishimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Suzue",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kaji",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Pediatrics International",
+            "volume": "51",
+            "issn": "6",
+            "pages": "812--816",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Breastfeeding and infant hospitalisation: Analysis of the UK",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Payne",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Quigley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Infant Feeding Survey. Maternal Child Nutrition",
+            "volume": "13",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Rekomendasi Pogi Dalam Penanganan Infeksi Virus Corona Pada Maternal",
+            "authors": [],
+            "year": 2020,
+            "venue": "Pemerintah Kabupaten Kulon Progo",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Breastfeeding protects against acute gastroenteritis due to rotavirus in infants",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Plenge-B/Din",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Soto-Ram\u00edrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Karmaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Forster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "European Journal of Pediatrics",
+            "volume": "169",
+            "issn": "12",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Breastfeeding protects against acute gastroenteritis due to rotavirus in infanMaternal",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "P12),-Escamilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Martinez",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Segura-Pscamilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Martinez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "; L"
+                    ],
+                    "last": "Segura",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Segura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "& Child Nutrition",
+            "volume": "12",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Approach to the Management of COVID-19 in Pregnancy and the Newborn",
+            "authors": [],
+            "year": 2020,
+            "venue": "Philippine Obstetrical and Gynecological Society",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Coronavirus Disease (COVID-19), Pregnancy, Childbirth and Caring for Newborns: Advice for Mothers. Government of Canada",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Perinatal Care of Suspected or Confirmed Pregnant Women. State of Queensland",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Queensland Clinical Guidelines",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Exclusive breastfeeding duration and infant infection",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Quigley",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Carson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sacker",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kelly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "European Journal of Clinical Nutrition",
+            "volume": "70",
+            "issn": "12",
+            "pages": "1420--1427",
+            "other_ids": {}
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "How protective is breast feeding against diarrhoeal disease in infants in 1990s England? A casecontrol study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Quigley",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cumberland",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cowden",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Rodrigues",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Archives of Disease in Childhood",
+            "volume": "91",
+            "issn": "3",
+            "pages": "245--250",
+            "other_ids": {}
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "It's not enough\": Inside an Italy hospital struggling to contain COVID-19",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ramsey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Protective effects of breastfeeding against acute respiratory tract infections and diarrhoea: Findings of a cohort study",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Raheem",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Binns",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chih",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Journal of Paediatrics and Child Health",
+            "volume": "53",
+            "issn": "3",
+            "pages": "271--276",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "This article is protected by copyright. All rights reserved",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Republic of Vietnam Ministry of Health. (2020). [Promgulating the Interim Guidance for Acute Respiratory Infection Caused by the SARS-CoV-2 Virus Strain (COVID-19) in Pregnant Women and Infants",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "Allaitement Maternel et Coronavirus SARS-CoV-2 (COVID-19)",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Rigourd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF73": {
+            "ref_id": "b73",
+            "title": "Killing the black body: Race, reproduction, and the meaning of liberty",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF74": {
+            "ref_id": "b74",
+            "title": "Contesting interpretation of COVID-19 in infants and preschool-aged children",
+            "authors": [
+                {
+                    "first": "Whitney",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Robinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1542/peds.2020-0834"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "ref_id": "b75",
+            "title": "Rohingya refugees in Bangladesh: Facts, FAQs, and how to help",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF76": {
+            "ref_id": "b76",
+            "title": "13 Deaths in a Day: An 'Apocalyptic' Coronavirus Surge at an N.Y.C. Hospital. The New York Times",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rothfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sengupta",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Goldstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rosenthal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF77": {
+            "ref_id": "b77",
+            "title": "Royal College of Midwives, Royal College of Paediatrics and Child Health",
+            "authors": [],
+            "year": 2020,
+            "venue": "Public Health England",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF78": {
+            "ref_id": "b78",
+            "title": "First reported nosocomial This article is protected by copyright. All rights reserved. outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in a pediatric dialysis unit",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Schwierzeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kzeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kork",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mellmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Correa-Martrea-Marta-Maromran",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Konrad",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kaiser",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kampmeier",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Clinical Infectious Diseases",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF80": {
+            "ref_id": "b80",
+            "title": "Baby-Friendly USA ~ Now More Than Ever, Baby-Friendly Facilities Must Protect Parents from Commercial Interests. Baby-Friendly USA",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Small",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF81": {
+            "ref_id": "b81",
+            "title": "Should Infants Be Separated from Mothers with COVID-19? First, Do No Harm",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Stuebe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Breastfeeding Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF83": {
+            "ref_id": "b83",
+            "title": "Universal Screening for SARS-CoV-2 in Women Admitted for Delivery",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sutton",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Fuchs",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "D&apos;alton",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Goffman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England Journal of Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2009316"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "ref_id": "b84",
+            "title": "Screening and Severity of Coronavirus Disease",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tagarro",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Epalza",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sanz-Santaeufemia",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Otheo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Moraleda",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Calvo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF87": {
+            "ref_id": "b87",
+            "title": "Epidemiologic and clinical characteristics of 10 children with coronavirus disease 2019 in Changsha",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Journal of Clinical Virology",
+            "volume": "127",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2020.104353"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "ref_id": "b88",
+            "title": "The COVID-19 Task force of the Department of Infectious Diseases and, & the IT Service Istituto Superiore di Sanit\u00e0",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF89": {
+            "ref_id": "b89",
+            "title": "Introduction: Towards new anthropologies of breastfeeding",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Tomori",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Palmquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Quinn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Breastfeeding: New Anthropological Approaches",
+            "volume": "",
+            "issn": "",
+            "pages": "1--25",
+            "other_ids": {}
+        },
+        "BIBREF90": {
+            "ref_id": "b90",
+            "title": "Truth and Reconciliation Commission of Canada (TRC). (n.d.)",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF91": {
+            "ref_id": "b91",
+            "title": "Breastfeeding in the 21st century: Epidemiology, mechanisms, and lifelong effect",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Victora",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Barros",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Fran\u00e7a",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Horton",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Krasevec",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Murch",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sankar",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Rollins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "The Lancet",
+            "volume": "387",
+            "issn": "",
+            "pages": "475--490",
+            "other_ids": {}
+        },
+        "BIBREF93": {
+            "ref_id": "b93",
+            "title": "Chinese expert consensus on the perinatal and neonatal management for the prevention and control of the 2019 novel coronavirus infection",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF96": {
+            "ref_id": "b96",
+            "title": "Unique epidemiological and clinical features of the emerging 2019 novel coronavirus pneumonia (COVID-19) implicate special control measures",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Journal of Medical Virology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF98": {
+            "ref_id": "b98",
+            "title": "COVID-19 Antenatal, Intra-partum, and Postnatal Management Westmead Version 1.0. Government of NSW",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF99": {
+            "ref_id": "b99",
+            "title": "Skin-to-skin contact the first hour after birth, underlying implications and clinical practice",
+            "authors": [
+                {
+                    "first": "A.-M",
+                    "middle": [],
+                    "last": "Widstrnm",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Brimdyr",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Svensson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Cadwell",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Nissen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF100": {
+            "ref_id": "b100",
+            "title": "Skin-to-skin contact t",
+            "authors": [],
+            "year": 2019,
+            "venue": "Acta Paediatrica",
+            "volume": "108",
+            "issn": "7",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF102": {
+            "ref_id": "b102",
+            "title": "Virological assessment of hospitalized patients with COVID-2019",
+            "authors": [],
+            "year": null,
+            "venue": "Nature",
+            "volume": "",
+            "issn": "",
+            "pages": "1--10",
+            "other_ids": {}
+        },
+        "BIBREF104": {
+            "ref_id": "b104",
+            "title": "Clinical management of severe acute respiratory infection (SARI) when COVID-19 disease is suspected. Interim Guidance",
+            "authors": [],
+            "year": 2020,
+            "venue": "World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF105": {
+            "ref_id": "b105",
+            "title": "FREQUENTLY ASKED QUESTIONS: Breastfeeding and COVID-19 For health care workers",
+            "authors": [],
+            "year": 2020,
+            "venue": "World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF106": {
+            "ref_id": "b106",
+            "title": "Ten steps to successful breastfeeding",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF107": {
+            "ref_id": "b107",
+            "title": "Infant and young child feeding in emergencies (Version 3.0). WHO; World Health Organization",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF108": {
+            "ref_id": "b108",
+            "title": "Protection, promoting and supporting breastfeeding in This article is protected by copyright. All rights reserved. facilities providing maternity and newborn services",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF109": {
+            "ref_id": "b109",
+            "title": "Global strategy for infant and young child feeding. World Health Organization",
+            "authors": [],
+            "year": 2003,
+            "venue": "World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF110": {
+            "ref_id": "b110",
+            "title": "Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bushman",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kishore",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Niehus",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "De Salazar",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cowling",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "1--5",
+            "other_ids": {}
+        },
+        "BIBREF112": {
+            "ref_id": "b112",
+            "title": "Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcgoogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF113": {
+            "ref_id": "b113",
+            "title": "Characteristics of an WXIN-TV Indianapolis. The Milk Bank desperately needs donations amid COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "323",
+            "issn": "13",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF114": {
+            "ref_id": "b114",
+            "title": "Breast Milk-fed Infant of COVID-19 Pneumonia Mother: A Case Report",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.21203/rs.3.rs-20792/v1"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "ref_id": "b115",
+            "title": "Clinical characteristics of a case series of children with coronavirus disease",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "implicated in these cases (CDCMMWR, 2020). Among 16,749 patients hospitalized with COVID-19 in the UK as of April 18, 2020, children were again under-represented, with only 0.8% of the cases under 5 years of age (Docherty et al 2020). These data further suggest low prevalence of severe cases among children. Finally, recent work from Iceland (Gudbjartsson et al., 2020), where both targeted and large-scale population screening was undertaken, reported substantially lower incidence of infection among children under 10 years despite elementary schools remaining open. Among children under 10 years no positive cases were",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Plenge-B\u00f6nig et al 2010). If IPC procedures for COVID-19 compromise breastfeeding, infant morbidity and mortality from other infections may increase, potentially outweighing any benefits of avoiding COVID-19. Furthermore, infants may still become exposed to SARS-CoV-2 during their first year of life via caregivers and additional contacts, and decreased breastfeeding may limit their protection from the virus. Thereby separation policies may ultimately increase infants' cumulative risk of COVID-19 itself in the first year of life.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "; Davis, 2019; Truth and Reconciliation Commission of Canada (TRC), n.d.; Commonwealth of Australia, 1997; \"Rohingya refugees in Bangladesh,\" 2020; Bailey et al., 2017). Separation policies may carry with them other unintended negative mental health consequences among communities who have experienced traumas due to exposure to violence including family separation, such as in the context of the recent Rohingya refugees crisis in Bangladesh (\"Rohingya refugees in Bangladesh,\" 2020), and forced displacement in Syria (McNatt et al., 2018), or in the historical context of enslavement of Black Americans in the US (Roberts, 1997; Davis, 2019) and the \"stolen generations\" of Aboriginal and Torres Strait Islander children in Australia (Commonwealth of Australia, 1997). Current COVID-19 postpartum separation policies may exacerbate the This article is protected by copyright. All rights reserved.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

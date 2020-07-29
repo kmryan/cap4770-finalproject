@@ -1,0 +1,1259 @@
+{
+    "paper_id": "8c41d07bdb5ebcc4ac71821e9d2b0ffb1b995009",
+    "metadata": {
+        "title": "Open Development and Clinical Validation Of Multiple 3D-Printed Sample-Collection Swabs: 2 Rapid Resolution of a Critical COVID-19 Testing Bottleneck",
+        "authors": [
+            {
+                "first": "Cody",
+                "middle": [
+                    "J"
+                ],
+                "last": "Callahan Bs",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rose",
+                "middle": [],
+                "last": "Lee",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Katelyn",
+                "middle": [
+                    "E"
+                ],
+                "last": "Zulauf",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Lauren",
+                "middle": [
+                    "Tamburello"
+                ],
+                "last": "Mph",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Beth Israel Deaconess Medical Center",
+                    "location": {
+                        "postCode": "14, 02215 15",
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kenneth",
+                "middle": [
+                    "P"
+                ],
+                "last": "Smith",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Phd",
+                "middle": [],
+                "last": "Bd",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Joe",
+                "middle": [],
+                "last": "Previtera",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Beth Israel Deaconess Medical Center",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Annie",
+                "middle": [],
+                "last": "Cheng Ba",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alex",
+                "middle": [],
+                "last": "Green",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "B",
+                "middle": [
+                    "A"
+                ],
+                "last": "Bd",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ahmed",
+                "middle": [],
+                "last": "Abdul",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Azim",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Amanda",
+                "middle": [],
+                "last": "Yano Mha",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Nancy",
+                "middle": [],
+                "last": "Doraiswami",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "R",
+                "middle": [
+                    "N"
+                ],
+                "last": "Bsn",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "James",
+                "middle": [
+                    "E"
+                ],
+                "last": "Kirby",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ramy",
+                "middle": [
+                    "A"
+                ],
+                "last": "Arnaout",
+                "suffix": "",
+                "affiliation": {},
+                "email": "rarnaout@bidmc.harvard.edu."
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The SARS-CoV-2 pandemic has caused a severe international shortage of the nasopharyngeal 27 swabs that are required for collection of optimal specimens, creating a critical bottleneck in the 28 way of high-sensitivity virological testing for COVID-19. To address this crisis, we designed and 29 executed an innovative, radically cooperative, rapid-response translational-research program 30 that brought together healthcare workers, manufacturers, and scientists to emergently develop 31 and clinically validate new swabs for immediate mass production by 3D printing. We performed 32 a rigorous multi-step preclinical evaluation on 160 swab designs and 48 materials from 24 33 companies, laboratories, and individuals, and shared results and other feedback via a public 34 data repository (http://github.com/rarnaout/Covidswab/). We validated four prototypes through 35 an institutional review board (IRB)-approved clinical trial that involved 276 outpatient volunteers 36 who presented to our hospital's drive-through testing center with symptoms suspicious for 37 COVID-19. Each participant was swabbed with a reference swab (the control) and a prototype, 38 and SARS-CoV-2 reverse-transcriptase polymerase chain reaction (RT-PCR) results were 39 compared. All prototypes displayed excellent concordance with the control (\u03ba=0.85-0.89). Cycle-40 threshold (Ct) values were not significantly different between each prototype and the control, 41 supporting the new swabs' non-inferiority (Mann-Whitney U [MWU] p>0.05). Study staff 42 preferred one of the prototypes over the others and the control swab overall. The total time 43 elapsed between identification of the problem and validation of the first prototype was 22 days. 44 Contact information for ordering can be found at http://printedswabs.org. Our experience holds 45 lessons for the rapid development, validation, and deployment of new technology for this 46 pandemic and beyond.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "2 Abstract 26 The SARS-CoV-2 pandemic has caused a severe international shortage of the nasopharyngeal 27 swabs that are required for collection of optimal specimens, creating a critical bottleneck in the 28 way of high-sensitivity virological testing for COVID-19. To address this crisis, we designed and 29 executed an innovative, radically cooperative, rapid-response translational-research program 30 that brought together healthcare workers, manufacturers, and scientists to emergently develop 31 and clinically validate new swabs for immediate mass production by 3D printing. We performed 32 a rigorous multi-step preclinical evaluation on 160 swab designs and 48 materials from 24 33 companies, laboratories, and individuals, and shared results and other feedback via a public 34 data repository (http://github.com/rarnaout/Covidswab/). We validated four prototypes through 35 an institutional review board (IRB)-approved clinical trial that involved 276 outpatient volunteers 36 who presented to our hospital's drive-through testing center with symptoms suspicious for 37 COVID-19. Each participant was swabbed with a reference swab (the control) and a prototype, 38 and SARS-CoV-2 reverse-transcriptase polymerase chain reaction (RT-PCR) results were 39 compared. All prototypes displayed excellent concordance with the control (\u03ba=0.85-0.89). Cycle-40 threshold (Ct) values were not significantly different between each prototype and the control, 41 supporting the new swabs' non-inferiority (Mann-Whitney U [MWU] p>0.05). Study staff 42 preferred one of the prototypes over the others and the control swab overall. The total time 43 elapsed between identification of the problem and validation of the first prototype was 22 days. 44 Contact information for ordering can be found at http://printedswabs.org. Our experience holds 45 lessons for the rapid development, validation, and deployment of new technology for this 46 pandemic and beyond.",
+            "cite_spans": [
+                {
+                    "start": 11,
+                    "end": 13,
+                    "text": "26",
+                    "ref_id": null
+                },
+                {
+                    "start": 103,
+                    "end": 105,
+                    "text": "27",
+                    "ref_id": null
+                },
+                {
+                    "start": 205,
+                    "end": 207,
+                    "text": "28",
+                    "ref_id": null
+                },
+                {
+                    "start": 402,
+                    "end": 404,
+                    "text": "30",
+                    "ref_id": null
+                },
+                {
+                    "start": 499,
+                    "end": 501,
+                    "text": "31",
+                    "ref_id": null
+                },
+                {
+                    "start": 881,
+                    "end": 883,
+                    "text": "35",
+                    "ref_id": null
+                },
+                {
+                    "start": 1172,
+                    "end": 1174,
+                    "text": "38",
+                    "ref_id": null
+                },
+                {
+                    "start": 1260,
+                    "end": 1262,
+                    "text": "39",
+                    "ref_id": null
+                },
+                {
+                    "start": 1456,
+                    "end": 1458,
+                    "text": "41",
+                    "ref_id": null
+                },
+                {
+                    "start": 1640,
+                    "end": 1642,
+                    "text": "43",
+                    "ref_id": null
+                },
+                {
+                    "start": 1740,
+                    "end": 1742,
+                    "text": "44",
+                    "ref_id": null
+                },
+                {
+                    "start": 1838,
+                    "end": 1840,
+                    "text": "45",
+                    "ref_id": null
+                },
+                {
+                    "start": 1930,
+                    "end": 1932,
+                    "text": "46",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "47"
+        },
+        {
+            "text": "Introduction 48 Since the emergence of the COVID-19 pandemic, more than 2.5 million cases have been 49 diagnosed worldwide (1) . These diagnoses were made using material collected from NP swabs, 50 which provide the highest sensitivity for detecting SARS-CoV-2 infection during early infection 51 using commercial RT-PCR-based assays. An NP swab is an FDA Class I exempt medical 52 device roughly 15 cm in length and 2-3mm in diameter designed to collect secretions from the 53 posterior nasopharynx (Figs. 1a, left and 1b, top) . The head of the swab is generally coated with 54 short synthetic filaments called flock. The swab is inserted into the nasopharynx, rotated several 55 times to collect material, and then placed into a vial containing a few milliliters of transport 56 media. A breakpoint on the shaft enables detachment and release of the head into the vial, 57 which is then sealed and sent for testing. 58 The rapid spread of SARS-CoV-2 has resulted in severe shortages of NP swabs, due to both 59 manufacturing stoppages resulting in decreased supply and the spread of the pandemic 60 resulting in unprecedented demand (2). To address the swab shortage, hospitals and other 61 testing centers have repurposed other commercially available swabs (e.g. throat, urogenital) to 62 collect nasal epithelial mucosa for testing (Fig. 1a , second from left and 1b, second from top). 63 However, such swabs are suboptimal for swabbing the nasopharynx due to differences in size 64 and flexibility and the possibility they contain PCR-inhibitory materials (3, 4). Material from other 65 sites has not yet been shown to be able to substitute for swabbing the nasopharynx. 66 One solution to the swab crisis is to design and 3D-print swabs. Advantages of 3D printing 67 include simplicity (avoiding the multistep process of applying flock), the widespread availability 68 of 3D printing capacity, and the ability to iterate prototypes rapidly (5). To resolve the swab-69 shortage crisis, we have been coordinating an open collaborative process that has brought 70 together many medical centers, individuals, academic laboratories, and both new and well 71 established manufacturers (6). As part of this process, we have been testing and continuously 72 providing feedback on prototype swabs in order to proceed rapidly but safely toward the 73 development of swabs that can be used clinically, at volumes equal to the need. The openness 74 of the process was a conscious decision supported by a substantial body of scientific literature, 75 including the previous experience of the present authors, that demonstrates the advantages of 76 openness over closed or hybrid approaches (7-9). At our institution, this process has led to an 77 ongoing clinical trial of several prototype swabs, the first results of which we report here.",
+            "cite_spans": [
+                {
+                    "start": 13,
+                    "end": 15,
+                    "text": "48",
+                    "ref_id": null
+                },
+                {
+                    "start": 100,
+                    "end": 102,
+                    "text": "49",
+                    "ref_id": null
+                },
+                {
+                    "start": 123,
+                    "end": 126,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 195,
+                    "end": 197,
+                    "text": "50",
+                    "ref_id": null
+                },
+                {
+                    "start": 873,
+                    "end": 875,
+                    "text": "57",
+                    "ref_id": null
+                },
+                {
+                    "start": 919,
+                    "end": 921,
+                    "text": "58",
+                    "ref_id": null
+                },
+                {
+                    "start": 1391,
+                    "end": 1393,
+                    "text": "63",
+                    "ref_id": null
+                },
+                {
+                    "start": 1485,
+                    "end": 1487,
+                    "text": "64",
+                    "ref_id": null
+                },
+                {
+                    "start": 1677,
+                    "end": 1679,
+                    "text": "66",
+                    "ref_id": null
+                },
+                {
+                    "start": 2542,
+                    "end": 2544,
+                    "text": "75",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 500,
+                    "end": 528,
+                    "text": "(Figs. 1a, left and 1b, top)",
+                    "ref_id": "FIGREF9"
+                },
+                {
+                    "start": 1337,
+                    "end": 1345,
+                    "text": "(Fig. 1a",
+                    "ref_id": "FIGREF9"
+                }
+            ],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "78"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. . https://doi.org/10.1101/2020.04.14.20065094 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Process. We created a public repository using GitHub, a free website most often used by 80 programmers to co-develop computer code (http://www.github.com/rarnaout/Covidswab) 6 . We 81 provided a clear description of the problem and updated the repository with whatever we 82 learned and encouraged others to do the same. By tapping our personal and professional 83 networks, we nucleated an ad hoc network of manufacturers that included companies, 84 academic groups, and individuals. This grew to include other medical centers interested in 85 helping develop and test new swabs. These other groups were given the ability to add to the 86 repository as desired. 87 We devised a three-phase process consisting of preclinical evaluation (Phase I), production 88 considerations (Phase II), and field testing (Phase III). We described these processes on the 89 repository for all to see. We took high-resolution photographs of all prototypes and stored Phase 90 I results in a Microsoft Excel (Microsoft Corporation, Redmond, WA, USA) spreadsheet that 91 remains publicly available in the repository. All contributors could see each others' designs and 92 our feedback and iterated accordingly. 93 We made our personal contact information freely available to facilitate communication and CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 88,
+                    "end": 90,
+                    "text": "80",
+                    "ref_id": null
+                },
+                {
+                    "start": 448,
+                    "end": 450,
+                    "text": "84",
+                    "ref_id": null
+                },
+                {
+                    "start": 542,
+                    "end": 544,
+                    "text": "85",
+                    "ref_id": null
+                },
+                {
+                    "start": 663,
+                    "end": 665,
+                    "text": "87",
+                    "ref_id": null
+                },
+                {
+                    "start": 855,
+                    "end": 857,
+                    "text": "89",
+                    "ref_id": null
+                },
+                {
+                    "start": 1192,
+                    "end": 1194,
+                    "text": "93",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "79"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. . https://doi.org/10.1101/2020.04.14.20065094 doi: medRxiv preprint 5 ability to bend tip and neck 90 degrees without breaking; ability to restore to initial form following 110 bend of 45 degrees; Fig. 1d ); strength (resist breakage under rough but reasonable 111 manipulation); and other factors as applicable (e.g. stickiness, smell). 112 Collection sufficiency. We assessed the ability to collect sufficient material for testing using 113 Gram stain of a swab of the interior cheek smeared onto a standard microscopy slide as a 114 surrogate for NP swabbing and comparison to Gram stain of a swab of the interior cheek using 115 Copan Diagnostics, Inc. (Mantua, Italy) model 501CS01 NP swab as the control (Fig. 1c) . Slides 116 were heat fixed and Gram stained according to the BD BBL gram stain test kit protocol (10). 117 Slides were examined at 40x magnification for the presence of both epithelial cells and bacteria. 118 Prototypes were passed if they collected a comparable quantity of the material as the control.",
+            "cite_spans": [
+                {
+                    "start": 410,
+                    "end": 413,
+                    "text": "112",
+                    "ref_id": null
+                },
+                {
+                    "start": 511,
+                    "end": 514,
+                    "text": "113",
+                    "ref_id": null
+                },
+                {
+                    "start": 701,
+                    "end": 704,
+                    "text": "115",
+                    "ref_id": null
+                },
+                {
+                    "start": 897,
+                    "end": 900,
+                    "text": "117",
+                    "ref_id": null
+                },
+                {
+                    "start": 999,
+                    "end": 1002,
+                    "text": "118",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 269,
+                    "end": 276,
+                    "text": "Fig. 1d",
+                    "ref_id": "FIGREF9"
+                },
+                {
+                    "start": 782,
+                    "end": 791,
+                    "text": "(Fig. 1c)",
+                    "ref_id": "FIGREF9"
+                }
+            ],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "119 PCR compatibility. We tested PCR compatibility by incubating the head overnight in 3 mL of 120 modified CDC VTM (Hank's balanced salt solution containing: 2% heat inactivated FBS, 121 100\u03bcg/mL gentamicin, 0.5\u03bcg/mL fungizone, and 10mg/L Phenol red (11)) to allow any PCR-122 inhibitory material to leach into the medium, spiking 1.5mL with 200 copies/mL of control SARS- 123 CoV-2 amplicon target (representing 2 times the limit of detection on our system), vortexing, and 124 testing using the Abbott RealTime SARS-CoV-2 Assay on an Abbott m2000 RealTime System 125 platform (12), following the same protocol as for clinical testing. PCR-positive prototypes 126 passed.",
+            "cite_spans": [
+                {
+                    "start": 374,
+                    "end": 377,
+                    "text": "123",
+                    "ref_id": null
+                },
+                {
+                    "start": 662,
+                    "end": 665,
+                    "text": "126",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Phase II: Production considerations. We considered stability to autoclaving by repeating 128 Phase I testing on post-autoclaved materials; manufacturers' short-term strategies for individual 129 packaging; and manufacturers' stated ability to produce at least 10,000 swabs per day (at the 130 time roughly a week's worth of swabs for a mid-sized testing center) within a week's notice. We 131 considered differences in supply chain to minimize the risk of future crises. CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 89,
+                    "end": 92,
+                    "text": "128",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "127"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. 160 We tested for systematic bias in Ct values by comparing values for controls vs. prototypes using 161 MWU (15). This tested the null hypothesis that values for controls and prototypes are drawn 162 from the same underlying distribution; p>0.05 was interpreted as no bias. For discordant 163 (positive control/negative prototype or vice versa) samples, the negative was assigned a Ct 164 value of 37, the total number of cycles run. As a second test for bias, we compared (again by 165 MWU) the distribution of differences in Ct values between control and prototype swabs to the 166 distribution of differences between two control swabs taken within 24 hours (quality-control data 167 independent of our study). This tested the null hypothesis that the differences between control 168 and prototype swabs and the differences between two control swabs are drawn from the same 169 underlying distribution; p>0.05 was interpreted as no bias.",
+            "cite_spans": [
+                {
+                    "start": 72,
+                    "end": 75,
+                    "text": "160",
+                    "ref_id": null
+                },
+                {
+                    "start": 362,
+                    "end": 365,
+                    "text": "163",
+                    "ref_id": null
+                },
+                {
+                    "start": 855,
+                    "end": 858,
+                    "text": "168",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "170"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. . https://doi.org/10.1101/2020.04.14.20065094 doi: medRxiv preprint 7 To quantify relative preferences among the prototypes, we gave study staff members printouts 171 of all six possible pairs of swabs (a \"round robin\"), in randomized order, and for each pair asked 172 them to circle their preference (A-B testing). We collated the results and assessed preferences.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Open process. In the first days of the development effort GitHub repository (6) (Fig. 1b) . Manufacturers were able to balance sample collection (Fig. 1c) , 201 . CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 80,
+                    "end": 89,
+                    "text": "(Fig. 1b)",
+                    "ref_id": "FIGREF9"
+                },
+                {
+                    "start": 145,
+                    "end": 154,
+                    "text": "(Fig. 1c)",
+                    "ref_id": "FIGREF9"
+                }
+            ],
+            "section": "174"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. . https://doi.org/10.1101/2020.04.14.20065094 doi: medRxiv preprint 8 stiffness, and surface texture. Variations of a longitudinal central strut allowed for varying 202 degrees of stability, flexibility, and impact cushioning (Fig. 1d) . 203 Sample and data acquisition. We collected and tested control and prototype swab pairs from To better assess possible performance differences between control and prototype swabs, we 224 compared Ct values for control-prototype pairs for which at least one was positive (assigning the 225 maximum-possible Ct to negatives; see Methods). Specifically, we asked whether the Ct values 226 for the prototype swabs were systematically different from those of the control swabs. 227 Systematically higher values for prototype swabs would suggest that they may underperform 228 control swabs, notwithstanding the high kappa values. A p-value of >0.05 indicates no statistical 229 difference. Although there were more datapoints below the 1:1 line than above it (Fig. 2b) , 230 statistical testing revealed no evidence for underperformance, with MWU p-values of 0.36, 0.26, 231 0.42, and 0.31 for Prototypes 1-4, respectively (Fig. 2b) . This result supports the conclusion that 232 the prototypes are non-inferior to the control.",
+            "cite_spans": [
+                {
+                    "start": 310,
+                    "end": 313,
+                    "text": "203",
+                    "ref_id": null
+                },
+                {
+                    "start": 495,
+                    "end": 498,
+                    "text": "224",
+                    "ref_id": null
+                },
+                {
+                    "start": 694,
+                    "end": 697,
+                    "text": "226",
+                    "ref_id": null
+                },
+                {
+                    "start": 785,
+                    "end": 788,
+                    "text": "227",
+                    "ref_id": null
+                },
+                {
+                    "start": 1078,
+                    "end": 1081,
+                    "text": "230",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 298,
+                    "end": 307,
+                    "text": "(Fig. 1d)",
+                    "ref_id": "FIGREF9"
+                },
+                {
+                    "start": 1066,
+                    "end": 1075,
+                    "text": "(Fig. 2b)",
+                    "ref_id": "FIGREF10"
+                },
+                {
+                    "start": 1230,
+                    "end": 1239,
+                    "text": "(Fig. 2b)",
+                    "ref_id": "FIGREF10"
+                }
+            ],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "233"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. . https://doi.org/10.1101/2020.04.14.20065094 doi: medRxiv preprint 9",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "As an additional assessment of non-inferiority, we compared the difference in Ct values 234 observed between control and prototype swabs to the differences between replicates of control 235 swabs. Independent of our clinical trial, there were 88 cases in which a patient, in the course of 236 clinical care, was swabbed twice within 24 hours (mean\u00b1stdev, 15\u00b17 hours), during the time 237 period of our study. In 11 of these cases, at least one of the two swabs was positive for SARS- Staff and participant preferences. A written staff survey showed a preference for Prototype 4, 245 then Prototypes 2 and 3, then Prototype 1. There was a slight preference for the control swab 246 over Prototype 4 (Fig. 3a) . In narrative feedback, Prototype 4, which underwent the largest 247 number of revisions through our process (28), was described as comparable to the control swab 248 (Fig. 3b) . is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 88,
+                    "end": 91,
+                    "text": "234",
+                    "ref_id": null
+                },
+                {
+                    "start": 579,
+                    "end": 582,
+                    "text": "245",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 698,
+                    "end": 707,
+                    "text": "(Fig. 3a)",
+                    "ref_id": "FIGREF11"
+                },
+                {
+                    "start": 876,
+                    "end": 885,
+                    "text": "(Fig. 3b)",
+                    "ref_id": "FIGREF11"
+                }
+            ],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. . https://doi.org/10.1101/2020.04.14.20065094 doi: medRxiv preprint printing has important advantages in a crisis, including the ability to iterate designs and output 265 swabs rapidly. It remains to be seen how complementary manufacturing techniques, each with 266 advantages and disadvantages relative to 3D printing, will contribute in a more mature market 267 and less urgent setting. Second, in any cooperative process there is a temptation to \"defect,\" i.e. 268 taking without giving back. Individuals and manufacturers may well exploit open knowledge for 269 competitive advantage (16). This is a known price of openness that can disincentivize 270 cooperation, absent social or structural mechanisms to enforce norms; managing this 271 temptation took considerable effort by all. Third, ideally the study size would have been larger, 272 and there would have been a better null model than replicates separated by many hours, to 273 which to compare our results. Possible sources of variance in our study include differences in 274 secretions or viral burden between nares and the possibility that the first (control) swab left less 275 material for the second (prototype) when the same naris was used for both swabs. Despite 276 these potential issues, our statistical tests supported analytical non-inferiority for all four 277 prototypes. And fourth, we note our \"round-robin\" A-B testing survey was useful in summarize 278 preferences, although the narrative comments seemed often to be more positive than the round 279 robin suggested. A possible explanation is that the control swab was preferred in large part 280 simply due to its being familiar, and preferred only narrowly (if often). 281 Like the control swab, the prototype swabs we tested can be improved upon, and manufacturers 282 are currently doing so. The same is true for other prototypes we may test through our ongoing 283 clinical trial. Especially in a crisis, perfect is the enemy of good enough. The pandemic 284 continues to change quickly, and bottlenecks will likely continue to appear unpredictably. The 285 constant requirement is the ability to respond in a timely fashion under this extraordinary 286 pressure. We hope our experience, based on past scientific work on cooperation and 287 innovation, will provide a useful case study for how to iterate and produce a clinically validated CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 432,
+                    "end": 435,
+                    "text": "267",
+                    "ref_id": null
+                },
+                {
+                    "start": 536,
+                    "end": 539,
+                    "text": "268",
+                    "ref_id": null
+                },
+                {
+                    "start": 914,
+                    "end": 917,
+                    "text": "272",
+                    "ref_id": null
+                },
+                {
+                    "start": 1008,
+                    "end": 1011,
+                    "text": "273",
+                    "ref_id": null
+                },
+                {
+                    "start": 1502,
+                    "end": 1505,
+                    "text": "278",
+                    "ref_id": null
+                },
+                {
+                    "start": 1774,
+                    "end": 1777,
+                    "text": "281",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. University and its affiliated academic healthcare centers, or the National Institutes of Health. 313 This work was supported by Carbon3D, Envisiontec, Origin, and HP to cover the cost of the IRB 314 and PCR testing. 315 The content is solely the responsibility of the authors and does not necessarily represent the 316 official views of the National Institutes of Health.",
+            "cite_spans": [
+                {
+                    "start": 169,
+                    "end": 172,
+                    "text": "313",
+                    "ref_id": null
+                },
+                {
+                    "start": 288,
+                    "end": 291,
+                    "text": "315",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "317"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. . https://doi.org/10.1101/2020.04.14.20065094 doi: medRxiv preprint . CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "368"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Control"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. . CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 7, 2020. . https://doi.org/10.1101/2020.04.14.20065094 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "COVID-19 Map -Johns Hopkins Coronavirus Resource Center",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Coronavirus Test Obstacles: A Shortage of Face Masks and Swabs",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "The New",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Inhibitory effect of common microfluidic materials on PCR 324 outcome",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kodzius",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Sensors and Actuators B: Chemical",
+            "volume": "161",
+            "issn": "1",
+            "pages": "349--358",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.snb.2011.10.044"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "An Introduction to PCR Inhibitors",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bessetti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "/media/files/resources/profiles-in-dna/1001/an-introduction-to-pcr-inhibitors.pdf?la=es-es",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "3D-printing techniques in a medical setting: a 330 systematic literature review",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Tack",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Victor",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gemmel",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Annemans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BioMed Eng OnLine",
+            "volume": "15",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12938-331"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Prize-based contests can provide solutions to 335 computational biology problems",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Lakhani",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Boudreau",
+                    "suffix": ""
+                },
+                {
+                    "first": "P-R",
+                    "middle": [],
+                    "last": "Loh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nat Biotechnol",
+            "volume": "31",
+            "issn": "2",
+            "pages": "108--111",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nbt.2495"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The Effect of Organizational Structure on Open Innovation: A 337",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Min",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Quadratic Equation",
+            "authors": [],
+            "year": 2016,
+            "venue": "Procedia Computer Science",
+            "volume": "91",
+            "issn": "",
+            "pages": "492--501",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.procs.2016.07.128"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Use of Crowd Innovation to Develop an Artificial 340",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Mak",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Endres",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Paik",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Intelligence-Based Solution for Radiation Therapy Targeting",
+            "authors": [],
+            "year": 2019,
+            "venue": "JAMA Oncol",
+            "volume": "5",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jamaoncol.2019.0159"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "BD Gram Stain Kits and Reagents",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Preparation of Viral Transport Medium SOP#",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "344",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Changing Swabs: To Validate or Not To Validate?",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Loeffelholz",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J",
+            "volume": "349",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Concordance Analysis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kwiecien",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kopp-Schneider",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Blettner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Dtsch Arztebl Int",
+            "volume": "351",
+            "issn": "30",
+            "pages": "515--521",
+            "other_ids": {
+                "DOI": [
+                    "10.3238/arztebl.2011.0515"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "On a Test of Whether one of Two Random Variables is 353",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Mann",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Whitney",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Stochastically Larger than the Other",
+            "authors": [],
+            "year": 1947,
+            "venue": "Ann Math Statist",
+            "volume": "18",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1214/aoms/1177730491"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The nature of human altruism",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fehr",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Fischbacher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "425",
+            "issn": "6960",
+            "pages": "785--791",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "94 speed the delivery of prototypes. We involved representatives of our institution's nursing, legal, 95 intellectual property, leadership, purchasing, human resources, communications, and 96 contracting teams and the institutional review board early and often in order to facilitate open 97 development, reassign idled staff to our process, and minimize lead times during the rapidly 98 changing situation. 99 Phase I: Preclinical evaluation. Design. An infectious disease physician, clinical pathologist 100 (clinical microbiologist), and respiratory therapist tested each prototype swab for design and 101 mechanical properties (Fig. 1c-d). These included size measurements of the head, neck, shaft, 102 and breakpoint (requirement of ~15cm to reach the posterior nasopharynx; head diameter of 1-103 3.2mm to pass into the mid-inferior portion of the inferior turbinate and be able maneuver 104 appropriately without catching on anatomical variants such as septal spurs or a deviated nasal 105 septum); surface properties such as smoothness (with roughness leading to an unpleasant feel 106 and risk of bleeding); flexibility vs. brittleness of the head, neck, shaft, and breakpoint (to avoid 107 fracture during use); durability (e.g. ability to tolerate 20 rough repeated insertions into a 4-mm-108 inner-diameter clear plastic tube curved back on itself with a curve radius of ~3 centimeters; 109 .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "III: Field testing. Trial design and oversight. COVIDSwab is an adaptive trial for 133 evaluating the performance of prototypes compared to the control (see above). Participants 134 under clinical suspicion for COVID-19 who were scheduled for standard clinical SARS-CoV-2 135 RT-PCR testing with a control swab were asked also to be swabbed afterward with a single 136 prototype. Prototypes were collected and tested until at least 10 positive and 10 negative results 137 on control swabs were obtained (13). Sample collection was performed by trained nursing or 138 respiratory-therapy staff (\"study staff\") overseen by the respiratory therapy department at 139 BIDMC. The Clinical Microbiology laboratories oversaw data collection. This study was reviewed 140 .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "drive-through/walk-up (\"drive-through\") COVID-19 testing site at BIDMC. Adults over 18 144 years of age were given a participant information sheet by study staff and asked whether they 145 would agree to being swabbed with a prototype swab performed by a trained nurse or146    respiratory therapist in addition to the control swab required for testing. Individuals with known 147 thrombocytopenia of <50,000 platelets/\u00b5l were excluded from the study to avoid risk procedures. Prototype swabs were individually packaged and autoclaved at BIDMC for150 sterilization according to manufacturer protocols. Swabbing was performed per standard 151 protocol. Participants were first swabbed with the control swab, then the prototype. Choice of 152 naris for each swab was left to study staff and the participant. Approximately half of all drive-153 through arrivals participated. Control and prototype swabs were placed in separate vials of VTM 154 and transported to the BIDMC Clinical Microbiology Laboratories where each sample was tested 155 on the Abbott m2000 SARS-CoV-2 RT-PCR platform as per standard clinical protocol. 156 Statistical analyses. RT-PCR results are reported categorically as either positive or negative. 157 We tested categorical concordance using Cohen's kappa (14). For each positive test, the Ct 158 value (the RT-PCR cycle number at which the sample first turns positive) was obtained from the 159 Clinical Microbiology Laboratories. Higher values reflect lower viral load in the sample.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "a public resource and knowledge base. We updated the repository continuously with 176 design information and test results. These updates included high-resolution images of 177 prototypes submitted to us for testing (6), a public database of results of our Phase I testing, 178 and periodic updates and guidance based on our experiences. Open communication facilitated 179 rapid design iteration by providing anyone interested with a way to quickly understand the 180 required specifications and to learn from each other's experiences. 181 Phase I testing. To date we have evaluated 48 materials and 160 designs submitted to us for 182 testing by 4 individuals, 2 laboratories, and 18 companies, for a total of 24 manufacturers. 183 Seven (4.4%) have passed Phase I testing. Most failures were either for inappropriate materials, 184 including some that were sticky or brittle, or for inappropriate designs, including those with sharp 185 heads. Prototypes from 19 manufacturers went through at least two iterations, with a maximum 186 of 28 prototypes from one manufacturer (Prototype 4 below; Fig. 1). The rate-limiting steps were 187 receipt of new prototypes, with slow mail delivery during the pandemic being a major 188 contributor, and PCR-compatibility testing, as testing patient samples took priority over testing 189 prototypes. Communication with and responsiveness by manufacturers were considered 190 outstanding. 191 Phase II and III prototypes. Four prototypes passed Phase II testing, all of which have 192 completed our Phase III clinical trial: these are prototypes from the 3D-printing manufacturers 193 Resolution Medical (with technology from Carbon3D), EnvisionTec, Origin.io, and HP Inc. Prototypes 1-4, respectively; Fig. 1a). Like control swabs, the prototypes were 15-16cm in 195 length with 1-3cm length radially symmetric heads 2-3mm in diameter, a thin neck 4-7cm long 196 and 1-2mm in diameter, and a thicker shaft 2-4mm in diameter, with a breakpoint most often 7-197 8cm from the tip of the head. The materials were plastics and resins such as Keysplint Soft. 198 Head design evolved over many iterations to increase surface area. Designs generally featured 199 either a polygonal matrix connected to a central, tapered strut with multiple branch points or else 200 some form of spiral",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": ". Approximately half of the patients tested at our drive-through testing center 205 participated. Because testing runs were batched and the COVID-19 status of participants was 206 not known prior to testing, the number of control-positives usually exceeded the minimum 207 requirement of 10 (range, 10-19). Total collection time was 2-3 days per prototype. The 208 frequency of control-positive tests was 18%, generally increasing by prototype as the pandemic 209 worsened in and around Boston. 210 Comparison. All four prototypes exhibited a high degree of concordance with the control swab, 211 with kappas of 0.88, 0.85, 0.89, and 0.88, respectively (Fig. 2a). For convenience we use the 212 terminology of true positives, true negatives, false positives, and false negatives, with the 213 control swab result considered the provisional gold standard. Prototypes exhibited 0-1 false 214 positives and 1-2 false negatives. However, since control swabs are known to be an imperfect 215 gold standard (<100% sensitivity) and because PCR positives are more likely to reflect true 216 infection than error, false positives were interpreted as identifying missed infections; indeed, 217 false positives were referred to clinical care teams as clinically actionable, as per IRB protocol. 218 Of note, discordant cases were always associated with high Ct values, reflecting low viral load 219 (Fig. 2b). For example, for Prototype 4, the control swab for one of the two false negatives had a 220 Ct of 31.47, just shy of 31.50, our hospital's cutoff for reportability (corresponding approximately 221 to a single virion per mL of VTM); in addition, testing of this false negative was delayed by 16 222 hours because of prioritizing patient samples, which can result in decreased signal.223",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "There were two disagreements between replicate swab tests, resulting in a kappa of 239 0.90, similar to what was observed in our study for each prototype (kappa=0.85-0.89). Also as in240    our study, the Ct values for the first swab and second swab were not significantly different 241 (MWU p-value of 0.18). Finally, the differences between Ct values for the first and second 242 control swabs were comparable to the differences between control and prototype swabs",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Swabs are available to order. Details can be found on the GitHub repository in the 250 updates at https://github.com/rarnaout/Covidswab/tree/master/BIDMC. 251 Discussion 252 The COVID-19 pandemic has forced healthcare providers to seek alternative sources of critical 253 materials affected by supply-chain disruptions and increases in demand. The situation has 254 forced providers to innovate under extraordinary time-pressure. Over the course of our study we 255 received numerous anecdotal reports of swab shortages at hospitals across the United States 256 and in Europe, necessitating urgent stopgap solutions. Scientific literature on time-sensitive 257 innovation suggests that open, collaborative, decentralized processes outperform closed or 258 proprietary ones (7-9). Here we report the success of such a process, going from the 259 identification of the swab crisis to multiple clinically validated prototypes capable of high-volume 260 manufacture beginning at 22 days. Notably, none of the prototypes tested were flocked, yet their 261 performance was statistically indistinguishable from the flocked control swab. 262 The urgency of the situation, the configuration of the manufacturing ecosystem, and human 263 nature contributed to several observations and shortcomings worth mentioning. First,",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "288 medical manufacture under the pressure of an ongoing pandemic, work on which others will 289 hopefully improve as we continue to fight COVID-19 together 290 293 Pavel Gorelik, Jenny Hu, Ofer Mazor, Goutam Reddy, Karen Robinson, Stefan Riedel, Christina 294 Yen, Summer Decker, Don Ingber, Pawan Jolly, Kit Parker, Adama Sesay, Craig Broady, John 295 Burpo, Daniel Davis, Joe DeSimone, Annette Friskopp, Ric Fulop, Grant Michael Gonzalez, 296 .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": ".P.S. was supported by the National Institute of Allergy and Infectious Diseases of the National 306 Institutes of Health under award number F32AI124590. 307 This work was conducted with support from Harvard Catalyst | The Harvard Clinical and 308 Translational Science Center (National Center for Advancing Translational Sciences, National 309 Institutes of Health Award UL 1TR002541) and financial contributions from Harvard University 310 and its affiliated academic healthcare centers. The content is solely the responsibility of the 311 authors and does not necessarily represent the official views of Harvard Catalyst, Harvard 312",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF9": {
+            "text": "Control and prototype swabs. (a) From left to right: the control swab (Copan 360 501CS01), a repurposed urogenital cleaning swab approved for NP testing through our process, 361 Prototype 1 (Resolution Medical), Prototype 2 (EnvisionTec), Prototype 3 (Origin.io), and 362 Prototype 4 (Hewlett Packard). (b) From top to bottom, closeups of the heads of the swabs in 363 (a). Scale bars, 1cm. (c) Examples of Gram stain of cheek swab using control (top) and 364 prototype swabs. Scale bar, 10\u00b5m. (d) Examples of materials testing. Clockwise from top left: 365 head flexibility and robustness to fracture, neck flexibility and robustness to fracture, robustness 366 to repeat insertion into and removal from a tortuous canal (diameter 3cm), and breakpoint 367 evaluation.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF10": {
+            "text": "Concordance results. (a) 2x2 tables giving counts for each prototype vs. the control 370 swab (first three panels) and for control vs. replicate control obtained within 24 hours on the 371 same individual. Discordant results in gray; totals for each swab below and to the right of each 372 box; total number of pairs in bold; K=Cohen's kappa. (b) Scatterplot of Ct values for pairs of 373 swabs for which at least one swab was SARS-CoV-2 positive. For discordant pairs, the negative 374 swab was assigned a Ct value of 37 (the maximum number of cycles run).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF11": {
+            "text": "Subjective feedback. (a) Round-robin A-B testing of net preferences among 377 Prototypes 1-3 (large bold numbers) and the control (\"C\"). Each arrow points from the less 378 preferred to the more preferred swab. Arrow weight indicates strength of relative preference. 379 Preferences were unanimous except where noted with numbers separated by a slash: the first 380 number denotes the number of responses for the direction indicated by the arrowhead, while the 381 second number denotes the number of responses that had the opposite preference. The weight 382 of the arrow is proportional to the difference (e.g. 7-3=a net preference of 4). Unless noted, 383 each arrow denotes 12-15 separate responses. (b) Number of positive and negative comments 384 received from study staff who administered the swabs, tabulated by category. In each plot, 385 negative feedback is to the left of the zero, while positive feedback is to the right. Bars on both 386 the positive and negative sides of zero reflect differing opinions among study staff. n,",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Markus Greiner, Marie Herring, Matthew Hurley, Hardik Kabaria, Shawn Patterson, David Lakatos, Ben Linville-Engler, Oren Mechanic, Richard Novak, Jifei Ou, Michael Papish, Steve Pollack, Chris Prucha, Christian Reed, Isabel Sanz, Al Siblani, Lihua Zhao, Stephanie Dominguez, Stuart Steinbock, Greg Mark, Nic Scarfo, John Bentley, Nira Pollock, Paula Watnick, Colleen Baker, Carol Daugherty. Clementina DiMonda, Virginia Dolan, Isaac Fombuh, Kylie Griffin, Amy Guadognoli, Allison Wang, Dan Eiref, Johan Sunryd, Jonathan Ford, Sherry Yu, and Kelsey Ladt for participation in the open process that made this study possible.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to thank Abigail Bakken, Alisa Chau, Monique Cole, Zachary Fitts, 292 Jonathan Goldie, Lan Huynh, Christina Lexinger-Holahan, Lorinda Longhi, Restituto Miranda,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "291"
+        }
+    ]
+}

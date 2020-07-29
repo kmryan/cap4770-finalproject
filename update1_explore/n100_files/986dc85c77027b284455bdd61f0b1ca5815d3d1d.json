@@ -1,0 +1,1525 @@
+{
+    "paper_id": "986dc85c77027b284455bdd61f0b1ca5815d3d1d",
+    "metadata": {
+        "title": "Covid-19: A Perspective on Africa's Capacity and Response Short running title: 2019-nCov: A Perspective on Africa's Capacity and Response",
+        "authors": [
+            {
+                "first": "Tafadzwa",
+                "middle": [],
+                "last": "Dzinamarira",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of KwaZulu-Natal",
+                    "location": {
+                        "postCode": "4001",
+                        "settlement": "Durban",
+                        "country": "South Africa"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mathias",
+                "middle": [],
+                "last": "Dzobo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Itai",
+                "middle": [],
+                "last": "Chitungo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Global powerhouses with tried and tested health systems have struggled to contain the COVID-19 pandemic. One is left to wonder what will be left of Africa, the second most populous continent after Asia, which is torn by civil wars, hunger, and diseases like AIDS and TB and, in recent years, the Ebola Virus Disease (EVD). The majority of",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "COVID-19 has had an impact on all of life's aspects. China, the source country of the disease, appears to have brought the pandemic under control, and the once worst affected areas have begun to open up. For the rest of the world, the situation is a stark contrast. Since the first case was reported, it took over two months for the number of confirmed cases to reach 100,000, two weeks to 250,000, just six days to reach 500,000, and another five days to 862,547 confirmed cases by 1 April 2020 and over 5,8 million by 29 May 2020 1 . This indicates a growing pandemic, the infection rate of which continues to increase despite concerted efforts. Factors attributed to its rapid spread include inadequate test kits 6 , inadequate protective gear 7 , lack of a known cure, and difficulties enforcing protective measures 8 .",
+            "cite_spans": [
+                {
+                    "start": 716,
+                    "end": 717,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background information on the epidemic"
+        },
+        {
+            "text": "One of the priorities for every country is to improve testing as an essential tool to control the spread of the disease. Medical scientists have been busy trying to develop a vaccine against the novel virus. Human testing is underway, but it might be a year at the earliest until a mass market vaccine is rolled out 9 . According to the Centers for Disease Control and Prevention (CDC), people critically affected by the disease are those with underlying medical conditions as well as older people whose immune systems are generally weak 10 . Currently, there is no specific treatment approved for COVID-19 and no known cure for infection. Younger healthier people have shown a relatively high recovery rate in comparison to people above the age of 65 10 . With every passing day, doctors and scientists are learning new things about the virus concerning its symptoms, spread, mutation, and aid recovery among other elements of the disease. The pandemic This article is protected by copyright. All rights reserved.",
+            "cite_spans": [
+                {
+                    "start": 316,
+                    "end": 317,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background information on the epidemic"
+        },
+        {
+            "text": "of 29 May 2020. Of the cases reported within the first week since the confirmation of the first case on African soil, nearly all of them were people who had returned from China or European countries. Local transmission then later followed thereby increasing the number of infections. The WHO has warned that potentially 190,000 deaths could occur in Africa if measures to control the pandemic fail. As the disease has spread to almost all African states, the predominant risk factors for the spread have been international exposure, poor health systems, and the dense population found in urban centers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Africa's response to the pandemic was by and large quick and decisive. Africa implemented airport screening and adopted mitigation efforts such as hand washing, social distancing, and stay-at-home lockdown measures 16 However, for some countries, there was generally a slow response to the pandemic due to several reasons. As the COVID-19 pandemic spread rapidly across some European countries, there was a general belief that this virus could be restricted to colder climates 18",
+            "cite_spans": [
+                {
+                    "start": 215,
+                    "end": 217,
+                    "text": "16",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "African response to the pandemic"
+        },
+        {
+            "text": "and to areas outside of Africa. As a result, people were slow to take the necessary precautions such as travel restrictions, closure of borders, and containment measures. Some believed, as was the case with SARS 1 virus, that COVID-19 would be contained in Asia and Europe and therefore adopted a laissez-faire approach to the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "A new threat is also emerging for the spread of the virus, as truck drivers who were allowed to traverse borders to keep the supply chain active have become carriers of infection from one country to another. Controversial political decisions 19 , mistrust, and limited epidemiological data complicate the response to the Covid-19 pandemic in east Africa 20 .",
+            "cite_spans": [
+                {
+                    "start": 242,
+                    "end": 244,
+                    "text": "19",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "According to medical experts, the number of reported cases is an acute underestimation, and a high number of cases remain undetected 21 . This is attributed to African health systems not being robust enough, poor monitoring, and the lack of sufficient test kits.",
+            "cite_spans": [
+                {
+                    "start": 133,
+                    "end": 135,
+                    "text": "21",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Testing Capacity"
+        },
+        {
+            "text": "Poor testing capacity has hampered case identification, quarantine, and contact tracing efforts. The WHO advocates for effective community surveillance through increasing testing. Most African countries have inadequate surveillance and laboratory capacity 22 to perform testing coupled with limited fiscal support to acquire testing or build the diagnostic capacity necessary to decentralize testing 23 . Majority of the countries rely on donor aid to supplement public health budget, and some countries were only able to start COVID-19 testing after receiving donated testing kits from the Jack Ma Foundation. It is also worth noting that testing has not been universally accepted, with Tanzanian This article is protected by copyright. All rights reserved.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Testing Capacity"
+        },
+        {
+            "text": "authorities dismissing the validity of WHO recommended testing platforms and test kits 19 .",
+            "cite_spans": [
+                {
+                    "start": 87,
+                    "end": 89,
+                    "text": "19",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "The challenge of under-funded health systems extends beyond the fragile health systems to include the economies. The economic conditions of nearly all African countries will have a huge impact on just how far and quickly the disease spreads. About 85% of Africans survive on less than 5.50 USD per day, which allows for little or no savings, according to a World Bank report 24 . Hygiene and sanitation levels remain astonishingly low, offering a breeding ground for the disease. All these factors coupled with the weak health systems can cause the disease to have impacts far beyond those experienced by the worst affected countries. The challenge herein is that those countries that could offer help to Africa are struggling to put the pandemic under control in their own backyard.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Under-funded health systems"
+        },
+        {
+            "text": "Africa's vulnerability is obvious given the fragile health systems that have struggled to contain other communicable diseases such as cholera and malaria in the past. Accessibility to hospitals is equally a major challenge. South Africa, a country with one of the best health systems in Africa, has less than 1000 Intensive Care Unit (ICU) beds for the country's 56 million people, while Kenya, a country of nearly 50 million people, has about 200 ICU beds 25 . Table 1 Protective gear for health workers is in short supply but has in recent days benefitted from donations from philanthropists such as Jack Ma 30 . Even then, the novel virus is not allowing time for health systems to build their capacities. Even the delayed arrival of the disease in Africa has done little to allow governments to strengthen their emergency coordination and surveillance or to ramp up hospital equipment. Nigeria, Africa's largest economy, by its own admission, does not have a suitable capacity, according to Chikwe Ihekweazu, the head of Nigeria's Center for Disease Control (NCDC) 31 : \"Our health system is not as strong as we'd like it to be. It is because we are a bit worried about our capacity to deal with a large outbreak that we are focused so intensively on prevention and early detection\". However, as of May 2020, the NCDC has mobilized a National Emergency COVID-19 (LF) multi-partner, the multi-sectoral This article is protected by copyright. All rights reserved.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 462,
+                    "end": 469,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Africa Health Systems Capacity to Contain the Pandemic"
+        },
+        {
+            "text": "Operations Centre (EOC), to coordinate response activities across Nigerian states. The agency has also accredited and activated twenty-six (26) testing laboratories across Nigeria and conducted training for health workers in multiple states.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Beyond the accessibility, medical equipment, and health capacities, Africa's drug manufacturing capacities are very low. Most African countries import more than of 70% of their total drugs 32 . These drugs are imported mainly from India, Europe, and a smaller percentage from the US. With countries moving toward export bans for drugs, the continent may face a shortage of basic and essential medication, hampering COVID-19 control efforts.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Medical scientists are currently conducting extensive research to understand how the virus mutates and how it affects persons with different medical conditions. Research is ongoing in testing methodologies 33 and strategies 34 and even vaccine development 35 .",
+            "cite_spans": [
+                {
+                    "start": 206,
+                    "end": 208,
+                    "text": "33",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 224,
+                    "end": 226,
+                    "text": "34",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 256,
+                    "end": 258,
+                    "text": "35",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Even if there is ongoing research, doubts exist as to whether it is at the same level as in other countries such as India, which is equally a developing nation like the rest of Africa.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "By not having a clear understanding of the disease, the health systems can only do so much and hope that what has worked in other countries will also work for Africa and its people. Though progress is evident, it will be years until all the African countries develop sound research institutions that can be relied upon to find urgent solutions in times of crisis. As COVID-19 continues to spread, this critical aspect of effective health systems is unsurprisingly lacking.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "According 41 . That outbreak seems all but over, but now the DRC faces both a major measles outbreak that has claimed almost 6000 lives in the past year and the new COVID-19 pandemic. Countries with ongoing outbreaks and those that are still recovering from recent ones will find it hard to manage the new COVID-19 pandemic due to lack of manpower, infrastructure, and financial resources.",
+            "cite_spans": [
+                {
+                    "start": 10,
+                    "end": 12,
+                    "text": "41",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Several African countries have put in place measures to prevent importation of the virus by closing airports and closing borders. To limit local transmission, governments have increased surveillance, identification of infected people and those at risk, rapid diagnosis, and contact tracing. Countrywide lockdowns have been initiated with periods spanning from 14 to 21 days. Experts say this move may not yield the desired results in povertystricken countries where people are informally employed and some governments have not This article is protected by copyright. All rights reserved.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lockdown and social distancing"
+        },
+        {
+            "text": "come up with food aid to support citizens during the lockdown. Lockdown and restrictive measures have proved successful in arresting the spread of COVID-19 in China's Wuhan province 42 . The economic situation of most of Africa is, however, likely to work against such a measure. Although a difficult decision, it is one that needs to be taken. It is time for governments to enforce shelter-in-place orders especially within these vulnerable communities. Enforced social distancing will ultimately prove to be the most effective means of reducing the spread of COVID-19 amongst communities. Coupled with regular hand washing, contact tracing, and isolation, these are the only ways to compensate for the weak health systems. However, governments must do more than just enforce orders.",
+            "cite_spans": [
+                {
+                    "start": 182,
+                    "end": 184,
+                    "text": "42",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "They have to channel resources from other non-critical departments towards providing necessities to these communities. The decision must, however, be based upon reliable estimates. Adhering to the 14-day quarantine period after possible exposure even if one does not show any symptoms can cripple the spread of the virus within communities 43 .",
+            "cite_spans": [
+                {
+                    "start": 340,
+                    "end": 342,
+                    "text": "43",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "While food security remains a challenge and with perennial drought being the norm, several African countries, among them Kenya, Uganda, and Tanzania, have strategic food reserves adequate to feed the most vulnerable for such a duration of time. The obvious disregard for voluntarily social distancing makes total lock-down even more plausible.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Africa is not new to epidemics. Other epidemics such as HIV remain important public health concerns 39 These resources bolstered Nigeria's response to COVID-19 46 .",
+            "cite_spans": [
+                {
+                    "start": 100,
+                    "end": 102,
+                    "text": "39",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 160,
+                    "end": 162,
+                    "text": "46",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Lessons drawn from previous epidemics"
+        },
+        {
+            "text": "The world today is a global village and itis time for Africa to prioritize partnerships. COVID-19 is a global challenge that requires collaborative efforts to overcome. Even without the technical capacity, African medical scientists have an input in this, but they cannot do it on their own. Government coordination is the first step. For example, scientists at the Pasteur Institute of Dakar in Senegal are currently working with a United-Kingdom-based biotech laboratory to develop rapid diagnostic test for COVID-This article is protected by copyright. All rights reserved.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Strengthen existing, and establish new, partnerships"
+        },
+        {
+            "text": "19 that will reduce the diagnosis time from 4 hours to 10 minutes 47 . By the end of April, trials had already begun for the kits 48 . If successful, this single collaboration will be a huge step forward towards mass testing. This highlights just how much can be achieved by working together for the benefit of not just African countries but of the whole world. ",
+            "cite_spans": [
+                {
+                    "start": 66,
+                    "end": 68,
+                    "text": "47",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 130,
+                    "end": 132,
+                    "text": "48",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "The spread of the SARS-CoV-2 virus is already worrying, but the situation is not out of hand yet. There will be numerous challenges along the way given the scarcity of This article is protected by copyright. All rights reserved. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Well-informed containment measures"
+        },
+        {
+            "text": "and understandable, it is such people that need to be informed that by being out there, they endanger the lives of the very people they are striving to feed. The economy can be rebuilt, but the loss of life is irreversible. Appealing to people's inner being has had its successes, and now is the time to try every workable way to stop the spread of the virus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Mobile phone access in Africa has grown rapidly over the last decade and can be relied upon to relay educative messages. Lack of sufficient information has proven costly in past epidemics.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Data from affected other countries, among them Italy, Spain, and China, show that people above the age of 65 are more vulnerable. The median age in Africa is 19.7 years in comparison to China's 38 50 . Although Africa's youth may be considered a significant protective factor in the pandemic, how the virus will evolve and manifest itself on the continent remains unknown. Africa's greater youthfulness may act to its advantage in terms of lower death rates. However, African countries must not expect a mild version of the disease or lower infection rates. Rather, planning must be centered on containing the spread of the virus as one way of cushioning the fragile health systems and reducing the overall impact of the virus. Capitalizing on the youthfulness of the African population should be through leveraging predictive modeling to develop Africa-specific responses both medically and economically. Responding to the virus through economic policies is equally important as it affects the people's everyday way of life, and long after the virus is gone, the economic effects are likely to persist.",
+            "cite_spans": [
+                {
+                    "start": 158,
+                    "end": 162,
+                    "text": "19.7",
+                    "ref_id": null
+                },
+                {
+                    "start": 197,
+                    "end": 199,
+                    "text": "50",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Youthful population"
+        },
+        {
+            "text": "There is a need to strengthen testing strategies for screening to improve quarantine and contact tracing. Further, governments can draw lessons from Germany and set up strategies for ending lockdowns through the attainment of herd immunity. Mobile phone applications for people to self-report on signs and symptoms, thereby using an algorithm to identify hotspots and target mass testing and resources mobilization, could also be explored.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Known comorbidities for severe cases of COVID-19, such as cardiovascular disease, diabetes, chronic respiratory disease, hypertension, and cancer 51 , are also ongoing public health problems for Africa 52 . For example, it is estimated that diabetes' prevalence in some sub-Saharan African countries has reached almost 22% in the adult population and as high as 30% in men and women aged 55-65 years. Currently, only half of those with diabetes are diagnosed, and of those, only 1 in 10 are receiving treatment 53 . Therefore, patients with co-morbidities require more rigorous prevention mechanisms 54 , through ensuring social distancing, restricted travel, and avoiding large gatherings.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Containment measures need to consider strengthening diagnosis, care, and treatment services for infectious diseases as well to avoid a knock-on effect. For example, access to HIV testing can be maintained through the scale up of home-based HIV testing such as HIV self-testing 55 . Access to antiretroviral therapy during lockdowns should be maintained. Multi-month dispensing and community antiretroviral distribution models could benefit African health systems. 56-58 .",
+            "cite_spans": [
+                {
+                    "start": 277,
+                    "end": 279,
+                    "text": "55",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "Given the medical equipment and supplies export bans discussed above, African countries ought to support endogenous personal and protective equipment (PPE) This article is protected by copyright. All rights reserved.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "manufacturers. Tackling COVID-19 requires increasing domestic production 59 . Where necessary, governments should explore the need to provide financial aid as part of a cooperative domestic response.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "As a long-term goal, strengthening health systems through redirecting resources can be beneficial. This will allow for improved primary healthcare and referral systems. This may be achieved by encouraging public and private partnerships. As of 2018, only three African countries had reached the Abuja declaration to commit 15% of public expenditure on health 60 . This is concerning and shows a gap still exists on governments commitment to health.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Accepted Article"
+        },
+        {
+            "text": "COVID-19 continues to spread across the world, with increasing morbidity and mortality. Africa currently is the least affected of all the continents; however, it has to maintain its preparedness and strengthen surveillance. Developed nations with sound health systems adopted different response strategies with various outcomes. Africa does not have the luxury to experiment and needs to adopt those strategies that are efficacious.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Granted, Africa does not have the same resources as first world countries, but it can modify those strategies within individual countries' capacities to best mitigate the effects of the pandemic. Beyond this pandemic, Africa needs to strengthen its healthcare system and pursue universal coverage as a means to mitigate against future epidemics.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "None declared",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Coronavirus Update (Live)",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Worldometer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Pandemics: Deadly Disease Outbreaks",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Denton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "General's opening remarks at the media briefing on COVID-19 -11",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Africa in the Path of COVID-19",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "El-Sadr",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Justman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England Journal of Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "WHO declares the outbreak of the new coronavirus is a pandemic",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wetsman",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Advice on the use of point-of-care immunodiagnostic tests for COVID-19: scientific brief",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Challenges and solutions for addressing critical shortage of supply chain for personal and protective equipment (PPE) arising from Coronavirus disease (COVID19) pandemic-Case study from the Republic of Ireland",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rowan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Laffey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science of the Total Environment",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "COVID-19 and Bangladesh: Challenges and how to address them",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Anwar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nasrullah",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hosen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Frontiers in Public Health",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Waning of Vaccine-Conferred Immunity After Four Years, World Health. Dehai Eritrea Online2020. 10. CDC. People at High Risk of Flu",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Hammond",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "The imperative for universal healthcare to curtail the COVID-19 outbreak in the USA. EClinicalMedicine",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Galvani",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Parpia",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pandey",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zimmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Fitzpatrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "COVID-19 and children, in the North and in the South",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cornia",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jolly",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Stewart",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "First case of corona virus disease confirmed in Nigeria",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "New Cases of COVID-19 In World Countries. Has the curve flattened?",
+            "authors": [
+                {
+                    "first": "Johns",
+                    "middle": [],
+                    "last": "Hopkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "Crc",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Available online at",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Leveraging Africa's preparedness towards the next phase of the COVID-19 pandemic. The Lancet Global Health",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Senghore",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Savi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gnangnon",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hanage",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Okeke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "COVID-19: a perspective for lifting lockdown in Zimbabwe",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dzobo",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Chitungo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Dzinamarira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Pan African Medical Journal",
+            "volume": "35",
+            "issn": "13",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "COVID-19 pandemic-An African perspective",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lone",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ahmad",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Emerging Microbes & Infections",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--28",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "WHO Africa to Tanzanian president: COVID-19 kits valid",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Reporter",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Ow-bBEc8u5T-AnRsgkPGWr1CrHJKQObWFkN1iiTm1sIEXQldVEVXHWGEMiYTW0DCz6SQ4JC649 ekgCR5QLZgldIbNyrgA_-es7cazfoU9Q7mVs1zoCyWovh82dTneazojj6DdFNHwEZ4cJpBSs-57uOtCSXoJKGi41heCDh3zvhfQHKb_i2Pwd3pH-ws6BR3uptpJ1-QGMYbTfJH8S5PJa5DoSM_VlJdTjJ5cT4QFBvYJRc8Z_CIQMHoRvzmjq1mywIReJNH Jt6S1UqTYM",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Obstacles to COVID-19 control in east Africa",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Nakkazi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "20",
+            "issn": "6",
+            "pages": "660--660",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "We don't know why so few COVID-19 cases have been reported in Africa",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vaughan",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Encouraging local production, right policies the way out",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Pheage",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Blockchain and artificial intelligence technology for novel coronavirus disease-19 self-testing",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Mashamba-Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Crayton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "A strategy for finding people infected with SARS-CoV-2: optimizing pooled testing at low prevalence",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mutesa",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ndishimye",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Butera",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Considering BCG vaccination to reduce the impact of COVID-19. The Lancet",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Curtis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sparrow",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ghebreyesus",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Netea",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Identifying Future Disease Hot Spots: Infectious Disease Vulnerability Index",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gelfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Okunogbe",
+                    "suffix": ""
+                },
+                {
+                    "first": "Paul",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Resilience in Displacement and the Protection of Civilians in South Sudan",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Munive",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of Refugee Studies",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "International Organization for Migration (IOM) Calls for Increased Support for Displaced Amidst Deteriorating Humanitarian Crisis, Emergence of COVID-19 in Burkina Faso",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Apo",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Coronavirus -Burkina Faso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "HIV Infection and AIDS in Sub-Saharan Africa: Current Status, Challenges and Opportunities. The open AIDS journal",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Kharsany",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Karim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "10",
+            "issn": "",
+            "pages": "34--48",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Infectious disease outbreaks in the African region: overview of events reported to the World Health Organization",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Mboussou",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ndumbi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ngom",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Leveraging investments in Ebola preparedness for COVID-19 in Sub-Saharan Africa",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ayebare",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Waitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Okello",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "The positive impact of lockdown in Wuhan on containing the COVID-19 outbreak in China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Khosrawipour",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kocbach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Travel Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "The Science Behind A 14-Day Quarantine After Possible COVID-19 Exposure",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wamsley",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Simmons-Duffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "44",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Echoes of Ebola: social and political warnings for the COVID-19 response in African settings",
+            "authors": [
+                {
+                    "first": "Mje",
+                    "middle": [],
+                    "last": "Leach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Can Nigeria contain the COVID-19 outbreak using lessons from recent epidemics?",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ebenso",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ajtlgh",
+                    "middle": [],
+                    "last": "Otu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "COVID-19 pandemic: The Institut Pasteur International Network collective effort",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Pasteur",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Senegal trials begin for $1 COVID-19 test kit",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Haque",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Coronavirus: Amid the global pandemic, lessons for Africa",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Mburu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Boum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Why Sub-Saharan Africa needs a unique response to COVID-19",
+            "authors": [],
+            "year": null,
+            "venue": "World Economic Forum",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Clinical characteristics of coronavirus disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W-J",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-Y",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England journal of medicine",
+            "volume": "382",
+            "issn": "18",
+            "pages": "1708--1720",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Managing COVID-19 in low-and middle-income countries",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hopman",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Allegranzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mehtar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "323",
+            "issn": "16",
+            "pages": "1549--1550",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "World heart federation briefing on prevention: coronavirus disease 2019 (COVID-19) in low-income countries",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Thienemann",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Pinto",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Grobbee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Global Heart",
+            "volume": "15",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Everything is a Mess\": How COVID-19 is Impacting Engagement with HIV Testing Services in Rural Southwestern Uganda",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ponticiello",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mwanga-Amumpaire",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Tushemereirwe",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Nuwagaba",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sundararajan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "AIDS and Behavior",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "presents the number of hospital beds per 1000 people for seven African countries with the highest number of COVID-19 cases as of 29 May Accepted Article 2020. A summary of the bed/population ratio is accessible elsewhere 26 . In comparison, the U.S. has 34 ICU beds for every 100,000 people 27 but is still struggling. The current standard of care for COVID-19 is supportive care as there are no specific treatments yet. This means antipyretics, hydration, and ventilatory support if a patient develops respiratory distress. The shortage of ventilators has already been experienced by most of the African countries who are extremely affected by this pandemic. One of the main reasons for the shortage of ventilators is the issues related to their global supply chain 28 . Due to the worldwide spread of infection, the exports of medical equipment including ventilators has been interrupted. As of 24 March 2020, 54 countries had stopped exporting ventilators 29 . Simply put, African countries' health systems do not have the capacity to contain the pandemic given the increasing infection rate.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "to a 2016 report by the Rand Corporation, there are 25 countries most vulnerable to infectious diseases. Of the 25, 22 are African countries, with the exception This article is protected by copyright. All rights reserved. Accepted Article of Afghanistan, Yemen, and Haiti 36 . This is an alarming statistic. The vulnerability of one single country can have far-reaching ramifications to tens of countries, especially the neighboring ones. Africa Centres for Disease Control and Prevention (Africa CDC) is the continent's equivalent to the US CDC. Africa CDC is part of the African Union. The response of Africa CDC has been instrumental in Africa's COVID-19 response. The public health institute has led diagnostic testing training for health workers and public information management for government officials. On 13 th February, before the confirmation of any case in Africa, the center established the Africa Task Force for Novel Coronavirus. The taskforce works to coordinate preparedness and response to the virus. The depleted state of health systems that are conflict-affected undermines outbreak response efforts. Damaged infrastructure, depleted workforce, and limited funding are all impediments to effective emergency response activities. In North Africa, Libya has been engulfed in war and conflict for nearly a decade since the ousting of its long-term ruler Muammar Gaddafi. Libya's health system may be one of the least well prepared on the continent to deal with the COVID-19 pandemic. In South Sudan, decades of conflict have weakened the health infrastructure and other social amenities. Relief efforts are difficult to coordinate due to some humanitarian challenges that include massive population movement and ongoing conflicts 37 . Humanitarian efforts to mitigate health challenges and food shortages are being hampered by bureaucratic harassment of relief organizations. In Burkina Faso, the International Organization for Migration (IOM) has appealed for funding to bankroll efforts against COVID-19 38 . The country is experiencing one of the worst humanitarian crises in which there has been a lot of This article is protected by copyright. All rights reserved. Accepted Article displacement. The ongoing humanitarian crisis will greatly reduce the capacity to coordinate efforts against the COVID-19 pandemic in the affected countries. Health systems in some parts of Africa have been strained in the past few decades due to the high prevalence of HIV and TB. Sub-Saharan Africa accounts for more than 70% of the global burden of HIV infection 39 . In recent years, Africa has experienced infectious disease outbreaks. In 2018, a total of 96 new infectious disease outbreaks were reported across 36 of the 47 member states of the World Health Organization Africa region 40 . The Democratic Republic of Congo (DRC) had a prolonged Ebola virus disease (EVD) outbreak that hit West Africa between 2013 and 2016, aggravated by weaknesses in the health system. Similar challenges have precipitated the 2018 EVD outbreak in the DRC, which is ongoing",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": ". The recent Ebola outbreak that caused 11,310 deaths in West Africa 44 left Africa with lessons on how to tackles epidemics such as national and local This article is protected by copyright. All rights reserved.Accepted Articlepreparedness capabilities in surveillance systems, isolation, quarantining, and diagnostic testing41 . These capabilities need to be harnessed and strengthened and spread across all African states to enhance the response against COVID-19. There was considerable infrastructure investment as most affected countries received support from nongovernmental organizations and Africa CDC. In Sierra Leone, for instance, the national committees set up for the Ebola response have been resurrected to spearhead the COVID-19 response, and the local population unlike in other countries not affected by EVD are arguably more used to public health measures and quarantines 45 . Officials of the Ministry of Health and Sanitation have been canvassing the country preaching the same message of \"less touching\", which they spread during the EVD outbreak. Existing health infrastructure and programs used for previous outbreaks can be leveraged in the fight against the COVID-19 pandemic. In Nigeria, local preparedness was enhanced by the availability of resources meant for fighting the wild poliovirus. The polio infrastructure includes laboratory services, surveillance, risk communication, and human resources.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "In addition, through such collaborations, African countries have the unique opportunity to equalize health inequities by ensuring that solutions developed through local collaborations are locally available 49 . It is time for the leadership of African countries to take a more proactive role in learning from the successes and failures of the world's worst affected countries and shape their response to capitalize on the learned successes. This way, minimizing the spread of the virus is not a farfetched idea. The African Union Commission, Africa CDC, and the WHO, in partnership with African countries, have established the Africa Taskforce for Coronavirus Preparedness and Response (AFTCOR). The partnership has six work streams: laboratory diagnosis and subtyping; surveillance, including screening at points of entry and cross-border activities; infection prevention and control in healthcare facilities; clinical management of people with severe COVID-19; risk communication; and supply-chain management and stockpiles. AFTCOR, Africa CDC, and the WHO are working closely with member states to scale up diagnostic testing of COVID-19 22 . Such efforts need the political will of member states coupled with financial resource allocation.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "cohesions, and the general way in which African communities are set up. To prevent the limited health facilities from collapsing, the first critical step will have to be preventing infection among the health workers, the failure of which could have grave consequences. The number of confirmed cases in Africa remains mainly among the returning citizens and foreign nationals. Vulnerable communities such as people living in densely populated informal settlements remain largely unaffected by the virus. Most urban centers are densely populated, and the generational house sharing may make social distancing impossible. Kenya is home to one of the largest refugee camps. Dadaab camp is overcrowded and devoid of basic amenities such as water, food, and sanitation, but there is still no reported confirmed case of COVID-19 among these vulnerable groups at the time of writing this paper. It is now time for African governments to focus their efforts and resources towards preventing the spread of the virus to these high-risk communities.Containment measures must be extended beyond policy and healthcare. Governments must appeal to the people's goodwill, understanding, and cooperation. The only way to achieve this is through social awareness and effective communication to fight widespread misinformation and overcome resistance. People are generally likely to be resistant to that which they do not understand. It is upon the government to implore on the people that the measures are for their best interests. The people must also be made to fully understand how the virus is spread and what to do in case one becomes symptomatic. Not enough people have taken the threat of the virus serious and many people have shown the willingness to risk their lives to feed their family. While this action may be very critical This article is protected by copyright. All rights reserved.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ". These measures have been instrumental in keeping the number of cases low on the continent. However, in the long term these measures are unsustainable due to the socioeconomic dynamics in most African states. Most economies are largely informal, with people living hand-to-mouth, and the implemented lockdown affected the majority of livelihoods as their capacity to earn was eroded. Additionally, infrastructure in most African communities does not support adequate social distancing and basic hygiene due to overcrowding and limited clean water. Governments are under increasing pressure to lift lockdown measures and open economies while safeguarding citizens' livelihoods 17 .",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "WHO. African countries move from COVID- 19 ",
+            "cite_spans": [
+                {
+                    "start": 40,
+                    "end": 42,
+                    "text": "19",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "13."
+        }
+    ]
+}

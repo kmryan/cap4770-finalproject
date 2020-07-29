@@ -1,0 +1,626 @@
+{
+    "paper_id": "f5472528148f3b0aabbd702c8589066adb8339e9",
+    "metadata": {
+        "title": "POSITION STATEMENT ACMT Position Statement: Off-Label Prescribing during COVID-19 Pandemic",
+        "authors": [
+            {
+                "first": "Andrew",
+                "middle": [
+                    "I"
+                ],
+                "last": "Stolbach",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Maryann",
+                "middle": [],
+                "last": "Mazer-Amirshahi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ryan",
+                "middle": [],
+                "last": "Marino",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Lewis",
+                "middle": [
+                    "S"
+                ],
+                "last": "Nelson",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jeremy",
+                "middle": [],
+                "last": "Sugarman",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "harms; the intervention is not being evaluated in an appropriate clinical trial and expanded access is not an option. Offlabel prescribing is the least favorable way to use unproven medications for COVID-19, provides the least regulatory oversight, and the least opportunity to learn from their administration.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "There are currently no FDA-approved direct pharmacotherapies for COVID-19. Clinicians are in the challenging position of using limited, emerging information to attempt to provide evidence-based, beneficial care for patients. Because of the lack of other options, surrogate marker data, and anecdotal accounts of benefit and safety, clinicians are using medications approved for other indications such as chloroquine, hydroxychloroquine, and azithromycin to treat patients with COVID-19. Although some of these medications have demonstrated in vitro activity against coronaviridae and other enhance immune functions, all have had mixed results in the available but methodologically limited clinical trials reported to date. [1] ",
+            "cite_spans": [
+                {
+                    "start": 723,
+                    "end": 726,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Well-designed and conducted clinical research imparts scientific and social benefit by increasing understanding of diseases and developing better means of prevention and treatment. Despite barriers such as financial cost, administrative burden, and time, formal clinical translational research is the route of choice for ascertaining the most safe and effective diagnostic and therapeutic approaches. Most medications with a promising mechanism or preclinical data suggesting safety and efficacy are not ultimately clinically successful. The overall failure rate of drug discovery has been estimated at 96%, including 90% at the clinical stage of development. [2] The underlying premise of ethical clinical research is that it is not known a priori whether a medication will be helpful or harmful for a given condition. Those with promising efficacy are studied for both benefit and harm prior to broader clinical implementation. However, despite benefit, all medications can have adverse effects and it is that balance that defines clinical value. For example, azithromycin may cause cardiac conduction abnormalities [3] . Hydroxychloroquine and chloroquine can cause conduction abnormalities, hypotension, hypokalemia, nausea, vomiting, and seizures [4] . Clinical equipoise exists when there is expert uncertainty about the relative merits of different treatments and can be invoked in justifying the use of a control group receiving usual care or placebo. By using formal protocols that articulate an approach that enhances the likelihood of learning about the safety and efficacy of a particular intervention along with ethics review, clinical research promotes scientific discovery while respecting patient autonomy, minimizing harms, and assuring that the risks of untested interventions are fairly borne. By formalizing the informed consent process, clinical research helps to ensure that patients are aware of the risks and uncertainties associated with the use of unproven interventions.",
+            "cite_spans": [
+                {
+                    "start": 660,
+                    "end": 663,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1118,
+                    "end": 1121,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1252,
+                    "end": 1255,
+                    "text": "[4]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Research Administration of Unproven Medications"
+        },
+        {
+            "text": "Although clinical research is the best mechanism to gather data regarding unproven medications, certain patients may not have access to clinical trials. For instance, patients may have disqualifying comorbidities or geographic limitations that prevent enrollment in research. The US FDA Expanded Access program (formerly called \"compassionate use\") is an option for such patients. Expanded access allows for administration of unapproved and unproven medications to individuals with approval of FDA, Institutional Review Board (IRB) oversight, and agreement by the drug manufacturer [5] . In the event of a public health emergency, FDA can also grant an EUA for a given drug, which allows the use of unapproved or unproven drugs for treatment of an illness without an efficacious approved treatment [6] . In March 2020, FDA issued an EUA for chloroquine and hydroxychloroquine, which allowed distribution of the drugs from the Strategic National Stockpile to patients with COVID-19 [7] . On May, 1, FDA issued an EUA allowing the investigational antiviral remdesivir to be administered to patients with COVID-19 who met certain clinical criteria [8] .",
+            "cite_spans": [
+                {
+                    "start": 582,
+                    "end": 585,
+                    "text": "[5]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 798,
+                    "end": 801,
+                    "text": "[6]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 981,
+                    "end": 984,
+                    "text": "[7]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1145,
+                    "end": 1148,
+                    "text": "[8]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Expanded Access and Emergency Use Authorization"
+        },
+        {
+            "text": "Expanded access and EUA programs both involve explicit approval processes and require formalized collection of data and reporting of adverse events. Because there is no \"usual care\" arm accompanying medication use in these formats, the resulting data are not as interpretable as those generated in a clinical trial. For example, during the 2014 Ebola Virus Disease (EVD) outbreak, many new therapies (including chloroquine and hydroxychloroquine) were administered, but ultimately none were shown to be successful. The failure to identify appropriate therapies for EVD was, in part, attributed to the overuse of expanded access and the lack of controlled studies [9] .",
+            "cite_spans": [
+                {
+                    "start": 663,
+                    "end": 666,
+                    "text": "[9]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Expanded Access and Emergency Use Authorization"
+        },
+        {
+            "text": "Off-label use, the practice of prescribing FDA-approved medications outside of their approved indications, is another option for using unproven medications. Off-label prescribing is common in everyday clinical practice because it is not practical to obtain formal FDA approval for every condition and population where a medication may be helpful. The practice may be appropriate when the clinician judges they have enough evidence to suggest the use of the medication is in the patient's best interest. However, off-label prescribing is the least rigorous way to attempt to treat COVID-19 because this pathway has the least ethical and regulatory oversight and offers the least opportunity to learn from the administration of unproven medications.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Off-Label Use"
+        },
+        {
+            "text": "Furthermore, a medication should never be prescribed with the intent of experimentation or research outside of a protocol formally approved by an IRB. That is, off-label use should be supported by evidence. Although evidence derived from high quality, adequately powered randomized controlled trials are ideal, uncontrolled trials or, in extraordinary indications, case reports may provide the only data available to justify off-label use. Greater potential benefit justifies higher risks. In keeping with shared medical decision making, clinicians should disclose the risks of unproven medications to patients and ensure that such a use comports with patients' preferences.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Off-Label Use"
+        },
+        {
+            "text": "Disclosure of the off-label status of medication should be part of this discussion.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Off-Label Use"
+        },
+        {
+            "text": "Off-label prescription and use can also be associated with additional problematic implications including diversion of medications, hoarding, and hindering clinical research.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Off-Label Use"
+        },
+        {
+            "text": "Off-label prescription for treating COVID-19 may also inappropriately divert medication from patients who currently need them. Indeed, prescription medication shortages have been present for years and are being exacerbated by the COVID-19 epidemic [10] . Currently, patients with autoimmune conditions are experiencing difficulty obtaining hydroxychloroquine [11] . Medical evidence as well as medication availability should be considered when recommending off-label administration for unproven indications. In general, patients with conditions with established benefit from a drug should be prioritized to receive scarce medications over those with conditions (or potential conditions) with unclear benefit.",
+            "cite_spans": [
+                {
+                    "start": 248,
+                    "end": 252,
+                    "text": "[10]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 359,
+                    "end": 363,
+                    "text": "[11]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Diversion of Medications"
+        },
+        {
+            "text": "Hoarding \"Hoarding\" medications is the practice of inappropriately securing a supply of a medication among those who are not yet ill, such as for prescribers or their family members. This is problematic since the pharmacy supply chain does not have sufficient capacity to provide all such medications for everyone who desires it, especially at a time when supply chains have been severely disrupted. As a result, hoarding can make medications unavailable for those who need it for the potential benefit of people who currently do not and who may never need it. Prescribers should eschew the practice of off-label prescribing for unproven use, because it unjustly encourages allocation of a limited resource without consideration for need.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diversion of Medications"
+        },
+        {
+            "text": "Hindering Clinical Research Off-label prescribing for COVID-19 may interfere with clinical research by precluding patients from participating in trials of the intervention. The off-label use of a medication may also disqualify a patient from participating in clinical trials investigating another medication. Administration of nonstandard therapies may be an exclusion criterion in clinical trials because of concern for toxicity or the challenge of isolating the cause of a positive therapeutic effect if several medications are simultaneously administered. Clinicians are reporting that patients have been unable to participate in clinical trials because they are receiving off-label medications such as hydroxychloroquine and chloroquine [12] .",
+            "cite_spans": [
+                {
+                    "start": 741,
+                    "end": 745,
+                    "text": "[12]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Diversion of Medications"
+        },
+        {
+            "text": "Finally, in the setting of COVID-19, it is especially important to try to learn from any off-label use of medications despite the inherent limitations of doing so. This could include case reports that identify credible negative as well as positive experiences, aggregating and analyzing information about such uses from electronic health records, establishing curated registries of off-label use, and reporting adverse events to postmarketing surveillance programs such as MedWatch. [13] Recommendations ACMT recommends providing the best possible care for individual patients while prioritizing research activities that add to generating reliable, valid, and generalizable medical knowledge. When there is no proven therapy for a condition, clinical research formalizes processes to ensure that a wide range of individuals have access to investigational therapies, which more fairly distributes the risks and benefits of research and creates results that are more generalizable to the population at large. Both clinical research and expanded access programs include oversight and mechanisms designed to promote a robust consent process while accommodating the collection of information about safety and efficacy. ACMT believes there is a limited role for medications with an Emergency Use Authorization and some off-label use of medications for treating patients with COVID-19 when emerging data suggest the practice is in the best interest of the patient and opportunities for clinical research and expanded access are not available. Patients should be informed of the potential risks of using medications in these ways, including the risk that receiving a medication off-label may prevent administration of more promising therapies. Clinicians should share information gained by off-label drug use.",
+            "cite_spans": [
+                {
+                    "start": 483,
+                    "end": 487,
+                    "text": "[13]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Diversion of Medications"
+        },
+        {
+            "text": "While individual practices may differ, this is the position of the American College of Medical Toxicology (ACMT) at the time written, after a review of the issue and pertinent literature.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Disclaimer"
+        },
+        {
+            "text": "Conflict of Interest None",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Compliance with Ethical Standards"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Safety considerations with chloroquine, hydroxychloroquine, and azithromycin in the management of SARS-CoV-2 infection",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Juurlink",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "CMAJ",
+            "volume": "192",
+            "issn": "17",
+            "pages": "450--453",
+            "other_ids": {
+                "DOI": [
+                    "10.1503/cmaj.200528"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Improving the odds of drug development success through human genomics: modelling study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hingorani",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Finan",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kruger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gaulton",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chopade",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Sci Rep",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Stork CM. Antibacterials, antifungals, and antivirals",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Howland",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lewin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Goldfrank",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Goldfrank's Toxicologic Emergencies, 11ed",
+            "authors": [],
+            "year": 2020,
+            "venue": "RS",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Goldfrank's Toxicologic Emergencies, 11ed",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Barry",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Antimalarials ; Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Howland",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lewin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Goldfrank",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hoffman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Overview of FDA's expanded access program for investigational drugs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Jarow",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lurie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Crowley",
+                    "middle": [],
+                    "last": "Ikenberry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lemery",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Ther Innov Regul Sci",
+            "volume": "51",
+            "issn": "",
+            "pages": "177--186",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Emergency Use Authorization of medical products and related authorities: guidance for industry and other stakeholders",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1503/cmaj.200528"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Emergency use authorization: Emergency Use Authorization (EUA) information and list of all current EUAs",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1503/cmaj.200528"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Coronavirus (COVID-19) update: FDA issues emergency use authorization for potential COVID-19 treatment",
+            "authors": [],
+            "year": 2020,
+            "venue": "US Food and Drug Administration",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1503/cmaj.200528"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Treating COVID-19-Off-label drug use, compassionate use, and randomized clinical trials during pandemics",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kalil",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "JAMA",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.4742"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "American College of Medical Toxicology. Medication Shortages During Coronavirus Disease Pandemic",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1503/cmaj.200528"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "American Society of Health Systems Pharmacists. Current drug shortages",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1503/cmaj.200528"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Is hydroxychloroquine making clinical trials harder?",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Talpos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1503/cmaj.200528"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Postmarketing surveillance programs",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1503/cmaj.200528"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {},
+    "back_matter": []
+}
